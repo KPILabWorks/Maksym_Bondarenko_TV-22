@@ -1,11 +1,21 @@
-#In order to run a specific task in Docker:
+# Running a Specific Task with Docker or Python
 
-1. cd <task№>
-2. docker build -t <name> .
-3. docker up --rm <name>
+## Running with Docker
 
-#Or you can install everything from requirements.txt:
+To execute a specific task using Docker, follow these steps:
 
-1. cd <task№>
-2. pip install -r requirements.tst
-3. python ./main
+```sh
+cd <task№>
+docker build -t my_task .
+docker run --rm my_task
+```
+
+## Running locally
+
+To execute a specific task directly on your pc, follow these steps:
+
+```sh
+cd <task№>
+pip install -r requirements.tst
+python ./main
+```
