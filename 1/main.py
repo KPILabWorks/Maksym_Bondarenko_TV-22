@@ -1,5 +1,5 @@
 def custom_zip(*iterables, strict=False):
-    iterators = [iter(it) for it in iterables]
+    iterators = [iter(it.items() if isinstance(it, dict) else it) for it in iterables]
 
     while iterators:
         result = []
@@ -14,6 +14,7 @@ def custom_zip(*iterables, strict=False):
 
 list1 = [1, 2, 3, 4, 5]
 list2 = ['a', 'b', 'c']
-list3 = [True, False, None, True]
+tuple1 = (True, False)
+map1 = {'a':1,'b':2}
 
-print(list(custom_zip(list1,list2,list3, strict=True)))
+print(list(custom_zip(list1,list2,tuple1,map1)))
