@@ -1,6 +1,4 @@
-from itertools import tee
-
-def custom_zip(*iterables):
+def custom_zip(*iterables, strict=False):
     iterators = [iter(it) for it in iterables]
 
     while iterators:
@@ -9,6 +7,8 @@ def custom_zip(*iterables):
             try:
                 result.append(next(it))
             except StopIteration:
+                if strict:
+                    raise ValueError("Found iterables of different sizes")
                 return
         yield tuple(result)
 
@@ -16,4 +16,4 @@ list1 = [1, 2, 3, 4, 5]
 list2 = ['a', 'b', 'c']
 list3 = [True, False, None, True]
 
-print(list(custom_zip(list1,list2,list3)))
+print(list(custom_zip(list1,list2,list3, strict=True)))
