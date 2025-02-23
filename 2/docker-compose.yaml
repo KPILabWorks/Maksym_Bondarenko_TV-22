@@ -1,0 +1,6 @@
+services:
+  air_quality_analysis:
+    build: .
+    volumes:
+      - ./openaq.json:/app/openaq.json
+      - ./results:/app/results

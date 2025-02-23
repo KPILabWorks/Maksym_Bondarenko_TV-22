@@ -1,0 +1,5 @@
+openaq.json
+Readme.md
+Dockerfile
+docker-compose.yaml
+.dockerignore

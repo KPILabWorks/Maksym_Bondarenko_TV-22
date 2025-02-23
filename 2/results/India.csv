@@ -1,0 +1,2455 @@
+measurements_parameter,city,location,measurements_value,measurements_lastupdated
+O3,,"Nehru Nagar, Delhi - DPCC",6.8,2022-10-31 00:45:00+00:00
+CO,,"Ashok Vihar, Delhi - DPCC",800.0,2022-10-30 23:00:00+00:00
+PM10,,"Rohini, Delhi - DPCC",345.0,2022-10-31 00:45:00+00:00
+NO2,,"Teri Gram, Gurugram - HSPCB",30.75,2022-10-16 16:00:00+00:00
+SO2,,"Railway Colony, Guwahati - PCBA",11.32,2022-10-31 01:45:00+00:00
+SO2,,"Sector 11, Faridabad - HSPCB",0.07,2022-10-16 15:45:00+00:00
+NO2,,"Polayathode, Kollam - Kerala PCB",5.1,2022-10-16 15:45:00+00:00
+PM10,,"Kacheripady, Ernakulam - Kerala PCB",18.8,2022-10-16 16:00:00+00:00
+CO,,"Kacheripady, Ernakulam - Kerala PCB",1140.0,2022-10-16 16:00:00+00:00
+PM10,,"Royapuram, Chennai - TNPCB",11.0,2022-10-16 16:00:00+00:00
+SO2,,"Royapuram, Chennai - TNPCB",3.7,2022-10-16 16:00:00+00:00
+PM2.5,,"Arumbakkam, Chennai - TNPCB",10.0,2022-10-16 16:00:00+00:00
+PM10,,"Arumbakkam, Chennai - TNPCB",11.0,2022-10-16 16:00:00+00:00
+SO2,,"Lodhi Road, Delhi - IITM",6.98,2022-08-02 09:30:00+00:00
+O3,,"Mulund West, Mumbai - MPCB",9.79,2022-05-14 10:45:00+00:00
+NO2,,"Naubad, Bidar - KSPCB",4.9,2022-10-16 10:15:00+00:00
+NO2,,"Rajbagh, Srinagar - JKSPCB",0.0,2022-10-16 16:00:00+00:00
+PM10,,"SAC ISRO Satellite, Ahmedabad - IITM",66.28,2022-07-07 09:15:00+00:00
+CO,,"Kamalnath Nagar, Bettiah - BSPCB",930.0,2022-10-16 15:45:00+00:00
+O3,,"Nagla Bhau, Firozabad - UPPCB",0.0,2022-10-31 02:00:00+00:00
+PM10,,"D M Colony, Bihar Sharif - BSPCB",108.0,2022-10-31 01:45:00+00:00
+SO2,,"Shahjahan Garden, Agra - UPPCB",24.18,2022-10-31 02:00:00+00:00
+O3,,"Central Jail, Buxar - BSPCB",16.2,2022-10-31 01:45:00+00:00
+NO2,,"Buddhi Vihar, Moradabad - UPPCB",31.05,2022-10-16 16:00:00+00:00
+NO2,,"Shivaji Nagar, Jhansi - UPPCB",26.36,2022-10-31 02:00:00+00:00
+NO2,,"Raikhad, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+NO2,,"Bardowali, Agartala - Tripura SPCB",11.34,2022-10-31 02:00:00+00:00
+PM10,,"Zero Point GICI, Gangtok - SSPCB",0.0,2022-10-31 01:45:00+00:00
+SO2,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+O3,,"Vibhab Nagar, Firozabad - UPPCB",27.17,2022-10-31 02:00:00+00:00
+SO2,,"IITH Kandi, Hyderabad - TSPCB",5.64,2022-10-31 02:00:00+00:00
+O3,,"IITH Kandi, Hyderabad - TSPCB",7.62,2022-10-31 02:00:00+00:00
+CO,,"Ramachandrapuram, Hyderabad - TSPCB",770.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Rajendra Nagar, Bareilly - UPPCB",63.05,2022-10-31 02:00:00+00:00
+SO2,,"Vasanthapuram, Vellore - TNPCB",15.96,2022-10-31 01:45:00+00:00
+SO2,,"Nishant Ganj, Lucknow - UPPCB",2.8,2019-08-21 08:15:00+00:00
+PM2.5,,"GM Office, Brajrajnagar - OSPCB",0.0,2022-10-14 20:00:00+00:00
+NO2,,"ITO, Delhi - CPCB",22.17,2020-01-20 07:15:00+00:00
+PM2.5,,"Padmapukur, Howrah - WBPCB",40.8,2022-10-31 01:45:00+00:00
+O3,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",16.5,2022-10-16 16:00:00+00:00
+PM2.5,,"DTU, Delhi - CPCB",217.0,2022-10-31 01:45:00+00:00
+PM2.5,,"GVM Corporation, Visakhapatnam - APPCB",66.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Shadipur, Delhi - CPCB",139.2,2022-10-31 02:00:00+00:00
+O3,,"Adarsh Nagar, Jaipur - RSPCB",3.41,2022-10-31 02:00:00+00:00
+PM2.5,,"Mandir Marg, New Delhi - DPCC",134.0,2018-05-12 04:30:00+00:00
+CO,,"Plammoodu, Thiruvananthapuram - Kerala PCB",840.0,2022-10-31 02:00:00+00:00
+CO,,"Sanathnagar, Hyderabad - TSPCB",1130.0,2022-10-31 02:00:00+00:00
+O3,,"Jawaharlal Nehru Stadium, Delhi - DPCC",200.5,2018-05-10 09:30:00+00:00
+CO,,"Sonia Vihar, Delhi - DPCC",0.6,2018-05-11 11:45:00+00:00
+CO,,"Dwarka-Sector 8, Delhi - DPCC",1700.0,2018-05-12 05:00:00+00:00
+NO2,,"Rabindra Bharati University, Kolkata - WBPCB",15.0,2022-03-24 23:30:00+00:00
+SO2,,"IHBAS, Dilshad Garden, Delhi - CPCB",5.9,2022-10-31 01:45:00+00:00
+PM2.5,,"Dwarka-Sector 8, Delhi - DPCC",246.0,2022-10-31 00:45:00+00:00
+SO2,,"Arya Nagar, Bahadurgarh - HSPCB",8.59,2022-10-31 01:30:00+00:00
+O3,,"Arya Nagar, Bahadurgarh - HSPCB",39.26,2022-10-31 01:30:00+00:00
+SO2,,"Kalal Majra, Khanna - PPCB",7.95,2022-10-31 01:00:00+00:00
+NO2,,"Railway Colony, Guwahati - APCB",8.64,2019-12-24 07:30:00+00:00
+CO,,"Phase-4 GIDC, Vatva - GPCB",760.0,2022-10-31 02:00:00+00:00
+CO,,"Mahape, Navi Mumbai - MPCB",1130.0,2022-10-16 15:45:00+00:00
+O3,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",29.5,2022-10-31 01:45:00+00:00
+SO2,,"Murthal, Sonipat - HSPCB",20.33,2020-01-02 06:45:00+00:00
+NO2,,"Jawaharlal Nehru Stadium, Delhi - DPCC",88.7,2022-10-31 00:45:00+00:00
+O3,,"Worli, Mumbai - MPCB",3.99,2022-10-31 02:00:00+00:00
+SO2,,"Worli, Mumbai - MPCB",12.56,2022-10-31 02:00:00+00:00
+CO,,"Shrivastav Colony, Damoh - MPPCB",490.0,2022-10-31 02:00:00+00:00
+O3,,"Patti Mehar, Ambala - HSPCB",7.91,2022-10-31 01:45:00+00:00
+SO2,,"Sector-1, Noida - UPPCB",21.1,2022-10-16 16:00:00+00:00
+CO,,"Fort William, Kolkata - WBPCB",540.0,2022-10-31 01:45:00+00:00
+CO,,"Yamunapuram, Bulandshahr - UPPCB",1750.0,2022-10-16 16:00:00+00:00
+CO,,"Vile Parle West, Mumbai - MPCB",1080.0,2022-10-31 01:45:00+00:00
+CO,,"Loni, Ghaziabad - UPPCB",2220.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Shyam Nagar, Palwal - HSPCB",17.2,2022-10-31 01:30:00+00:00
+PM2.5,,"Sector-7, Kurukshetra - HSPCB",154.81,2022-10-31 01:45:00+00:00
+NO2,,"Sikulpuikawn, Aizawl - Mizoram PCB",0.06,2022-10-16 15:45:00+00:00
+PM10,,"Ibrahimpur, Vijayapura - KSPCB",38.72,2022-10-16 16:00:00+00:00
+PM2.5,,"Income Tax Office, Delhi - CPCB",224.0,2018-02-22 03:45:00+00:00
+SO2,,"Lalbagh, DN Park",30.9,2018-02-22 04:00:00+00:00
+SO2,,"IHBAS, Delhi - CPCB",6.42,2018-02-22 02:45:00+00:00
+PM2.5,,"Haldia, Haldia - WBPCB",24.39,2022-10-31 02:00:00+00:00
+PM10,,Collectorate Jodhpur - RSPCB,353.0,2018-02-22 03:45:00+00:00
+NO2,,City Railway Station - KSPCB,46.86,2018-02-22 03:00:00+00:00
+PM10,,Victoria Memorial - WBSPCB,123.07,2017-10-18 03:15:00+00:00
+PM2.5,,Central School,190.61,2018-02-22 04:00:00+00:00
+PM2.5,,"Sector-6, Panchkula - HSPCB",19.17,2022-10-31 01:45:00+00:00
+PM10,,AAQMS Karve Road Pune,165.0,2018-02-22 03:00:00+00:00
+CO,,"Anand Vihar, Delhi - DPCC",400.0,2022-10-31 00:30:00+00:00
+O3,,"Model Town, Patiala - PPCB",27.5,2022-10-31 01:45:00+00:00
+PM2.5,,"Model Town, Patiala - PPCB",93.44,2022-10-31 01:45:00+00:00
+PM2.5,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",10.21,2022-08-02 05:15:00+00:00
+SO2,,"MD University, Rohtak - HSPCB",46.43,2020-01-01 11:00:00+00:00
+CO,,"Muradpur, Patna - BSPCB",2150.0,2022-10-16 15:45:00+00:00
+O3,,"Samanpura, Patna - BSPCB",23.43,2022-10-16 15:45:00+00:00
+PM10,,"Bidhannagar, Kolkata - WBPCB",75.34,2022-10-16 15:45:00+00:00
+PM10,,"Lumpyngngad, Shillong - Meghalaya PCB",31.0,2022-10-16 16:00:00+00:00
+O3,,"Chhoti Gwaltoli, Indore - MPPCB",9.4,2022-10-16 16:00:00+00:00
+CO,,"Sanjay Nagar, Ghaziabad - UPPCB",2640.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Royapuram, Chennai - TNPCB",2.0,2022-10-16 16:00:00+00:00
+CO,,"Kodungaiyur, Chennai - TNPCB",230.0,2022-10-16 16:00:00+00:00
+CO,,"Lodhi Road, Delhi - IITM",500.0,2022-08-02 09:30:00+00:00
+SO2,,"Revenue Colony-Shivajinagar, Pune - IITM",1.48,2022-07-07 07:15:00+00:00
+NO2,,"Chakala-Andheri East, Mumbai - IITM",116.44,2022-10-16 13:00:00+00:00
+NO2,,"Alandi, Pune - IITM",11.72,2022-07-21 04:45:00+00:00
+O3,,"Kandivali East, Mumbai - MPCB",8.57,2022-10-12 08:45:00+00:00
+SO2,,"Panchal Nagar, Gadag - KSPCB",19.22,2022-10-15 09:30:00+00:00
+SO2,,"Devaraj Urs Badavane, Davanagere - KSPCB",0.86,2022-10-16 13:00:00+00:00
+CO,,"Hadapsar, Pune - IITM",990.0,2022-06-22 08:45:00+00:00
+NO2,,"MIT-Kothrud, Pune - IITM",11.64,2022-07-11 05:15:00+00:00
+O3,,"MIT-Kothrud, Pune - IITM",214.2,2022-07-11 05:15:00+00:00
+PM10,,"Brahmagiri, Udupi - KSPCB",24.0,2022-10-16 01:00:00+00:00
+O3,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",0.04,2022-10-16 16:00:00+00:00
+O3,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",10.84,2022-07-08 07:00:00+00:00
+NO2,,"Town Hall, Munger - BSPCB",8.8,2022-10-31 01:45:00+00:00
+O3,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+O3,,"Kareemganj, Gaya - BSPCB",8.2,2022-10-31 01:45:00+00:00
+PM10,,"Dangi Tola, Rajgir - BSPCB",154.0,2022-10-16 15:45:00+00:00
+O3,,"Dangi Tola, Rajgir - BSPCB",21.2,2022-10-16 15:45:00+00:00
+PM10,,"Forest Rest House, Manguraha - BSPCB",30.0,2022-10-16 14:45:00+00:00
+NO2,,"Jigar Colony, Moradabad - UPPCB",8.08,2022-10-31 02:00:00+00:00
+PM10,,"Sardar Patel Inter College, Baghpat - UPPCB",230.0,2022-10-31 02:00:00+00:00
+PM10,,"DRCC Anandpur, Begusarai - BSPCB",510.0,2022-10-31 01:45:00+00:00
+SO2,,"Ashwini Nagar, Haveri - KSPCB",12.93,2022-10-16 16:00:00+00:00
+O3,,"Ashwini Nagar, Haveri - KSPCB",14.75,2022-10-16 16:00:00+00:00
+NO2,,"DM College of Science, Imphal - Manipur PCB",5.79,2022-10-31 02:00:00+00:00
+PM10,,"Manipur University, Imphal - Manipur PCB",18.0,2022-10-15 09:45:00+00:00
+O3,,"Kompally Municipal Office, Hyderabad - TSPCB",11.4,2022-10-31 02:00:00+00:00
+PM2.5,,"Ramachandrapuram, Hyderabad - TSPCB",47.14,2022-10-31 02:00:00+00:00
+PM2.5,,"Kashiram Nagar, Moradabad - UPPCB",40.28,2022-10-31 02:00:00+00:00
+PM2.5,,"Crescent University, Chengalpattu - TNPCB",42.0,2022-10-14 04:30:00+00:00
+CO,,"Crescent University, Chengalpattu - TNPCB",780.0,2022-10-14 04:30:00+00:00
+PM2.5,,"Girls College, Sivasagar - PCBA",12.53,2022-10-31 02:00:00+00:00
+CO,,"Pusa, New Delhi - IMD",500.0,2018-05-14 02:00:00+00:00
+PM2.5,,"Ardhali Bazar, Varanasi - UPPCB",82.0,2022-10-31 02:00:00+00:00
+O3,,"Asansol Court Area, Asansol - WBPCB",59.97,2022-10-31 01:45:00+00:00
+O3,,"Shastri Nagar, Jaipur - RSPCB",37.78,2022-10-31 01:45:00+00:00
+SO2,,"Sector- 16A, Faridabad - HSPCB",22.27,2022-10-31 02:00:00+00:00
+CO,,"NSIT Dwarka, Delhi - CPCB",860.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Central University, Hyderabad - TSPCB",52.0,2022-10-31 02:00:00+00:00
+PM10,,"GVM Corporation, Visakhapatnam - APPCB",126.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Maninagar, Ahmedabad - GPCB",43.94,2022-10-31 01:45:00+00:00
+O3,,"Maninagar, Ahmedabad - GPCB",0.64,2022-10-31 01:45:00+00:00
+SO2,,"Police Commissionerate, Jaipur - RSPCB",20.22,2022-10-31 01:45:00+00:00
+CO,,"Lodhi Road, Delhi - IMD",1940.0,2022-10-16 10:15:00+00:00
+NO2,,"Shrinath Puram, Kota - RSPCB",9.54,2022-10-31 02:00:00+00:00
+CO,,"ICRISAT Patancheru, Hyderabad - TSPCB",20000.0,2022-03-24 23:30:00+00:00
+NO2,,"Velachery Res. Area, Chennai - CPCB",48.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Nehru Nagar, Kanpur - UPPCB",209.0,2022-10-31 02:00:00+00:00
+SO2,,"Patparganj, Delhi - DPCC",6.9,2018-05-08 06:30:00+00:00
+NO2,,"Dwarka-Sector 8, Delhi - DPCC",23.1,2018-05-12 05:00:00+00:00
+CO,,"Bandhavgar Colony, Satna - Birla Cement",560.0,2022-10-31 02:00:00+00:00
+SO2,,"Manali Village, Chennai - TNPCB",9.44,2019-07-19 05:15:00+00:00
+O3,,"Manali Village, Chennai - TNPCB",26.4,2019-07-19 05:15:00+00:00
+PM10,,"Vasai West, Mumbai - MPCB",119.76,2022-10-31 02:00:00+00:00
+O3,,"Major Dhyan Chand National Stadium, Delhi - DPCC",1.0,2022-10-31 00:45:00+00:00
+CO,,"Dwarka-Sector 8, Delhi - DPCC",1400.0,2022-10-31 00:45:00+00:00
+SO2,,"Phase-4 GIDC, Vatva - GPCB",3.09,2022-10-31 02:00:00+00:00
+PM10,,"Mahape, Navi Mumbai - MPCB",159.0,2022-10-16 15:45:00+00:00
+O3,,"H.B. Colony, Bhiwani - HSPCB",10.11,2022-10-31 01:45:00+00:00
+PM2.5,,"General Hospital, Mandikhera - HSPCB",27.1,2022-10-31 01:45:00+00:00
+NO2,,"Sector-2 IMT, Manesar - HSPCB",66.85,2022-10-31 01:45:00+00:00
+SO2,,"Powai, Mumbai - MPCB",21.29,2022-10-16 13:15:00+00:00
+O3,,"Sector-18, Panipat - HSPCB",28.04,2022-10-31 01:45:00+00:00
+SO2,,"Sion, Mumbai - MPCB",9.56,2022-10-31 01:45:00+00:00
+SO2,,"Jai Bhim Nagar, Meerut - UPPCB",11.2,2022-10-31 02:00:00+00:00
+NO2,,"Fort William, Kolkata - WBPCB",30.88,2022-10-31 01:45:00+00:00
+O3,,"Vile Parle West, Mumbai - MPCB",35.09,2022-10-31 01:45:00+00:00
+PM2.5,,"Shyam Nagar, Palwal - HSPCB",131.51,2020-01-01 09:15:00+00:00
+CO,,"Chhoti Gwaltoli, Indore - MPPCB",530.0,2020-01-06 09:15:00+00:00
+PM10,,"SFTI Kusdihra, Gaya - BSPCB",42.17,2022-10-16 15:30:00+00:00
+SO2,,"Khadakpada, Kalyan - MPCB",14.03,2022-10-31 01:45:00+00:00
+NO2,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",29.93,2022-07-27 07:30:00+00:00
+CO,,"Sikulpuikawn, Aizawl - Mizoram PCB",140.0,2022-10-16 15:45:00+00:00
+PM10,,"Jahangirpuri, Delhi - DPCC",399.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Delhi Technological University, Delhi - CPCB",451.0,2018-02-22 04:00:00+00:00
+SO2,,"Punjabi Bagh, Delhi - DPCC",3.1,2018-02-21 21:15:00+00:00
+SO2,,"MD University, Rohtak - HSPCB",13.55,2018-02-22 03:45:00+00:00
+PM10,,VK Industrial Area Jaipur - RSPCB,70.2,2017-06-12 05:30:00+00:00
+PM10,,Ardhali Bazar,519.0,2018-02-22 03:00:00+00:00
+CO,,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",840.0,2018-02-22 03:00:00+00:00
+PM2.5,,IGSC Planetarium Complex - Patna - BSPCB,203.0,2018-02-22 03:45:00+00:00
+PM2.5,,"Sanathnagar, Hyderabad - TSPCB",53.0,2018-02-22 03:00:00+00:00
+NO2,,"Solapur, Solapur - MPCB",56.63,2022-10-31 02:00:00+00:00
+O3,,"BTM Layout, Bengaluru - CPCB",18.84,2022-10-16 16:00:00+00:00
+SO2,,"Golden Temple, Amritsar - PPCB",7.21,2022-10-31 02:00:00+00:00
+SO2,,"Anand Vihar, Hapur - UPPCB",29.2,2022-10-31 02:00:00+00:00
+PM2.5,,"Sri Aurobindo Marg, Delhi - DPCC",232.0,2022-10-31 00:45:00+00:00
+NO2,,"Anand Vihar, Delhi - DPCC",17.5,2021-09-20 07:45:00+00:00
+PM10,,"Industrial Area, Hajipur - BSPCB",205.21,2022-10-16 16:00:00+00:00
+PM10,,"Muradpur, Patna - BSPCB",298.3,2022-10-16 15:45:00+00:00
+PM2.5,,"Mini Secretariat, Charkhi Dadri - HSPCB",74.0,2022-10-16 16:00:00+00:00
+O3,,"T T Nagar, Bhopal - MPPCB",0.9,2022-10-16 16:00:00+00:00
+CO,,"Polayathode, Kollam - Kerala PCB",650.0,2022-10-16 15:45:00+00:00
+O3,,"Polayathode, Kollam - Kerala PCB",25.01,2022-10-16 15:45:00+00:00
+PM10,,"NISE Gwal Pahari, Gurugram - IMD",152.05,2022-10-14 16:15:00+00:00
+CO,,"NISE Gwal Pahari, Gurugram - IMD",1930.0,2022-10-14 16:15:00+00:00
+PM2.5,,"Chandni Chowk, Delhi - IITM",44.7,2022-08-02 10:30:00+00:00
+NO2,,"Lodhi Road, Delhi - IITM",17.15,2022-08-02 09:30:00+00:00
+O3,,"Malad West, Mumbai - IITM",2.0,2022-10-16 15:45:00+00:00
+CO,,"Mulund West, Mumbai - MPCB",640.0,2022-10-16 15:45:00+00:00
+NO2,,"Haji Colony, Raichur - KSPCB",26.5,2022-10-16 09:30:00+00:00
+NO2,,"Pan Bazaar, Guwahati - PCBA",3.73,2022-10-16 16:00:00+00:00
+PM2.5,,"Rakhial, Ahmedabad - IITM",16.0,2022-07-13 06:30:00+00:00
+O3,,"GIFT City, Gandhinagar - IITM",15.22,2022-07-07 09:00:00+00:00
+CO,,"SAC ISRO Satellite, Ahmedabad - IITM",0.0,2022-07-07 09:15:00+00:00
+PM10,,"IESD Banaras Hindu University, Varanasi - UPPCB",134.3,2022-10-16 15:45:00+00:00
+NO2,,"Maldahiya, Varanasi - UPPCB",16.81,2022-10-31 02:00:00+00:00
+PM2.5,,"Nagla Bhau, Firozabad - UPPCB",59.48,2022-10-31 02:00:00+00:00
+CO,,"Employment Office, Moradabad - UPPCB",1100.0,2022-10-31 02:00:00+00:00
+NO2,,"Kareemganj, Gaya - BSPCB",31.3,2022-10-31 01:45:00+00:00
+PM10,,"HIMUDA Complex Phase-1, Baddi - HPPCB",68.0,2022-10-31 01:45:00+00:00
+NO2,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.07,2022-10-31 02:00:00+00:00
+O3,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",9.01,2022-10-31 02:00:00+00:00
+O3,,"Kumaran College, Tirupur - TNPCB",7.48,2022-10-16 15:45:00+00:00
+CO,,"Gulzarpet, Anantapur - APPCB",1250.0,2022-10-31 01:45:00+00:00
+CO,,"IITG, Guwahati - PCBA",200.0,2022-10-16 12:15:00+00:00
+CO,,"Ardhali Bazar, Varanasi - UPPCB",740.0,2022-10-31 02:00:00+00:00
+NO2,,"Gangapur Road, Nashik - MPCB",6.16,2022-10-31 02:00:00+00:00
+PM2.5,,"Pimpleshwar Mandir, Thane - MPCB",16.45,2022-05-22 07:45:00+00:00
+NO2,,"Peenya, Bengaluru - CPCB",31.84,2022-10-31 01:45:00+00:00
+NO2,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",11.8,2022-10-31 02:00:00+00:00
+SO2,,"Shastri Nagar, Jaipur - RSPCB",19.65,2022-10-31 01:45:00+00:00
+NO2,,"DTU, Delhi - CPCB",40.8,2022-10-31 01:45:00+00:00
+SO2,,"Karve Road, Pune - MPCB",300.0,2022-10-10 11:15:00+00:00
+PM10,,"Vasundhara, Ghaziabad - UPPCB",293.0,2022-10-31 02:00:00+00:00
+CO,,"Ghusuri, Howrah - WBPCB",260.0,2018-05-09 18:15:00+00:00
+PM10,,"Jawaharlal Nehru Stadium, Delhi - DPCC",378.0,2018-05-12 06:30:00+00:00
+O3,,"Dwarka-Sector 8, Delhi - DPCC",3.1,2022-10-31 00:45:00+00:00
+CO,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2200.0,2022-10-31 00:30:00+00:00
+O3,,"Sector-10, Gandhinagar - GPCB",1.61,2022-10-31 01:45:00+00:00
+SO2,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",44.0,2022-10-31 01:45:00+00:00
+NO2,,"Municipal Corporation Office, Dharuhera -  HSPCB",20.62,2022-10-31 01:45:00+00:00
+NO2,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",24.1,2022-10-31 02:00:00+00:00
+SO2,,"Borivali East, Mumbai - MPCB",9.58,2022-10-31 02:00:00+00:00
+O3,,"Sion, Mumbai - MPCB",7.38,2022-10-31 01:45:00+00:00
+O3,,"Shastri Nagar, Narnaul - HSPCB",5.05,2022-10-31 02:00:00+00:00
+CO,,"Rishi Nagar, Kaithal - HSPCB",460.0,2019-08-07 05:45:00+00:00
+CO,,"Silk Board, Bengaluru - KSPCB",590.0,2022-10-31 02:00:00+00:00
+NO2,,"Jai Bhim Nagar, Meerut - UPPCB",88.8,2022-10-31 02:00:00+00:00
+CO,,"Knowledge Park - III, Greater Noida - UPPCB",2730.0,2022-10-31 02:00:00+00:00
+PM10,,"New Collectorate, Baghpat - UPPCB",301.0,2022-01-31 04:45:00+00:00
+PM2.5,,"MD University, Rohtak - HSPCB",132.51,2022-10-31 01:45:00+00:00
+PM10,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",60.0,2022-07-27 19:45:00+00:00
+PM10,,"Sikulpuikawn, Aizawl - Mizoram PCB",8.0,2022-10-16 15:45:00+00:00
+PM10,,"Deen Dayal Nagar, Sagar - MPPCB",77.24,2022-09-28 09:00:00+00:00
+NO2,,"East Arjun Nagar, Delhi - CPCB",35.02,2022-01-26 07:00:00+00:00
+PM2.5,,"Lalbagh, DN Park",224.64,2018-02-22 04:00:00+00:00
+CO,,Alandur Bus Depot,5300.0,2017-10-11 08:45:00+00:00
+O3,,Collectorate Jodhpur - RSPCB,5.63,2016-06-24 10:45:00+00:00
+SO2,,"Rabindra Bharati University, Kolkata - WBSPCB",0.0,2017-10-28 14:30:00+00:00
+SO2,,"Talkatora District Industries Center, Lucknow - CPCB",9.8,2022-10-31 02:00:00+00:00
+NO2,,"Talkatora District Industries Center, Lucknow - CPCB",64.18,2022-10-31 02:00:00+00:00
+NO2,,Central School,9.56,2018-02-22 04:00:00+00:00
+SO2,,IIT,7.9,2018-02-22 03:45:00+00:00
+NO2,,SaneguravaHalli - KSPCB,23.67,2018-02-21 23:45:00+00:00
+NO2,,Nehru Nagar,109.3,2018-02-22 03:15:00+00:00
+PM2.5,,"Punjabi Bagh, Delhi - DPCC",74.0,2018-05-13 11:30:00+00:00
+CO,,"Burari Crossing, Delhi - IMD",1230.0,2022-08-03 11:00:00+00:00
+NO2,,"Model Town, Patiala - PPCB",21.12,2022-10-31 01:45:00+00:00
+O3,,"Golden Temple, Amritsar - PPCB",14.91,2022-10-31 02:00:00+00:00
+PM10,,"Alandur Bus Depot, Chennai - CPCB",136.57,2022-10-31 01:45:00+00:00
+PM10,,"Talcher Coalfields,Talcher - OSPCB",67.3,2022-10-31 01:00:00+00:00
+O3,,"Bawana, Delhi - DPCC",4.6,2022-10-31 00:45:00+00:00
+SO2,,"Sonia Vihar, Delhi - DPCC",6.0,2022-10-31 00:45:00+00:00
+O3,,"Industrial Area, Hajipur - BSPCB",8.67,2022-10-16 16:00:00+00:00
+PM2.5,,"Muradpur, Patna - BSPCB",25.2,2022-10-16 15:45:00+00:00
+O3,,"Muradpur, Patna - BSPCB",60.98,2022-10-16 15:45:00+00:00
+PM2.5,,"Ratanpura, Rupnagar - Ambuja Cements",83.38,2021-11-23 11:45:00+00:00
+SO2,,"Bidhannagar, Kolkata - WBPCB",7.53,2022-10-16 15:45:00+00:00
+PM2.5,,"Chhoti Gwaltoli, Indore - MPPCB",35.0,2022-10-16 16:00:00+00:00
+CO,,"ICRISAT Patancheru, Hyderabad - TSPCB",480.0,2022-10-31 01:45:00+00:00
+O3,,"Kalyana Nagara, Chikkamagaluru - KSPCB",40.08,2022-10-16 16:00:00+00:00
+O3,,"Rabindra Sarobar, Kolkata - WBPCB",7.5,2022-10-31 01:45:00+00:00
+O3,,"Sector-12, Karnal - HSPCB",4.73,2022-10-31 01:30:00+00:00
+PM2.5,,"Kacheripady, Ernakulam - Kerala PCB",8.0,2022-10-16 16:00:00+00:00
+CO,,"Ballygunge, Kolkata - WBPCB",1060.0,2022-10-16 16:00:00+00:00
+PM10,,"Vinoba Nagara, Shivamogga - KSPCB",52.32,2022-10-16 16:00:00+00:00
+CO,,"Chandni Chowk, Delhi - IITM",710.0,2022-08-02 10:30:00+00:00
+O3,,"Sector-19A Nerul, Navi Mumbai - IITM",4.0,2022-10-16 16:00:00+00:00
+SO2,,"Chakala-Andheri East, Mumbai - IITM",0.0,2022-10-16 13:00:00+00:00
+SO2,,"Diwator Nagar, Koppal - KSPCB",23.42,2022-10-16 14:45:00+00:00
+CO,,"IITK, Kanpur - IITK",1330.0,2022-10-16 16:00:00+00:00
+PM10,,"Kadri, Mangalore - KSPCB",58.37,2022-10-31 01:45:00+00:00
+NO2,,"Panchal Nagar, Gadag - KSPCB",4.21,2022-10-15 09:30:00+00:00
+PM2.5,,"B R Ambedkar University, Lucknow - UPPCB",67.28,2022-10-16 16:00:00+00:00
+PM2.5,,"GIFT City, Gandhinagar - IITM",25.2,2022-07-07 09:00:00+00:00
+PM10,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",101.92,2022-10-16 16:00:00+00:00
+PM10,,"Omex Eternity, Vrindavan - UPPCB",387.1,2022-10-31 02:00:00+00:00
+SO2,,"Omex Eternity, Vrindavan - UPPCB",38.34,2022-10-31 02:00:00+00:00
+PM10,,"FTI Kidwai Nagar, Kanpur - UPPCB",229.33,2022-10-31 02:00:00+00:00
+NO2,,"Mariam Nagar, Purnia - BSPCB",54.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Forest Rest House, Manguraha - BSPCB",23.0,2022-10-16 15:45:00+00:00
+CO,,"Bombay Castel, Ooty - TNPCB",190.0,2022-10-15 10:45:00+00:00
+PM10,,"Mendonsa Colony, Dindigul - TNPCB",1985.0,2022-10-16 16:00:00+00:00
+NO2,,"Gulzarpet, Anantapur - APPCB",44.24,2022-10-31 01:45:00+00:00
+CO,,"PSG College of Arts and Science, Coimbatore - TNPCB",1680.0,2022-10-31 02:00:00+00:00
+PM2.5,Kanpur,SPARTAN - IIT Kanpur,40.9,2019-11-25 13:00:00+00:00
+PM10,,"Alipur, Delhi - DPCC",449.0,2022-10-31 00:30:00+00:00
+O3,,"Railway Colony, Guwahati - APCB",18.14,2019-12-24 07:30:00+00:00
+PM10,,"Kurla, Mumbai - MPCB",67.0,2022-10-31 02:00:00+00:00
+PM10,,"Jawaharlal Nehru Stadium, Delhi - DPCC",317.0,2022-10-31 00:45:00+00:00
+NO2,,"Yamunapuram, Bulandshahr - UPPCB",17.8,2022-10-31 01:00:00+00:00
+PM2.5,,"Knowledge Park - V, Greater Noida - UPPCB",152.0,2022-10-31 02:00:00+00:00
+SO2,,"Knowledge Park - V, Greater Noida - UPPCB",6.6,2022-10-31 02:00:00+00:00
+PM2.5,,"Gomti Nagar, Lucknow - UPPCB",40.0,2022-10-16 16:00:00+00:00
+O3,,"Chhoti Gwaltoli, Indore - MPPCB",40.7,2020-01-06 09:15:00+00:00
+PM2.5,,"Ibrahimpur, Vijayapura - KSPCB",14.9,2022-10-16 16:00:00+00:00
+PM2.5,,"Jahangirpuri, Delhi - DPCC",250.0,2022-10-31 00:45:00+00:00
+PM2.5,,"MD University, Rohtak - HSPCB",132.25,2018-02-22 03:45:00+00:00
+O3,,VK Industrial Area Jaipur - RSPCB,116.63,2017-06-12 05:30:00+00:00
+SO2,,VK Industrial Area Jaipur - RSPCB,95.98,2017-06-12 05:30:00+00:00
+NO2,,"Sector16A, Faridabad - HSPCB",69.44,2018-02-22 03:25:00+00:00
+CO,,"Sector16A, Faridabad - HSPCB",10.0,2018-02-07 06:35:00+00:00
+O3,,Nehru Nagar,11.7,2018-02-22 03:15:00+00:00
+PM2.5,,"Talcher Coalfields,Talcher - OSPCB",30.41,2022-10-31 01:00:00+00:00
+NO2,,"Punjab Agricultural University, Ludhiana - PPCB",20.72,2022-10-31 02:00:00+00:00
+PM10,,"Collectorate, Jodhpur - RSPCB",250.7,2022-10-31 01:45:00+00:00
+NO2,,"Pimpleshwar Mandir, Thane - MPCB",37.46,2022-10-16 11:45:00+00:00
+CO,,"GM Office, Brajrajnagar - OSPCB",1300.0,2022-10-14 20:00:00+00:00
+PM10,,"Padmapukur, Howrah - WBPCB",66.6,2022-10-31 01:45:00+00:00
+NO2,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",75.5,2022-10-16 16:00:00+00:00
+PM10,,"Plammoodu, Thiruvananthapuram - Kerala PCB",56.0,2022-10-31 02:00:00+00:00
+NO2,,"Ward-32 Bapupara, Siliguri - WBPCB",23.91,2022-10-31 01:45:00+00:00
+NO2,,"Tirumala, Tirupati - APPCB",28.1,2022-10-31 02:00:00+00:00
+SO2,,"Lalbagh, Lucknow - CPCB",18.13,2022-10-31 01:45:00+00:00
+NO2,,"PWD Grounds, Vijayawada - APPCB",1.38,2020-11-19 08:15:00+00:00
+PM10,,"Ashok Vihar, Delhi - DPCC",392.0,2022-10-31 00:45:00+00:00
+O3,,"Mundka, Delhi - DPCC",15.2,2022-10-31 00:45:00+00:00
+O3,,"Govt. High School Shikarpur, Patna - BSPCB",26.13,2022-10-16 15:45:00+00:00
+NO2,,"Mini Secretariat, Charkhi Dadri - HSPCB",0.0,2022-10-16 16:00:00+00:00
+PM10,,"ICRISAT Patancheru, Hyderabad - TSPCB",113.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Murthal, Sonipat - HSPCB",56.57,2022-10-16 16:00:00+00:00
+SO2,,"City Center, Gwalior - MPPCB",23.8,2022-10-16 16:00:00+00:00
+NO2,,"T T Nagar, Bhopal - MPPCB",56.7,2022-10-16 16:00:00+00:00
+PM2.5,,"Kunjaban, Agartala - Tripura SPCB",68.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Revenue Colony-Shivajinagar, Pune - IITM",33.3,2022-07-07 07:15:00+00:00
+PM10,,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",3.0,2022-10-16 16:00:00+00:00
+O3,,"Motilal Nehru NIT, Prayagraj - UPPCB",3.64,2022-10-31 02:00:00+00:00
+PM10,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",26.1,2022-07-08 07:00:00+00:00
+PM10,,"GIFT City, Gandhinagar - IITM",48.3,2022-07-07 09:00:00+00:00
+PM2.5,,"SAC ISRO Satellite, Ahmedabad - IITM",32.93,2022-07-07 09:15:00+00:00
+PM2.5,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",61.57,2022-10-16 16:00:00+00:00
+PM2.5,,"Kamalnath Nagar, Bettiah - BSPCB",65.0,2022-10-16 15:45:00+00:00
+SO2,,"D M Colony, Bihar Sharif - BSPCB",8.0,2022-10-31 01:45:00+00:00
+PM10,,"Mangala, Bilaspur - NTPC",61.93,2022-10-31 02:00:00+00:00
+NO2,,"Employment Office, Moradabad - UPPCB",10.15,2022-10-31 02:00:00+00:00
+SO2,,"Mariam Nagar, Purnia - BSPCB",4.0,2022-10-31 01:45:00+00:00
+PM10,,"Mariam Nagar, Purnia - BSPCB",229.0,2022-10-31 01:45:00+00:00
+CO,,"Chitragupta Nagar, Siwan - BSPCB",790.0,2022-10-31 01:45:00+00:00
+NO2,,"Police Line, Saharsa - BSPCB",0.2,2022-10-16 15:45:00+00:00
+CO,,"Sector-53, Chandigarh - CPCC",1850.0,2022-10-31 01:45:00+00:00
+O3,,"DM Office_Kasipur, Samastipur - BSPCB",10.7,2022-10-31 01:45:00+00:00
+SO2,,"Vibhab Nagar, Firozabad - UPPCB",13.55,2022-10-31 02:00:00+00:00
+NO2,,"IITH Kandi, Hyderabad - TSPCB",4.23,2022-10-31 02:00:00+00:00
+PM2.5,,"Ramteerth Nagar, Belgaum - KSPCB",39.0,2022-10-31 01:45:00+00:00
+NO2,,"Girls College, Sivasagar - PCBA",7.27,2022-10-31 02:00:00+00:00
+PM10,,"City Railway Station, Bengaluru - KSPCB",76.87,2022-10-31 01:45:00+00:00
+CO,,"Secretariat, Amaravati - APPCB",690.0,2022-10-31 02:00:00+00:00
+SO2,,"Asansol Court Area, Asansol - WBPCB",9.26,2022-10-31 01:45:00+00:00
+SO2,,"Peenya, Bengaluru - CPCB",6.18,2022-10-31 01:45:00+00:00
+PM10,,"GM Office, Brajrajnagar - OSPCB",19.26,2022-10-14 20:00:00+00:00
+PM10,,"North Campus, DU, Delhi - IMD",235.44,2022-10-31 02:00:00+00:00
+CO,,"Shastri Nagar, Jaipur - RSPCB",30.0,2022-10-31 01:45:00+00:00
+CO,,"Opp GPO Civil Lines, Nagpur - MPCB",200.0,2022-10-31 00:45:00+00:00
+CO,,"DTU, Delhi - CPCB",1900.0,2022-10-31 01:45:00+00:00
+NO2,,"GVM Corporation, Visakhapatnam - APPCB",36.7,2022-10-31 02:00:00+00:00
+NO2,,"Maninagar, Ahmedabad - GPCB",74.29,2022-10-31 01:45:00+00:00
+O3,,"Central School, Lucknow - CPCB",6.64,2022-10-31 01:45:00+00:00
+PM10,,"Rohini, Delhi - DPCC",317.0,2018-05-12 06:30:00+00:00
+NO2,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",32.4,2018-05-09 11:00:00+00:00
+CO,,"Vivek Vihar, Delhi - DPCC",700.0,2018-05-10 09:00:00+00:00
+SO2,,"Major Dhyan Chand National Stadium, Delhi - DPCC",0.1,2018-05-12 04:30:00+00:00
+O3,,"Sonia Vihar, Delhi - DPCC",198.7,2018-05-11 11:45:00+00:00
+SO2,,"Ashok Vihar, Delhi - DPCC",2.3,2018-05-12 04:30:00+00:00
+NO2,,"Narela, Delhi - DPCC",38.2,2018-05-12 04:30:00+00:00
+CO,,"NISE Gwal Pahari, Gurugram - IMD",950.0,2018-11-16 04:00:00+00:00
+NO2,,"Punjabi Bagh, Delhi - DPCC",54.7,2022-10-16 14:15:00+00:00
+NO2,,"Mandir Marg, Delhi - DPCC",34.8,2022-10-31 00:45:00+00:00
+PM2.5,,"IHBAS, Dilshad Garden, Delhi - CPCB",99.5,2022-10-31 01:45:00+00:00
+SO2,,"Ratanpura, Rupnagar - Ambuja Cements",4.74,2022-10-31 01:45:00+00:00
+SO2,,"New Mandi, Muzaffarnagar - UPPCB",12.4,2022-10-31 02:00:00+00:00
+CO,,"Major Dhyan Chand National Stadium, Delhi - DPCC",300.0,2022-10-31 00:00:00+00:00
+CO,,"Alipur, Delhi - DPCC",1300.0,2022-10-31 00:30:00+00:00
+PM2.5,,"Mahape, Navi Mumbai - MPCB",40.0,2022-10-16 15:45:00+00:00
+SO2,,"Municipal Corporation Office, Dharuhera -  HSPCB",4.76,2022-10-31 01:45:00+00:00
+PM2.5,,"Murthal, Sonipat - HSPCB",77.68,2020-01-02 06:45:00+00:00
+O3,,"F-Block, Sirsa - HSPCB",7.13,2022-10-31 02:00:00+00:00
+CO,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",420.0,2020-01-02 23:30:00+00:00
+CO,,"Sector-18, Panipat - HSPCB",2060.0,2022-10-31 01:45:00+00:00
+PM10,,"Worli, Mumbai - MPCB",121.0,2022-10-31 02:00:00+00:00
+NO2,,"Patti Mehar, Ambala - HSPCB",2.71,2022-10-31 01:45:00+00:00
+PM10,,"Sector-1, Noida - UPPCB",374.0,2022-10-16 16:00:00+00:00
+NO2,,"Loni, Ghaziabad - UPPCB",70.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Loni, Ghaziabad - UPPCB",224.0,2022-10-31 02:00:00+00:00
+SO2,,"R K Puram, Delhi - DPCC",11.0,2022-10-30 23:00:00+00:00
+CO,,"Gomti Nagar, Lucknow - UPPCB",330.0,2022-10-16 16:00:00+00:00
+O3,,"Shyam Nagar, Palwal - HSPCB",18.9,2020-01-01 09:15:00+00:00
+CO,,"Shyam Nagar, Palwal - HSPCB",750.0,2022-10-31 01:30:00+00:00
+NO2,,"Sector-7, Kurukshetra - HSPCB",54.67,2022-10-31 01:45:00+00:00
+O3,,"Ganga Nagar, Meerut - UPPCB",18.8,2022-10-16 16:00:00+00:00
+SO2,,"Ganga Nagar, Meerut - UPPCB",9.0,2022-10-16 16:00:00+00:00
+SO2,,"Corporation Ground, Thrissur - Kerala PCB",0.65,2022-10-16 15:30:00+00:00
+O3,,"Jahangirpuri, Delhi - DPCC",0.5,2022-10-30 22:45:00+00:00
+PM2.5,,"Punjabi Bagh, Delhi - DPCC",183.0,2018-02-21 21:15:00+00:00
+PM10,,"Punjabi Bagh, Delhi - DPCC",322.0,2018-02-21 21:15:00+00:00
+O3,,"BTM Layout, Bengaluru - KSPCB",15.57,2018-02-22 03:00:00+00:00
+SO2,,Chandrapur,8.1,2018-02-22 04:00:00+00:00
+NO2,,VK Industrial Area Jaipur - RSPCB,39.55,2017-06-08 12:15:00+00:00
+O3,,"Talkatora District Industries Center, Lucknow - CPCB",12.24,2022-10-31 02:00:00+00:00
+SO2,,SaneguravaHalli - KSPCB,3.88,2018-02-21 23:45:00+00:00
+PM2.5,,Nehru Nagar,167.0,2018-02-22 03:15:00+00:00
+CO,,Navi Mumbai Municipal Corporation Airoli,1480.0,2020-04-09 00:15:00+00:00
+SO2,,"Anand Vihar, Delhi - DPCC",14.5,2022-10-31 00:15:00+00:00
+NO2,,"BTM Layout, Bengaluru - CPCB",15.58,2022-10-16 16:00:00+00:00
+NO2,,"MD University, Rohtak - HSPCB",0.0,2020-01-01 11:00:00+00:00
+NO2,,"Collectorate, Gaya - BSPCB",8.5,2022-10-31 02:00:00+00:00
+O3,,"Aya Nagar, Delhi - IMD",29.5,2022-10-31 01:15:00+00:00
+CO,,"Anand Vihar, Delhi - DPCC",2800.0,2021-09-20 07:45:00+00:00
+NO2,,"ITO, Delhi - CPCB",83.1,2022-10-31 01:45:00+00:00
+PM2.5,,"ITO, Delhi - CPCB",188.0,2022-10-31 01:45:00+00:00
+PM10,,"Vidayagiri, Bagalkot - KSPCB",43.47,2022-10-16 15:45:00+00:00
+NO2,,"Muradpur, Patna - BSPCB",0.0,2022-10-16 15:45:00+00:00
+CO,,"Ratanpura, Rupnagar - Ambuja Cements",580.0,2021-11-23 11:45:00+00:00
+SO2,,"Ratanpura, Rupnagar - Ambuja Cements",9.9,2021-11-23 11:45:00+00:00
+PM2.5,,"Bidhannagar, Kolkata - WBPCB",23.3,2022-10-16 15:45:00+00:00
+NO2,,"Bidhannagar, Kolkata - WBPCB",30.84,2022-10-16 15:45:00+00:00
+CO,,"Lumpyngngad, Shillong - Meghalaya PCB",280.0,2022-10-16 16:00:00+00:00
+NO2,,"Lumpyngngad, Shillong - Meghalaya PCB",0.0,2022-10-16 16:00:00+00:00
+NO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",23.3,2022-10-31 01:45:00+00:00
+SO2,,"Kalyana Nagara, Chikkamagaluru - KSPCB",3.77,2022-10-16 16:00:00+00:00
+PM10,,"Vijay Nagar, Ramanagara - KSPCB",59.0,2022-10-31 02:00:00+00:00
+PM10,,"Sector-12, Karnal - HSPCB",244.5,2022-10-31 01:30:00+00:00
+SO2,,"Sector-12, Karnal - HSPCB",8.02,2022-10-31 01:30:00+00:00
+PM10,,"Ballygunge, Kolkata - WBPCB",101.1,2022-10-16 16:00:00+00:00
+NO2,,"Vinoba Nagara, Shivamogga - KSPCB",952.91,2022-10-16 16:00:00+00:00
+PM10,,"Meelavittan, Thoothukudi - TNPCB",30.0,2022-10-16 16:00:00+00:00
+NO2,,"Arumbakkam, Chennai - TNPCB",6.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Stuart Hill, Madikeri - KSPCB",11.0,2022-10-16 16:00:00+00:00
+PM10,,"Bandra Kurla Complex, Mumbai - IITM",152.38,2022-10-16 15:45:00+00:00
+SO2,,"Chandni Chowk, Delhi - IITM",1.32,2022-08-02 10:30:00+00:00
+PM2.5,,"Lodhi Road, Delhi - IITM",42.3,2022-08-02 09:30:00+00:00
+PM2.5,,"Mulund West, Mumbai - MPCB",47.69,2022-10-16 15:45:00+00:00
+CO,,"Haji Colony, Raichur - KSPCB",1960.0,2022-10-16 09:30:00+00:00
+CO,,"Tamaka Ind. Area, Kolar - KSPCB",4040.0,2021-10-22 10:45:00+00:00
+PM2.5,,"Hadapsar, Pune - IITM",2.56,2022-06-22 08:45:00+00:00
+O3,,"Brahmagiri, Udupi - KSPCB",80.15,2022-10-16 01:00:00+00:00
+SO2,,"Brahmagiri, Udupi - KSPCB",34.0,2022-10-16 01:00:00+00:00
+NO2,,"B R Ambedkar University, Lucknow - UPPCB",16.31,2022-10-16 16:00:00+00:00
+NO2,,"Rakhial, Ahmedabad - IITM",15.84,2022-07-13 06:30:00+00:00
+PM2.5,,"Manoharpur, Agra - UPPCB",72.24,2022-10-31 02:00:00+00:00
+NO2,,"Manoharpur, Agra - UPPCB",31.25,2022-10-31 02:00:00+00:00
+PM10,,"Kamalnath Nagar, Bettiah - BSPCB",233.0,2022-10-16 15:45:00+00:00
+SO2,,"Gandak Colony, Motihari - BSPCB",1.4,2022-10-16 15:45:00+00:00
+PM10,,"Shahjahan Garden, Agra - UPPCB",121.32,2022-10-31 02:00:00+00:00
+CO,,"Police Line, Saharsa - BSPCB",0.0,2022-10-16 14:45:00+00:00
+SO2,,"Jigar Colony, Moradabad - UPPCB",20.52,2022-10-31 02:00:00+00:00
+O3,,"Raikhad, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+O3,,"DM College of Science, Imphal - Manipur PCB",189.48,2022-10-31 02:00:00+00:00
+PM10,,"JN Stadium, Shillong - Meghalaya PCB",24.74,2022-10-15 05:45:00+00:00
+O3,,"Transport Nagar, Moradabad - UPPCB",8.36,2022-10-31 02:00:00+00:00
+O3,,"Gulzarpet, Anantapur - APPCB",19.95,2022-10-31 01:45:00+00:00
+O3,,"Pimpleshwar Mandir, Thane - MPCB",49.75,2022-10-16 11:45:00+00:00
+PM10,,"Asansol Court Area, Asansol - WBPCB",183.05,2022-10-31 01:45:00+00:00
+O3,,"Nishant Ganj, Lucknow - UPPCB",27.0,2018-04-09 06:30:00+00:00
+PM2.5,,"ITO, Delhi - CPCB",162.0,2020-01-20 07:15:00+00:00
+O3,,"Opp GPO Civil Lines, Nagpur - MPCB",11.05,2022-10-31 00:45:00+00:00
+PM10,,"IDA Pashamylaram, Hyderabad - TSPCB",177.0,2022-10-31 02:00:00+00:00
+NO2,,"IDA Pashamylaram, Hyderabad - TSPCB",10.6,2022-10-31 02:00:00+00:00
+PM2.5,,"Lodhi Road, Delhi - IMD",64.29,2022-10-16 10:15:00+00:00
+SO2,,"Adarsh Nagar, Jaipur - RSPCB",12.0,2022-10-31 02:00:00+00:00
+SO2,,"R K Puram, New Delhi - DPCC",18.4,2018-05-06 19:30:00+00:00
+PM2.5,,"More Chowk Waluj, Aurangabad - MPCB",63.02,2022-10-31 01:45:00+00:00
+SO2,,"Plammoodu, Thiruvananthapuram - Kerala PCB",8.0,2022-10-31 02:00:00+00:00
+SO2,,"IGSC Planetarium Complex, Patna - BSPCB",5.0,2022-10-31 02:00:00+00:00
+CO,,"Jahangirpuri, Delhi - DPCC",2300.0,2018-05-12 04:30:00+00:00
+PM10,,"Rabindra Bharati University, Kolkata - WBPCB",134.0,2022-03-24 23:30:00+00:00
+PM10,,"IHBAS, Dilshad Garden, Delhi - CPCB",309.7,2022-10-31 01:45:00+00:00
+O3,,"Colaba, Mumbai - MPCB",2.49,2022-10-31 01:45:00+00:00
+CO,,"Gobind Pura, Yamuna Nagar - HSPCB",1240.0,2022-10-31 01:30:00+00:00
+PM2.5,,"Kalal Majra, Khanna - PPCB",54.51,2022-10-31 01:00:00+00:00
+CO,,"H.B. Colony, Bhiwani - HSPCB",1030.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Jadavpur, Kolkata - WBPCB",52.3,2022-10-31 02:00:00+00:00
+PM10,,"Jadavpur, Kolkata - WBPCB",102.5,2022-10-31 02:00:00+00:00
+CO,,"Jadavpur, Kolkata - WBPCB",1190.0,2022-10-31 02:00:00+00:00
+CO,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",0.34,2022-10-31 02:00:00+00:00
+PM10,,"Powai, Mumbai - MPCB",47.0,2022-10-16 13:15:00+00:00
+NO2,,"Udyogamandal, Eloor - Kerala PCB",14.71,2022-10-31 01:45:00+00:00
+O3,,"Jayanagar 5th Block, Bengaluru - KSPCB",31.28,2022-10-31 02:00:00+00:00
+NO2,,"Sector-1, Noida - UPPCB",121.1,2022-10-16 16:00:00+00:00
+CO,,"Hombegowda Nagar, Bengaluru - KSPCB",2.19,2022-10-16 16:00:00+00:00
+O3,,"Loni, Ghaziabad - UPPCB",112.4,2022-10-26 07:45:00+00:00
+PM2.5,,"R K Puram, Delhi - DPCC",268.0,2022-10-31 00:45:00+00:00
+PM10,,"R K Puram, Delhi - DPCC",364.0,2022-10-31 00:45:00+00:00
+O3,,"R K Puram, Delhi - DPCC",8.6,2022-10-31 00:45:00+00:00
+SO2,,"Gomti Nagar, Lucknow - UPPCB",7.7,2022-10-16 16:00:00+00:00
+PM2.5,,"Chhoti Gwaltoli, Indore - MPPCB",10.0,2020-01-06 09:15:00+00:00
+O3,,"East Arjun Nagar, Delhi - CPCB",12.37,2020-02-10 03:00:00+00:00
+PM10,,"Ganga Nagar, Meerut - UPPCB",309.0,2022-10-16 16:00:00+00:00
+NO2,,"Punjabi Bagh, Delhi - DPCC",92.9,2018-02-21 20:45:00+00:00
+NO2,,"Income Tax Office, Delhi - CPCB",132.1,2018-02-22 03:45:00+00:00
+SO2,,"Anand Vihar, Delhi - DPCC",8.9,2018-02-21 21:15:00+00:00
+SO2,,"Mandir Marg, Delhi - DPCC",14.47,2018-02-21 21:15:00+00:00
+NO2,,Collectorate - Gaya - BSPCB,43.7,2018-02-22 03:00:00+00:00
+PM2.5,,Chandrapur,91.0,2018-02-22 04:00:00+00:00
+NO2,,"Sanjay Palace, Agra - UPPCB",19.7,2022-10-31 02:00:00+00:00
+O3,,"Sanjay Palace, Agra - UPPCB",45.9,2022-10-31 02:00:00+00:00
+CO,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",0.0,2022-08-02 05:15:00+00:00
+PM10,,"BTM Layout, Bengaluru - CPCB",57.7,2022-10-16 16:00:00+00:00
+NO2,,"Golden Temple, Amritsar - PPCB",57.91,2022-10-31 02:00:00+00:00
+PM2.5,,"Alandur Bus Depot, Chennai - CPCB",88.77,2022-10-31 01:45:00+00:00
+PM2.5,,"Punjab Agricultural University, Ludhiana - PPCB",98.69,2022-10-31 02:00:00+00:00
+O3,,"Gole Bazar, Katni - MPPCB",47.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Nehru Nagar, Delhi - DPCC",280.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Vyttila, Kochi - Kerala PCB",42.5,2022-10-16 16:00:00+00:00
+CO,,"Govt. High School Shikarpur, Patna - BSPCB",540.0,2022-10-16 15:45:00+00:00
+PM10,,"Victoria, Kolkata - WBPCB",125.7,2022-10-31 01:45:00+00:00
+PM10,,"Ratanpura, Rupnagar - Ambuja Cements",182.54,2021-11-23 11:45:00+00:00
+CO,,"Thavakkara, Kannur - Kerala PCB",540.0,2022-10-16 15:30:00+00:00
+O3,,"Buddha Colony, Muzaffarpur - BSPCB",29.51,2022-10-16 15:30:00+00:00
+PM10,,"Sector-51, Gurugram - HSPCB",999.99,2022-10-16 16:00:00+00:00
+PM2.5,,"Sector-51, Gurugram - HSPCB",472.46,2022-10-16 16:00:00+00:00
+O3,,"Teri Gram, Gurugram - HSPCB",13.18,2022-10-16 16:00:00+00:00
+O3,,"PWD Juction, Kohima - NPCB",10.29,2022-10-16 16:00:00+00:00
+CO,,"Rabindra Sarobar, Kolkata - WBPCB",130.0,2022-10-31 01:45:00+00:00
+CO,,"Murthal, Sonipat - HSPCB",700.0,2022-10-16 16:00:00+00:00
+NO2,,"Sector 11, Faridabad - HSPCB",25.42,2022-10-16 15:45:00+00:00
+PM10,,"T T Nagar, Bhopal - MPPCB",304.0,2022-10-16 16:00:00+00:00
+PM2.5,,"T T Nagar, Bhopal - MPPCB",116.0,2022-10-16 16:00:00+00:00
+NO2,,"Chandni Chowk, Delhi - IITM",157.02,2022-08-02 10:30:00+00:00
+O3,,"Chandni Chowk, Delhi - IITM",13.38,2022-08-02 10:30:00+00:00
+NO2,,"Mhada Colony, Pune - IITM",10.97,2022-10-16 16:00:00+00:00
+CO,,"Malad West, Mumbai - IITM",3340.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Chakala-Andheri East, Mumbai - IITM",32.74,2022-10-16 13:00:00+00:00
+PM10,,"Diwator Nagar, Koppal - KSPCB",122.94,2022-10-16 14:45:00+00:00
+SO2,,"Kadri, Mangalore - KSPCB",7.23,2022-10-31 01:45:00+00:00
+NO2,,"Jawahar Nagar, Puducherry - PPCC",4.4,2022-10-16 16:00:00+00:00
+NO2,,"Jhunsi, Prayagraj - UPPCB",15.1,2022-10-16 16:00:00+00:00
+PM10,,"Manoharpur, Agra - UPPCB",105.3,2022-10-31 02:00:00+00:00
+SO2,,"Manoharpur, Agra - UPPCB",18.63,2022-10-31 02:00:00+00:00
+NO2,,"Bhelupur, Varanasi - UPPCB",56.67,2022-10-16 16:00:00+00:00
+NO2,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",4.3,2022-10-31 01:45:00+00:00
+O3,,"Omex Eternity, Vrindavan - UPPCB",0.56,2022-10-31 02:00:00+00:00
+PM2.5,,"Omex Eternity, Vrindavan - UPPCB",67.8,2022-10-31 02:00:00+00:00
+O3,,"Sector 22, Chandigarh - CPCC",14.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Sector 22, Chandigarh - CPCC",40.0,2022-10-31 01:45:00+00:00
+CO,,"Sector 22, Chandigarh - CPCC",600.0,2022-10-31 01:45:00+00:00
+PM10,,"Employment Office, Moradabad - UPPCB",79.15,2022-10-31 02:00:00+00:00
+CO,,"Dada Peer, Sasaram - BSPCB",1800.0,2022-10-31 01:45:00+00:00
+PM10,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+SO2,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+O3,,"Police Line, Saharsa - BSPCB",30.3,2022-10-16 15:45:00+00:00
+CO,,"Bardowali, Agartala - Tripura SPCB",1420.0,2022-10-31 02:00:00+00:00
+PM2.5,,"DM College of Science, Imphal - Manipur PCB",4.0,2022-10-31 02:00:00+00:00
+CO,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",990.0,2022-10-31 02:00:00+00:00
+SO2,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",4.95,2022-10-31 02:00:00+00:00
+SO2,,"Ramachandrapuram, Hyderabad - TSPCB",6.37,2022-10-31 02:00:00+00:00
+O3,,"Kashiram Nagar, Moradabad - UPPCB",9.22,2022-10-31 02:00:00+00:00
+PM10,,"Transport Nagar, Moradabad - UPPCB",167.38,2022-10-31 02:00:00+00:00
+O3,,"Bombay Castel, Ooty - TNPCB",4.47,2022-10-15 10:45:00+00:00
+NO2,,"Bombay Castel, Ooty - TNPCB",1.27,2022-10-15 10:45:00+00:00
+CO,,"SIPCOT Phase-1, Hosur - TNPCB",930.0,2022-10-31 01:45:00+00:00
+CO,,"Civil Lines, Bareilly - UPPCB",600.0,2022-10-31 02:00:00+00:00
+PM10,,"Civil Lines, Bareilly - UPPCB",111.56,2022-10-31 02:00:00+00:00
+O3,,"Girls College, Sivasagar - PCBA",1.39,2022-10-31 02:00:00+00:00
+SO2,,"Ashok Nagar, Udaipur - RSPCB",8.53,2022-10-31 01:45:00+00:00
+SO2,,"Ardhali Bazar, Varanasi - UPPCB",35.63,2022-10-31 02:00:00+00:00
+SO2,,"Pimpleshwar Mandir, Thane - MPCB",73.33,2022-10-16 11:45:00+00:00
+NO2,,"GM Office, Brajrajnagar - OSPCB",0.0,2022-10-14 20:00:00+00:00
+CO,,"Padmapukur, Howrah - WBPCB",70.0,2022-10-31 01:45:00+00:00
+SO2,,"NSIT Dwarka, Delhi - CPCB",2.0,2022-10-31 02:00:00+00:00
+NO2,,"CRRI Mathura Road, Delhi - IMD",3.52,2022-10-31 01:15:00+00:00
+CO,,"Shadipur, Delhi - CPCB",2410.0,2022-10-31 02:00:00+00:00
+PM10,,"Police Commissionerate, Jaipur - RSPCB",254.7,2022-10-31 01:45:00+00:00
+CO,,"Sanegurava Halli, Bengaluru - KSPCB",760.0,2022-10-31 02:00:00+00:00
+PM10,,"Velachery Res. Area, Chennai - CPCB",69.83,2022-10-31 01:45:00+00:00
+O3,,"Ashok Vihar, Delhi - DPCC",131.7,2018-05-12 04:30:00+00:00
+PM2.5,,"Mandir Marg, Delhi - DPCC",60.0,2022-10-31 00:45:00+00:00
+NO2,,"Vasai West, Mumbai - MPCB",26.51,2022-10-31 02:00:00+00:00
+NO2,,"Alipur, Delhi - DPCC",45.1,2022-10-31 00:30:00+00:00
+O3,,"Alipur, Delhi - DPCC",7.5,2022-10-31 00:30:00+00:00
+PM10,,"Urban Estate-II, Hisar - HSPCB",114.1,2022-10-31 01:45:00+00:00
+O3,,"Urban Estate-II, Hisar - HSPCB",82.7,2022-10-31 01:45:00+00:00
+PM10,,"Sector-10, Gandhinagar - GPCB",98.65,2022-10-31 01:45:00+00:00
+PM2.5,,"Vivek Vihar, Delhi - DPCC",287.0,2022-10-31 00:45:00+00:00
+PM10,,"Railway Colony, Guwahati - APCB",0.0,2019-12-24 07:30:00+00:00
+O3,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+SO2,,"F-Block, Sirsa - HSPCB",17.87,2022-10-31 02:00:00+00:00
+PM2.5,,"Sector-18, Panipat - HSPCB",89.5,2022-10-31 01:45:00+00:00
+PM2.5,,"Jayanagar 5th Block, Bengaluru - KSPCB",63.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Bapuji Nagar, Bengaluru - KSPCB",114.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Silk Board, Bengaluru - KSPCB",55.0,2022-10-31 02:00:00+00:00
+PM10,,"Hebbal, Bengaluru - KSPCB",94.0,2022-10-31 02:00:00+00:00
+CO,,"Knowledge Park - V, Greater Noida - UPPCB",2450.0,2022-10-31 02:00:00+00:00
+O3,,"Shyam Nagar, Palwal - HSPCB",12.85,2022-10-31 01:30:00+00:00
+SO2,,"Shyam Nagar, Palwal - HSPCB",10.96,2022-10-31 01:30:00+00:00
+O3,,"Hebbal 1st Stage, Mysuru - KSPCB",58.22,2020-01-03 11:15:00+00:00
+SO2,,"SFTI Kusdihra, Gaya - BSPCB",3.62,2022-10-16 15:30:00+00:00
+O3,,"DRM Office Danapur, Patna - BSPCB",46.75,2022-10-16 16:00:00+00:00
+NO2,,"Pallavpuram Phase 2, Meerut - UPPCB",70.9,2022-10-16 16:00:00+00:00
+NO2,,"Khadakpada, Kalyan - MPCB",17.14,2022-10-31 01:45:00+00:00
+O3,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",6.89,2022-10-31 01:00:00+00:00
+SO2,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",30.58,2022-10-31 01:00:00+00:00
+PM10,,"Corporation Ground, Thrissur - Kerala PCB",58.01,2022-10-16 15:30:00+00:00
+PM2.5,,"Deen Dayal Nagar, Sagar - MPPCB",32.14,2022-10-16 15:45:00+00:00
+PM2.5,,"Urban, Chamarajanagar - KSPCB",12.92,2022-10-31 02:00:00+00:00
+CO,,"Vikas Sadan, Gurugram - HSPCB",210.0,2022-10-31 02:00:00+00:00
+O3,,"Zoo Park, Hyderabad - TSPCB",14.1,2022-10-31 02:00:00+00:00
+PM2.5,,"Collectorate, Gaya - BSPCB",92.0,2022-10-31 02:00:00+00:00
+SO2,,"Vikas Sadan, Gurugram - HSPCB",25.92,2022-10-31 02:00:00+00:00
+CO,,"MD University, Rohtak - HSPCB",910.0,2018-02-22 03:45:00+00:00
+SO2,,"Zoo Park, Hyderabad - TSPCB",0.0,2022-10-31 02:00:00+00:00
+O3,,"Rabindra Bharati University, Kolkata - WBSPCB",433.31,2017-10-19 23:30:00+00:00
+PM2.5,,Victoria Memorial - WBSPCB,0.0,2017-10-16 20:45:00+00:00
+O3,,IIT,19.79,2018-02-22 03:45:00+00:00
+PM2.5,,US Diplomatic Post: New Delhi,241.0,2016-11-09 16:30:00+00:00
+PM10,,"Anand Vihar, Delhi - DPCC",504.0,2022-10-31 00:30:00+00:00
+NO2,,"Tata Stadium, Jorapokhar - JSPCB",14.32,2022-10-15 12:30:00+00:00
+NO2,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",14.9,2022-08-02 05:15:00+00:00
+O3,,"Talcher Coalfields,Talcher - OSPCB",21.99,2022-10-31 01:00:00+00:00
+CO,,"Punjab Agricultural University, Ludhiana - PPCB",1680.0,2022-10-31 02:00:00+00:00
+SO2,,"Punjab Agricultural University, Ludhiana - PPCB",6.04,2022-10-31 02:00:00+00:00
+PM10,,"Sri Aurobindo Marg, Delhi - DPCC",309.0,2022-10-31 00:45:00+00:00
+O3,,"Sri Aurobindo Marg, Delhi - DPCC",6.1,2022-10-31 00:45:00+00:00
+NO2,,"Civil Lines,  Ajmer - RSPCB",26.55,2022-10-31 01:45:00+00:00
+SO2,,"Muradpur, Patna - BSPCB",7.13,2022-10-16 15:45:00+00:00
+O3,,"Thavakkara, Kannur - Kerala PCB",13.71,2022-10-16 15:30:00+00:00
+PM10,,"Thavakkara, Kannur - Kerala PCB",67.2,2022-10-16 15:30:00+00:00
+O3,,"Murthal, Sonipat - HSPCB",17.4,2022-10-16 16:00:00+00:00
+NO2,,"Vijay Nagar, Ramanagara - KSPCB",12.8,2022-10-31 02:00:00+00:00
+SO2,,"Bandra Kurla Complex, Mumbai - IITM",19.12,2022-10-16 15:45:00+00:00
+PM2.5,,"Borivali East, Mumbai - IITM",0.0,2022-07-08 07:15:00+00:00
+CO,,"Revenue Colony-Shivajinagar, Pune - IITM",2660.0,2022-07-07 07:15:00+00:00
+SO2,,"Haji Colony, Raichur - KSPCB",18.74,2022-10-16 09:30:00+00:00
+PM10,,"Tamaka Ind. Area, Kolar - KSPCB",88.0,2022-10-31 02:00:00+00:00
+PM2.5,,"B.Katihalli, Hassan - KSPCB",10.0,2022-10-16 15:45:00+00:00
+O3,,"Gyaspur, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+PM10,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",479.0,2022-10-31 01:45:00+00:00
+PM2.5,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",113.0,2022-10-16 15:45:00+00:00
+SO2,,"Sector 22, Chandigarh - CPCC",4.9,2022-10-31 01:45:00+00:00
+SO2,,"Nagar Nigam, Prayagraj - UPPCB",27.23,2022-10-31 02:00:00+00:00
+NO2,,"FTI Kidwai Nagar, Kanpur - UPPCB",24.88,2022-10-31 02:00:00+00:00
+PM10,,"SDM Office_Khagra, Kishanganj - BSPCB",168.0,2022-10-31 01:45:00+00:00
+O3,,"SDM Office_Khagra, Kishanganj - BSPCB",15.3,2022-10-31 01:45:00+00:00
+NO2,,"Dangi Tola, Rajgir - BSPCB",43.8,2022-10-16 15:45:00+00:00
+PM10,,"Sector-53, Chandigarh - CPCC",94.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Raikhad, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+NO2,,"DM Office_Kasipur, Samastipur - BSPCB",28.2,2022-10-31 01:45:00+00:00
+CO,,"Gurdeo Nagar, Aurangabad - BSPCB",2430.0,2022-10-31 01:45:00+00:00
+CO,,"Zero Point GICI, Gangtok - SSPCB",210.0,2022-10-31 01:45:00+00:00
+PM2.5,,"New Malakpet, Hyderabad - TSPCB",19.67,2022-10-31 02:00:00+00:00
+PM10,,"Kashiram Nagar, Moradabad - UPPCB",82.98,2022-10-31 02:00:00+00:00
+PM2.5,,"Chalai Bazaar, Ramanathapuram - TNPCB",53.0,2022-10-31 02:00:00+00:00
+CO,,"Sona College of Technology, Salem - TNPCB",740.0,2022-10-03 12:30:00+00:00
+NO2,,"PSG College of Arts and Science, Coimbatore - TNPCB",18.41,2022-10-31 02:00:00+00:00
+O3,,"PSG College of Arts and Science, Coimbatore - TNPCB",4.32,2022-10-13 16:45:00+00:00
+NO2,,"Civil Lines, Bareilly - UPPCB",15.01,2022-10-31 02:00:00+00:00
+NO2,,"Aya Nagar, Delhi - IMD",25.02,2022-10-31 01:15:00+00:00
+PM10,,"Ardhali Bazar, Varanasi - UPPCB",119.0,2022-10-31 02:00:00+00:00
+CO,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1100.0,2022-10-16 16:00:00+00:00
+CO,,"Bollaram Industrial Area, Hyderabad - TSPCB",2670.0,2022-10-31 02:00:00+00:00
+SO2,,"GM Office, Brajrajnagar - OSPCB",23.17,2022-10-14 20:00:00+00:00
+PM2.5,,"North Campus, DU, Delhi - IMD",147.6,2022-10-31 02:00:00+00:00
+SO2,,"ITO, Delhi - CPCB",11.16,2020-01-20 07:15:00+00:00
+PM10,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",165.62,2022-10-31 01:45:00+00:00
+CO,,"IDA Pashamylaram, Hyderabad - TSPCB",800.0,2022-10-31 02:00:00+00:00
+O3,,"RIMT University, Mandi Gobindgarh - PPCB",68.34,2022-10-31 02:00:00+00:00
+PM2.5,,"Police Commissionerate, Jaipur - RSPCB",119.93,2022-10-31 01:45:00+00:00
+O3,,"R K Puram, New Delhi - DPCC",8.7,2018-05-06 19:30:00+00:00
+PM10,,"Tirumala, Tirupati - APPCB",91.0,2022-10-31 02:00:00+00:00
+O3,,"Velachery Res. Area, Chennai - CPCB",3.58,2022-10-31 01:45:00+00:00
+SO2,,"Velachery Res. Area, Chennai - CPCB",19.93,2022-10-31 01:45:00+00:00
+PM2.5,,"Velachery Res. Area, Chennai - CPCB",32.0,2022-10-31 01:45:00+00:00
+CO,,"PWD Grounds, Vijayawada - APPCB",560.0,2020-11-19 08:15:00+00:00
+PM10,,"Patparganj, Delhi - DPCC",149.0,2018-05-13 11:30:00+00:00
+PM2.5,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",129.0,2018-05-12 04:45:00+00:00
+PM2.5,,"Major Dhyan Chand National Stadium, Delhi - DPCC",62.0,2018-05-10 09:30:00+00:00
+CO,,"Ashok Vihar, Delhi - DPCC",900.0,2018-05-12 04:30:00+00:00
+CO,,"Okhla Phase-2, Delhi - DPCC",1400.0,2018-05-12 05:30:00+00:00
+O3,,"Rabindra Bharati University, Kolkata - WBPCB",25.0,2022-03-24 23:30:00+00:00
+O3,,"Punjabi Bagh, Delhi - DPCC",6.3,2022-10-16 14:15:00+00:00
+CO,,"Ratanpura, Rupnagar - Ambuja Cements",1060.0,2022-10-31 01:45:00+00:00
+CO,,"New Mandi, Muzaffarnagar - UPPCB",770.0,2022-10-31 02:00:00+00:00
+SO2,,"Indirapuram, Ghaziabad - UPPCB",12.7,2022-10-31 02:00:00+00:00
+CO,,"Vasai West, Mumbai - MPCB",720.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Gobind Pura, Yamuna Nagar - HSPCB",53.9,2022-10-31 01:30:00+00:00
+PM2.5,,"Kurla, Mumbai - MPCB",72.0,2022-10-31 02:00:00+00:00
+CO,,"General Hospital, Mandikhera - HSPCB",840.0,2022-10-31 01:45:00+00:00
+SO2,,"General Hospital, Mandikhera - HSPCB",726.63,2022-10-31 01:45:00+00:00
+CO,,"Murthal, Sonipat - HSPCB",3450.0,2020-01-02 06:45:00+00:00
+NO2,,"Borivali East, Mumbai - MPCB",11.5,2022-10-31 02:00:00+00:00
+PM2.5,,"Udyogamandal, Eloor - Kerala PCB",26.63,2022-10-31 01:45:00+00:00
+PM10,,"Phase-1 GIDC, Vapi - GPCB",53.9,2022-10-12 04:45:00+00:00
+O3,,"Bapuji Nagar, Bengaluru - KSPCB",5.5,2022-10-31 02:00:00+00:00
+PM10,,"Bapuji Nagar, Bengaluru - KSPCB",170.0,2022-10-31 02:00:00+00:00
+O3,,"Hombegowda Nagar, Bengaluru - KSPCB",7.49,2022-10-16 16:00:00+00:00
+NO2,,"Hebbal, Bengaluru - KSPCB",26.5,2022-10-31 02:00:00+00:00
+SO2,,"Sector-7, Kurukshetra - HSPCB",7.49,2022-10-31 01:45:00+00:00
+CO,,"Kariavattom, Thiruvananthapuram - Kerala PCB",0.0,2022-10-16 15:45:00+00:00
+O3,,"Anand Vihar, Hapur - UPPCB",13.1,2022-10-31 02:00:00+00:00
+NO2,,"Vyttila, Kochi - Kerala PCB",0.01,2022-10-16 16:00:00+00:00
+O3,,"Vidayagiri, Bagalkot - KSPCB",15.44,2022-10-16 15:45:00+00:00
+PM2.5,,"Teri Gram, Gurugram - HSPCB",79.9,2022-10-16 16:00:00+00:00
+NO2,,"PWD Juction, Kohima - NPCB",2.57,2022-10-16 16:00:00+00:00
+CO,,"Railway Colony, Guwahati - PCBA",340.0,2022-10-31 01:45:00+00:00
+SO2,,"Vijay Nagar, Ramanagara - KSPCB",26.2,2022-10-31 02:00:00+00:00
+PM10,,"Marhatal, Jabalpur - MPPCB",91.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Sanjay Nagar, Ghaziabad - UPPCB",226.0,2022-10-31 02:00:00+00:00
+NO2,,"Meelavittan, Thoothukudi - TNPCB",16.6,2022-10-16 16:00:00+00:00
+PM10,,"Kunjaban, Agartala - Tripura SPCB",134.0,2022-10-16 16:00:00+00:00
+PM10,,"Chandni Chowk, Delhi - IITM",89.1,2022-08-02 10:30:00+00:00
+NO2,,"Borivali East, Mumbai - IITM",1.44,2022-07-08 07:15:00+00:00
+PM2.5,,"Malad West, Mumbai - IITM",3.99,2022-10-16 15:45:00+00:00
+CO,,"Khindipada-Bhandup West, Mumbai - IITM",460.0,2022-09-22 05:30:00+00:00
+PM10,,"Haji Colony, Raichur - KSPCB",39.0,2022-10-16 09:30:00+00:00
+SO2,,"Tamaka Ind. Area, Kolar - KSPCB",42.55,2022-10-31 02:00:00+00:00
+PM10,,"Naharlagun, Naharlagun - APSPCB",13.5,2022-10-15 02:45:00+00:00
+PM10,,"B R Ambedkar University, Lucknow - UPPCB",174.25,2022-10-16 16:00:00+00:00
+NO2,,"Gyaspur, Ahmedabad - IITM",-0.02,2022-07-07 08:45:00+00:00
+CO,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",1010.0,2022-07-08 07:00:00+00:00
+CO,,"SAC ISRO Bopal, Ahmedabad - IITM",0.0,2022-06-22 08:45:00+00:00
+PM2.5,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",85.75,2022-10-31 02:00:00+00:00
+O3,,"Kamalnath Nagar, Bettiah - BSPCB",0.01,2021-07-22 04:00:00+00:00
+CO,,"Nagar Nigam, Prayagraj - UPPCB",1520.0,2022-10-31 02:00:00+00:00
+CO,,"Mangala, Bilaspur - NTPC",1000.0,2022-10-31 02:00:00+00:00
+NO2,,"Mirchaibari, Katihar - BSPCB",44.9,2022-10-16 15:45:00+00:00
+CO,,"Mirchaibari, Katihar - BSPCB",310.0,2022-10-16 15:45:00+00:00
+O3,,"Mariam Nagar, Purnia - BSPCB",7.1,2022-10-31 01:45:00+00:00
+PM2.5,,"Dangi Tola, Rajgir - BSPCB",57.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Kharahiya Basti, Araria - BSPCB",156.0,2022-10-30 23:15:00+00:00
+CO,,"Jigar Colony, Moradabad - UPPCB",740.0,2022-10-31 02:00:00+00:00
+CO,,"Shivaji Nagar, Jhansi - UPPCB",1480.0,2022-10-31 02:00:00+00:00
+PM10,,"Bardowali, Agartala - Tripura SPCB",82.8,2022-10-31 02:00:00+00:00
+O3,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+NO2,,"ECIL Kapra, Hyderabad - TSPCB",4.1,2022-10-16 14:15:00+00:00
+NO2,,"Kashiram Nagar, Moradabad - UPPCB",11.68,2022-10-31 02:00:00+00:00
+PM10,,"IITG, Guwahati - PCBA",37.7,2022-10-16 12:15:00+00:00
+SO2,,"IITG, Guwahati - PCBA",1.93,2022-10-16 12:15:00+00:00
+CO,,"Girls College, Sivasagar - PCBA",500.0,2022-10-31 02:00:00+00:00
+SO2,,"H.B. Colony, Bhiwani - HSPCB",6.33,2022-10-31 01:45:00+00:00
+PM10,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+SO2,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",14.47,2020-01-02 23:30:00+00:00
+CO,,"Jawaharlal Nehru Stadium, Delhi - DPCC",700.0,2022-10-31 00:45:00+00:00
+PM10,,"Patti Mehar, Ambala - HSPCB",125.85,2022-10-31 01:45:00+00:00
+NO2,,"Shastri Nagar, Narnaul - HSPCB",19.38,2022-10-31 02:00:00+00:00
+NO2,,"Rishi Nagar, Kaithal - HSPCB",6.06,2019-08-07 05:45:00+00:00
+SO2,,"Hebbal, Bengaluru - KSPCB",3.2,2022-10-31 02:00:00+00:00
+NO2,,"Gomti Nagar, Lucknow - UPPCB",53.2,2022-10-16 16:00:00+00:00
+PM2.5,,"DRM Office Danapur, Patna - BSPCB",99.99,2022-10-16 16:00:00+00:00
+PM10,,"ICRISAT Patancheru, Hyderabad - TSPCB",62.0,2020-04-28 09:45:00+00:00
+PM2.5,,"Sikulpuikawn, Aizawl - Mizoram PCB",3.14,2022-10-16 15:45:00+00:00
+SO2,,"Urban, Chamarajanagar - KSPCB",1.99,2022-10-31 02:00:00+00:00
+NO2,,"Lalbagh, DN Park",109.32,2018-02-22 04:00:00+00:00
+PM10,,"Zoo Park, Hyderabad - TSPCB",126.0,2022-10-31 02:00:00+00:00
+CO,,Collectorate - Muzaffarpur - BSPCB,2080.0,2018-02-21 23:45:00+00:00
+PM2.5,,"Talkatora District Industries Center, Lucknow - CPCB",90.89,2022-10-31 02:00:00+00:00
+O3,,Central School,8.31,2018-02-22 04:00:00+00:00
+SO2,,"Sector-6, Panchkula - HSPCB",4.93,2022-10-31 01:45:00+00:00
+PM2.5,,"Burari Crossing, Delhi - IMD",0.0,2022-08-03 11:00:00+00:00
+O3,,"Alandur Bus Depot, Chennai - CPCB",25.82,2022-10-31 01:45:00+00:00
+NO2,,"Collectorate, Jodhpur - RSPCB",48.1,2022-10-31 01:45:00+00:00
+NO2,,"Bollaram Industrial Area, Hyderabad - TSPCB",29.4,2022-10-31 02:00:00+00:00
+CO,,"Lajpat Nagar, Moradabad - UPPCB",680.0,2022-01-13 05:45:00+00:00
+PM10,,"RIMT University, Mandi Gobindgarh - PPCB",142.32,2022-10-31 02:00:00+00:00
+O3,,"DTU, Delhi - CPCB",14.3,2022-10-31 01:45:00+00:00
+CO,,"CRRI Mathura Road, Delhi - IMD",960.0,2022-10-31 01:15:00+00:00
+SO2,,"GVM Corporation, Visakhapatnam - APPCB",22.0,2022-10-31 02:00:00+00:00
+O3,,"GVM Corporation, Visakhapatnam - APPCB",15.8,2022-10-31 02:00:00+00:00
+O3,,"Lodhi Road, Delhi - IMD",47.96,2022-10-16 10:15:00+00:00
+CO,,"Shrinath Puram, Kota - RSPCB",1020.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Ward-32 Bapupara, Siliguri - WBPCB",61.79,2022-10-31 01:45:00+00:00
+PM2.5,,"Karve Road, Pune - MPCB",1060.0,2022-10-10 11:15:00+00:00
+PM10,,"Nehru Nagar, Kanpur - UPPCB",318.0,2022-10-31 02:00:00+00:00
+NO2,,"Rohini, Delhi - DPCC",25.5,2018-05-09 11:00:00+00:00
+O3,,"Nehru Nagar, Delhi - DPCC",214.0,2018-05-12 06:00:00+00:00
+PM2.5,,"Nehru Nagar, Delhi - DPCC",75.0,2018-05-13 10:00:00+00:00
+PM2.5,,"Bandhavgar Colony, Satna - Birla Cement",10.19,2022-10-31 02:00:00+00:00
+PM2.5,,"Anand Vihar, Delhi - DPCC",50.0,2021-09-20 05:45:00+00:00
+NO2,,"Sector-51, Gurugram - HSPCB",4.9,2022-10-16 16:00:00+00:00
+PM2.5,,"Ghusuri, Howrah - WBPCB",67.82,2022-10-16 15:45:00+00:00
+CO,,"Bidhannagar, Kolkata - WBPCB",660.0,2022-10-16 15:45:00+00:00
+SO2,,"Teri Gram, Gurugram - HSPCB",17.27,2022-10-16 16:00:00+00:00
+PM2.5,,"Kalyana Nagara, Chikkamagaluru - KSPCB",5.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Rabindra Sarobar, Kolkata - WBPCB",46.5,2022-10-31 01:45:00+00:00
+SO2,,"Rishi Nagar, Kaithal - HSPCB",2.18,2022-10-31 02:00:00+00:00
+CO,,"City Center, Gwalior - MPPCB",1310.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Sector 11, Faridabad - HSPCB",141.9,2022-10-16 15:45:00+00:00
+CO,,"Sector 11, Faridabad - HSPCB",1960.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Sector-12, Karnal - HSPCB",159.43,2022-10-31 01:30:00+00:00
+NO2,,"Marhatal, Jabalpur - MPPCB",43.3,2022-10-16 16:00:00+00:00
+PM2.5,,"Polayathode, Kollam - Kerala PCB",27.03,2022-10-16 15:45:00+00:00
+CO,,"Vinoba Nagara, Shivamogga - KSPCB",560.0,2022-10-16 16:00:00+00:00
+SO2,,"Vinoba Nagara, Shivamogga - KSPCB",5.97,2022-10-16 16:00:00+00:00
+O3,,"Kodungaiyur, Chennai - TNPCB",15.68,2022-10-16 16:00:00+00:00
+CO,,"Mhada Colony, Pune - IITM",750.0,2022-10-16 16:00:00+00:00
+O3,,"Mhada Colony, Pune - IITM",11.0,2022-10-16 16:00:00+00:00
+O3,,"Diwator Nagar, Koppal - KSPCB",96.97,2022-10-16 14:45:00+00:00
+PM2.5,,"Alandi, Pune - IITM",12.9,2022-07-21 04:45:00+00:00
+PM10,,"Alandi, Pune - IITM",16.93,2022-07-21 04:45:00+00:00
+CO,,"Kandivali East, Mumbai - MPCB",270.0,2022-10-16 15:45:00+00:00
+SO2,,"Naubad, Bidar - KSPCB",35.78,2022-10-16 10:15:00+00:00
+PM10,,"Motilal Nehru NIT, Prayagraj - UPPCB",169.84,2022-10-31 02:00:00+00:00
+CO,,"SVPI Airport Hansol, Ahmedabad - IITM",3330.0,2022-07-07 09:15:00+00:00
+NO2,,"GIFT City, Gandhinagar - IITM",12.2,2022-07-07 09:00:00+00:00
+O3,,"SAC ISRO Bopal, Ahmedabad - IITM",8.03,2022-06-22 08:45:00+00:00
+O3,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",13.54,2022-10-16 16:00:00+00:00
+PM10,,"Gandak Colony, Motihari - BSPCB",173.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Gandak Colony, Motihari - BSPCB",66.0,2022-10-16 15:45:00+00:00
+O3,,"Nagar Nigam, Prayagraj - UPPCB",5.06,2022-10-31 02:00:00+00:00
+PM10,,"Dada Peer, Sasaram - BSPCB",100.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Buddhi Vihar, Moradabad - UPPCB",83.25,2022-10-16 16:00:00+00:00
+O3,,"Jigar Colony, Moradabad - UPPCB",6.67,2022-10-31 02:00:00+00:00
+PM10,,"Eco Herbal Park, Moradabad - UPPCB",66.0,2022-10-31 02:00:00+00:00
+O3,,"Rohta, Agra - UPPCB",0.0,2022-10-31 02:00:00+00:00
+SO2,,"Sector-53, Chandigarh - CPCC",3.7,2022-10-31 01:45:00+00:00
+PM2.5,,"Ashwini Nagar, Haveri - KSPCB",20.0,2022-10-16 16:00:00+00:00
+O3,,"JN Stadium, Shillong - Meghalaya PCB",9.38,2022-10-15 05:45:00+00:00
+SO2,,"ECIL Kapra, Hyderabad - TSPCB",5.52,2022-10-16 14:15:00+00:00
+NO2,,"Somajiguda, Hyderabad - TSPCB",3.22,2022-10-16 16:00:00+00:00
+SO2,,"Somajiguda, Hyderabad - TSPCB",5.58,2022-10-16 16:00:00+00:00
+PM10,,"Kokapet, Hyderabad - TSPCB",41.57,2022-10-31 02:00:00+00:00
+CO,,"Kashiram Nagar, Moradabad - UPPCB",580.0,2022-10-31 02:00:00+00:00
+SO2,,"Chalai Bazaar, Ramanathapuram - TNPCB",10.05,2022-10-31 02:00:00+00:00
+NO2,,"Mendonsa Colony, Dindigul - TNPCB",0.1,2022-10-16 16:00:00+00:00
+SO2,,"SIPCOT Phase-1, Hosur - TNPCB",25.85,2022-10-31 01:45:00+00:00
+O3,,"Civil Lines, Bareilly - UPPCB",12.55,2022-10-31 02:00:00+00:00
+PM2.5,,"Pusa, New Delhi - IMD",0.0,2018-05-14 02:00:00+00:00
+PM2.5,,"Shastri Nagar, Jaipur - RSPCB",72.0,2022-10-31 01:45:00+00:00
+PM2.5,,"IDA Pashamylaram, Hyderabad - TSPCB",85.0,2022-10-31 02:00:00+00:00
+CO,,"Police Commissionerate, Jaipur - RSPCB",1370.0,2022-10-31 01:45:00+00:00
+CO,,"Adarsh Nagar, Jaipur - RSPCB",1960.0,2022-10-31 02:00:00+00:00
+O3,,"More Chowk Waluj, Aurangabad - MPCB",2.9,2022-10-31 01:45:00+00:00
+SO2,,"Central School, Lucknow - CPCB",7.48,2022-10-31 01:45:00+00:00
+NO2,,"Vasundhara, Ghaziabad - UPPCB",253.8,2022-10-31 02:00:00+00:00
+PM2.5,,"Patparganj, Delhi - DPCC",67.0,2018-05-13 11:30:00+00:00
+PM2.5,,"Vivek Vihar, Delhi - DPCC",162.0,2018-05-12 06:00:00+00:00
+PM2.5,,"Ashok Vihar, Delhi - DPCC",139.0,2018-05-12 06:00:00+00:00
+CO,,"Narela, Delhi - DPCC",1400.0,2018-05-12 04:30:00+00:00
+SO2,,"Narela, Delhi - DPCC",15.5,2018-05-12 04:30:00+00:00
+SO2,,"Okhla Phase-2, Delhi - DPCC",17.4,2018-05-12 05:30:00+00:00
+NO2,,"Ratanpura, Rupnagar - Ambuja Cements",3.79,2022-10-31 01:45:00+00:00
+O3,,"Bandhavgar Colony, Satna - Birla Cement",9.53,2022-10-31 02:00:00+00:00
+PM10,,"Bandhavgar Colony, Satna - Birla Cement",36.92,2022-10-31 02:00:00+00:00
+CO,,"Manali Village, Chennai - TNPCB",650.0,2019-07-19 05:15:00+00:00
+PM10,,"Colaba, Mumbai - MPCB",157.8,2022-10-31 01:45:00+00:00
+CO,,"Kurla, Mumbai - MPCB",640.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+NO2,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",15.97,2022-10-31 01:45:00+00:00
+SO2,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",6.54,2022-10-31 01:45:00+00:00
+O3,,"Murthal, Sonipat - HSPCB",6.77,2020-01-02 06:45:00+00:00
+PM10,,"Sector-18, Panipat - HSPCB",350.7,2022-10-31 01:45:00+00:00
+NO2,,"Police Lines, Jind - HSPCB",38.66,2022-10-31 01:45:00+00:00
+SO2,,"Police Lines, Jind - HSPCB",31.82,2022-10-31 01:45:00+00:00
+PM2.5,,"Patti Mehar, Ambala - HSPCB",115.58,2022-10-31 01:45:00+00:00
+SO2,,"Nathu Colony, Ballabgarh - HSPCB",3.67,2022-10-31 01:45:00+00:00
+PM2.5,,"Knowledge Park - III, Greater Noida - UPPCB",245.0,2022-10-31 02:00:00+00:00
+NO2,,"Knowledge Park - III, Greater Noida - UPPCB",36.0,2022-10-31 02:00:00+00:00
+O3,,"Knowledge Park - III, Greater Noida - UPPCB",2.1,2022-10-31 02:00:00+00:00
+NO2,,"Vile Parle West, Mumbai - MPCB",5.36,2022-10-31 01:45:00+00:00
+PM10,,"Loni, Ghaziabad - UPPCB",311.0,2022-10-31 02:00:00+00:00
+PM10,,"Shyam Nagar, Palwal - HSPCB",120.63,2022-10-31 01:30:00+00:00
+NO2,,"MD University, Rohtak - HSPCB",26.03,2022-10-31 01:45:00+00:00
+CO,,"Hebbal 1st Stage, Mysuru - KSPCB",340.0,2020-01-03 11:15:00+00:00
+CO,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",350.0,2022-10-31 01:00:00+00:00
+PM2.5,,"Ganga Nagar, Meerut - UPPCB",113.0,2022-10-16 15:00:00+00:00
+NO2,,"Deen Dayal Nagar, Sagar - MPPCB",12.49,2022-10-16 15:45:00+00:00
+SO2,,"GIDC, Nandesari - Nandesari Ind. Association",5.0,2022-10-16 10:15:00+00:00
+SO2,,"R K Puram, Delhi - DPCC",56.9,2018-02-21 21:15:00+00:00
+PM10,,"Anand Vihar, Delhi - DPCC",670.0,2018-02-21 21:15:00+00:00
+O3,,"Lalbagh, DN Park",22.72,2018-02-22 04:00:00+00:00
+SO2,,Alandur Bus Depot,29.3,2018-02-22 03:45:00+00:00
+SO2,,City Railway Station - KSPCB,5.88,2018-02-21 13:30:00+00:00
+CO,,"Talkatora District Industries Center, Lucknow - CPCB",880.0,2022-10-31 02:00:00+00:00
+SO2,,"Shadipur, Delhi - CPCB",13.43,2018-02-22 02:45:00+00:00
+O3,,"Sanathnagar, Hyderabad - TSPCB",30.0,2018-02-22 03:00:00+00:00
+O3,,"Solapur, Solapur - MPCB",30.11,2022-10-31 02:00:00+00:00
+PM10,,"Solapur, Solapur - MPCB",113.7,2022-10-31 02:00:00+00:00
+CO,,"Punjabi Bagh, Delhi - DPCC",2000.0,2018-05-12 06:00:00+00:00
+CO,,"Model Town, Patiala - PPCB",2060.0,2022-10-31 01:45:00+00:00
+O3,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",6.84,2022-08-02 05:15:00+00:00
+NO2,,"Anand Vihar, Hapur - UPPCB",37.5,2022-10-31 02:00:00+00:00
+O3,,"Wazirpur, Delhi - DPCC",5.1,2022-10-31 00:45:00+00:00
+O3,,"Narela, Delhi - DPCC",3.9,2022-10-31 00:45:00+00:00
+NO2,,"Narela, Delhi - DPCC",66.6,2022-10-31 00:45:00+00:00
+PM2.5,,"Mundka, Delhi - DPCC",239.0,2022-10-31 00:45:00+00:00
+O3,,"ITO, Delhi - CPCB",15.8,2022-10-31 01:45:00+00:00
+PM10,,"Hebbal 1st Stage, Mysuru - KSPCB",45.13,2022-10-31 02:00:00+00:00
+CO,,"Hebbal 1st Stage, Mysuru - KSPCB",1150.0,2022-10-31 02:00:00+00:00
+PM10,,"Govt. High School Shikarpur, Patna - BSPCB",140.0,2022-10-16 15:45:00+00:00
+O3,,"Lumpyngngad, Shillong - Meghalaya PCB",1.06,2022-10-16 16:00:00+00:00
+NO2,,"Railway Colony, Guwahati - PCBA",2.99,2022-10-31 01:45:00+00:00
+O3,,"Railway Colony, Guwahati - PCBA",24.43,2022-10-31 01:45:00+00:00
+PM10,,"City Center, Gwalior - MPPCB",132.0,2022-10-16 16:00:00+00:00
+O3,,"Marhatal, Jabalpur - MPPCB",44.2,2022-10-16 16:00:00+00:00
+NO2,,"Sanjay Nagar, Ghaziabad - UPPCB",78.2,2022-10-31 02:00:00+00:00
+PM10,,"Borivali East, Mumbai - IITM",36.65,2022-07-08 07:15:00+00:00
+NO2,,"Kadri, Mangalore - KSPCB",47.8,2022-10-31 01:45:00+00:00
+PM2.5,,"Naubad, Bidar - KSPCB",985.0,2021-07-19 06:45:00+00:00
+PM2.5,,"Panchal Nagar, Gadag - KSPCB",21.25,2022-10-15 09:30:00+00:00
+PM2.5,,"Siddharth Nagar-Worli, Mumbai - IITM",62.24,2022-10-16 16:00:00+00:00
+PM2.5,,"Naharlagun, Naharlagun - APSPCB",6.43,2022-10-15 02:45:00+00:00
+CO,,"Motilal Nehru NIT, Prayagraj - UPPCB",1390.0,2022-10-31 02:00:00+00:00
+O3,,"Rakhial, Ahmedabad - IITM",10.58,2022-07-13 06:30:00+00:00
+O3,,"Chandkheda, Ahmedabad - IITM",2.0,2022-10-16 15:45:00+00:00
+NO2,,"SAC ISRO Satellite, Ahmedabad - IITM",9.6,2022-07-07 09:15:00+00:00
+PM2.5,,"Mirchaibari, Katihar - BSPCB",108.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Mariam Nagar, Purnia - BSPCB",173.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Police Line, Saharsa - BSPCB",81.0,2022-10-16 15:45:00+00:00
+CO,,"Darshan Nagar, Chhapra - BSPCB",790.0,2022-10-31 01:45:00+00:00
+CO,,"Dangi Tola, Rajgir - BSPCB",1840.0,2022-10-16 15:45:00+00:00
+NO2,,"Forest Rest House, Manguraha - BSPCB",16.5,2022-10-16 15:45:00+00:00
+CO,,"Buddhi Vihar, Moradabad - UPPCB",2090.0,2022-10-16 16:00:00+00:00
+PM2.5,,"New DM Office, Arrah - BSPCB",127.0,2022-10-31 01:45:00+00:00
+CO,,"Kharahiya Basti, Araria - BSPCB",3090.0,2022-10-31 01:45:00+00:00
+CO,,"DM Office_Kasipur, Samastipur - BSPCB",290.0,2022-10-31 01:45:00+00:00
+SO2,,"JN Stadium, Shillong - Meghalaya PCB",9.58,2022-10-15 05:45:00+00:00
+PM2.5,,"Manipur University, Imphal - Manipur PCB",0.0,2022-10-15 09:45:00+00:00
+NO2,,"Ramachandrapuram, Hyderabad - TSPCB",3.4,2022-10-31 02:00:00+00:00
+PM2.5,,"Kokapet, Hyderabad - TSPCB",21.5,2022-10-31 02:00:00+00:00
+PM10,,"Kumaran College, Tirupur - TNPCB",76.5,2022-10-16 15:45:00+00:00
+PM10,,"Bombay Castel, Ooty - TNPCB",23.0,2022-10-15 10:45:00+00:00
+PM10,,"SIPCOT Phase-1, Hosur - TNPCB",90.0,2022-10-31 01:45:00+00:00
+NO2,,"IITG, Guwahati - PCBA",1.12,2022-10-16 12:15:00+00:00
+PM10,,"Moti Doongri, Alwar - RSPCB",133.54,2022-10-31 02:00:00+00:00
+O3,,"Pusa, New Delhi - IMD",17.53,2018-05-14 02:00:00+00:00
+CO,,"Ashok Nagar, Udaipur - RSPCB",590.0,2022-10-31 01:45:00+00:00
+SO2,,"Collectorate, Jodhpur - RSPCB",7.8,2022-10-31 01:45:00+00:00
+PM2.5,,"Sector-2 Industrial Area, Pithampur - MPPCB",120.0,2022-10-31 02:00:00+00:00
+SO2,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",3.3,2022-10-31 02:00:00+00:00
+PM10,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",86.0,2022-10-31 02:00:00+00:00
+PM10,,"ITO, Delhi - CPCB",209.0,2020-01-20 07:15:00+00:00
+PM10,,"NSIT Dwarka, Delhi - CPCB",357.6,2022-10-31 02:00:00+00:00
+PM10,,"Lodhi Road, Delhi - IMD",155.4,2022-10-16 10:15:00+00:00
+O3,,"Sanathnagar, Hyderabad - TSPCB",36.1,2022-10-31 02:00:00+00:00
+O3,,"Vivek Vihar, Delhi - DPCC",181.1,2018-05-10 09:00:00+00:00
+SO2,,"Sonia Vihar, Delhi - DPCC",0.1,2018-05-11 11:45:00+00:00
+O3,,"Narela, Delhi - DPCC",105.1,2018-05-12 04:30:00+00:00
+O3,,"Okhla Phase-2, Delhi - DPCC",62.2,2018-05-12 05:30:00+00:00
+CO,,"Punjabi Bagh, Delhi - DPCC",1500.0,2022-10-16 14:15:00+00:00
+SO2,,"Mandir Marg, Delhi - DPCC",17.8,2022-10-31 00:45:00+00:00
+CO,,"Mandir Marg, Delhi - DPCC",0.0,2022-10-31 00:45:00+00:00
+O3,,"New Mandi, Muzaffarnagar - UPPCB",21.99,2022-10-31 02:00:00+00:00
+PM2.5,,"New Mandi, Muzaffarnagar - UPPCB",69.0,2022-10-31 02:00:00+00:00
+SO2,,"Vasai West, Mumbai - MPCB",1.28,2022-10-31 02:00:00+00:00
+SO2,,"Gobind Pura, Yamuna Nagar - HSPCB",12.38,2022-10-31 01:30:00+00:00
+NO2,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",97.5,2022-10-31 00:30:00+00:00
+CO,,"Arya Nagar, Bahadurgarh - HSPCB",790.0,2022-10-31 01:30:00+00:00
+PM2.5,,"Sector-10, Gandhinagar - GPCB",35.29,2022-10-31 01:45:00+00:00
+NO2,,"Vivek Vihar, Delhi - DPCC",21.1,2022-10-31 00:45:00+00:00
+CO,,"Kalal Majra, Khanna - PPCB",0.75,2022-10-31 01:00:00+00:00
+NO2,,"Kurla, Mumbai - MPCB",38.05,2022-10-31 02:00:00+00:00
+CO,,"Municipal Corporation Office, Dharuhera -  HSPCB",1010.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Municipal Corporation Office, Dharuhera -  HSPCB",212.2,2022-10-31 01:45:00+00:00
+NO2,,"F-Block, Sirsa - HSPCB",30.73,2022-10-31 02:00:00+00:00
+PM2.5,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",66.0,2022-10-31 02:00:00+00:00
+CO,,"Powai, Mumbai - MPCB",1320.0,2022-10-16 13:15:00+00:00
+NO2,,"Sector-18, Panipat - HSPCB",24.35,2022-10-31 01:45:00+00:00
+PM2.5,,"Huda Sector, Fatehabad - HSPCB",94.4,2022-10-16 15:45:00+00:00
+PM2.5,,"Shastri Nagar, Narnaul - HSPCB",59.0,2022-10-31 02:00:00+00:00
+CO,,"Shyam Nagar, Palwal - HSPCB",1350.0,2020-01-01 09:15:00+00:00
+O3,,"MD University, Rohtak - HSPCB",37.88,2022-10-31 01:45:00+00:00
+SO2,,"Hebbal 1st Stage, Mysuru - KSPCB",5.49,2020-01-03 11:15:00+00:00
+CO,,"Gole Bazar, Katni - MPPCB",400.0,2020-01-07 09:15:00+00:00
+O3,,"Gole Bazar, Katni - MPPCB",65.4,2020-01-07 09:15:00+00:00
+O3,,"SFTI Kusdihra, Gaya - BSPCB",6.14,2022-10-16 15:30:00+00:00
+NO2,,"Bandra, Mumbai - MPCB",0.0,2021-11-19 11:00:00+00:00
+PM2.5,,"GIDC, Nandesari - Nandesari Ind. Association",230.0,2022-10-16 10:15:00+00:00
+NO2,,"GIDC, Nandesari - Nandesari Ind. Association",1.0,2022-10-16 10:15:00+00:00
+PM10,,"MD University, Rohtak - HSPCB",72.92,2017-10-13 09:15:00+00:00
+CO,,"Peenya, Bengaluru - KSPCB",970.0,2018-02-22 02:45:00+00:00
+NO2,,"Civil Line, Jalandhar - PPCB",25.07,2022-10-31 02:00:00+00:00
+PM2.5,,"Tata Stadium, Jorapokhar - JSPCB",0.0,2021-03-12 12:00:00+00:00
+PM2.5,,"Wazirpur, Delhi - DPCC",210.0,2022-10-31 00:45:00+00:00
+SO2,,"Anand Vihar, Delhi - DPCC",2.4,2021-09-20 07:45:00+00:00
+CO,,"Rajbansi Nagar, Patna - BSPCB",1470.0,2022-10-16 15:45:00+00:00
+SO2,,"Manali Village, Chennai - TNPCB",9.29,2022-10-31 02:00:00+00:00
+NO2,,"Murthal, Sonipat - HSPCB",20.1,2022-10-16 16:00:00+00:00
+SO2,,"T T Nagar, Bhopal - MPPCB",20.8,2022-10-16 16:00:00+00:00
+PM10,,"Polayathode, Kollam - Kerala PCB",40.39,2022-10-16 15:45:00+00:00
+PM2.5,,"Sahilara, Maihar - KJS Cements",15.88,2022-10-31 01:45:00+00:00
+O3,,"Vinoba Nagara, Shivamogga - KSPCB",28.24,2022-10-16 16:00:00+00:00
+SO2,,"Meelavittan, Thoothukudi - TNPCB",11.8,2022-10-16 16:00:00+00:00
+NO2,,"Deonar, Mumbai - IITM",4.53,2022-10-16 15:45:00+00:00
+O3,,"Chakala-Andheri East, Mumbai - IITM",11.0,2022-10-16 13:00:00+00:00
+O3,,"Haji Colony, Raichur - KSPCB",13.1,2022-10-16 09:30:00+00:00
+O3,,"Jawahar Nagar, Puducherry - PPCC",18.05,2022-10-16 16:00:00+00:00
+SO2,,"Naharlagun, Naharlagun - APSPCB",18.02,2022-10-15 02:45:00+00:00
+SO2,,"Jhunsi, Prayagraj - UPPCB",24.21,2022-10-16 16:00:00+00:00
+CO,,"B R Ambedkar University, Lucknow - UPPCB",670.0,2022-10-16 16:00:00+00:00
+SO2,,"Gyaspur, Ahmedabad - IITM",23.34,2022-07-07 08:45:00+00:00
+PM10,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",141.8,2022-10-16 16:00:00+00:00
+SO2,,"SVPI Airport Hansol, Ahmedabad - IITM",2.47,2022-07-07 09:15:00+00:00
+PM10,,"SVPI Airport Hansol, Ahmedabad - IITM",78.7,2022-07-07 09:15:00+00:00
+NO2,,"Shastripuram, Agra - UPPCB",20.54,2022-10-16 16:00:00+00:00
+PM2.5,,"Bhelupur, Varanasi - UPPCB",103.4,2022-10-16 16:00:00+00:00
+PM2.5,,"Town Hall, Munger - BSPCB",105.0,2022-10-31 01:45:00+00:00
+PM10,,"Kareemganj, Gaya - BSPCB",223.0,2022-10-31 01:45:00+00:00
+PM10,,"Police Line, Saharsa - BSPCB",150.0,2022-10-16 15:45:00+00:00
+CO,,"Forest Rest House, Manguraha - BSPCB",920.0,2022-10-16 15:45:00+00:00
+PM10,,"Jigar Colony, Moradabad - UPPCB",87.44,2022-10-31 02:00:00+00:00
+NO2,,"Sardar Patel Inter College, Baghpat - UPPCB",88.3,2022-10-31 02:00:00+00:00
+NO2,,"Manipur University, Imphal - Manipur PCB",4.48,2022-10-15 09:45:00+00:00
+SO2,,"Manipur University, Imphal - Manipur PCB",49.11,2022-10-15 09:45:00+00:00
+NO2,,"Dwarka-Sector 8, Delhi - DPCC",44.9,2022-10-31 00:45:00+00:00
+NO2,,"Sector-10, Gandhinagar - GPCB",7.71,2022-10-31 01:45:00+00:00
+SO2,,"Vivek Vihar, Delhi - DPCC",0.6,2022-10-31 00:45:00+00:00
+O3,,"Kalal Majra, Khanna - PPCB",21.08,2022-10-31 01:00:00+00:00
+SO2,,"Kurla, Mumbai - MPCB",12.58,2022-10-31 02:00:00+00:00
+NO2,,"Murthal, Sonipat - HSPCB",79.32,2020-01-02 06:45:00+00:00
+CO,,"Sion, Mumbai - MPCB",1960.0,2022-09-16 09:00:00+00:00
+PM10,,"Hombegowda Nagar, Bengaluru - KSPCB",44.0,2022-10-16 16:00:00+00:00
+PM10,,"Knowledge Park - V, Greater Noida - UPPCB",369.0,2022-10-31 02:00:00+00:00
+CO,,"R K Puram, Delhi - DPCC",2000.0,2022-10-30 11:15:00+00:00
+NO2,,"Shyam Nagar, Palwal - HSPCB",8.43,2020-01-01 09:15:00+00:00
+NO2,,"Chhoti Gwaltoli, Indore - MPPCB",37.3,2020-01-06 09:15:00+00:00
+SO2,,"East Arjun Nagar, Delhi - CPCB",31.65,2020-02-10 03:00:00+00:00
+CO,,"Bandra, Mumbai - MPCB",250.0,2021-11-19 11:00:00+00:00
+PM2.5,India,Kolkata,109.0,2025-01-31 09:30:00+00:00
+O3,,"Mandir Marg, Delhi - DPCC",2.6,2018-02-21 21:15:00+00:00
+NO2,,"BTM Layout, Bengaluru - KSPCB",131.87,2018-02-22 03:00:00+00:00
+CO,,Collectorate Jodhpur - RSPCB,70.0,2018-02-22 03:45:00+00:00
+PM10,,"Sector16A, Faridabad - HSPCB",110.0,2018-01-29 13:50:00+00:00
+SO2,,"Model Town, Patiala - PPCB",8.78,2022-10-31 01:45:00+00:00
+CO,,"MIDC Khutala, Chandrapur - MPCB",960.0,2022-10-11 12:45:00+00:00
+PM10,,"MIDC Khutala, Chandrapur - MPCB",19.08,2022-10-11 12:45:00+00:00
+PM10,,"Gangapur Road, Nashik - MPCB",71.84,2022-10-31 02:00:00+00:00
+NO2,,"Lajpat Nagar, Moradabad - UPPCB",9.4,2022-01-13 05:45:00+00:00
+CO,,"Chandrapur, Chandrapur - MPCB",560.0,2022-10-31 02:00:00+00:00
+SO2,,"RIMT University, Mandi Gobindgarh - PPCB",13.67,2022-10-31 02:00:00+00:00
+CO,,"Sector-D Industrial Area, Mandideep - MPPCB",1750.0,2022-10-31 02:00:00+00:00
+SO2,,"Indira Colony Vistar, Pali - RSPCB",9.84,2022-10-31 01:45:00+00:00
+NO2,,"Indira Colony Vistar, Pali - RSPCB",19.57,2022-10-31 01:45:00+00:00
+SO2,,"Nehru Nagar, Kanpur - UPPCB",8.4,2022-10-31 02:00:00+00:00
+CO,,"Nehru Nagar, Kanpur - UPPCB",660.0,2022-10-31 02:00:00+00:00
+O3,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",3.0,2018-05-09 11:00:00+00:00
+PM10,,"Ghusuri, Howrah - WBPCB",76.33,2018-05-09 18:15:00+00:00
+CO,,"Jawaharlal Nehru Stadium, Delhi - DPCC",900.0,2018-05-10 09:30:00+00:00
+PM10,,"Narela, Delhi - DPCC",407.0,2018-05-12 06:00:00+00:00
+NO2,,"Sri Aurobindo Marg, Delhi - DPCC",25.4,2022-10-31 00:45:00+00:00
+NO2,,"Najafgarh, Delhi - DPCC",24.1,2022-10-31 00:45:00+00:00
+SO2,,"ITO, Delhi - CPCB",8.4,2022-10-31 01:45:00+00:00
+O3,,"Civil Lines,  Ajmer - RSPCB",4.73,2022-10-31 01:45:00+00:00
+CO,,"Mini Secretariat, Charkhi Dadri - HSPCB",800.0,2022-10-16 16:00:00+00:00
+SO2,,"Sector-51, Gurugram - HSPCB",4.94,2022-10-16 16:00:00+00:00
+PM10,,"Ghusuri, Howrah - WBPCB",175.18,2022-10-16 15:45:00+00:00
+PM2.5,,"Palayam, Kozhikode - Kerala PCB",50.0,2022-10-16 04:45:00+00:00
+CO,,"Kalyana Nagara, Chikkamagaluru - KSPCB",280.0,2022-10-16 16:00:00+00:00
+NO2,,"Sahilara, Maihar - KJS Cements",10.7,2022-10-31 01:45:00+00:00
+NO2,,"Ballygunge, Kolkata - WBPCB",24.6,2022-10-16 16:00:00+00:00
+SO2,,"Arumbakkam, Chennai - TNPCB",7.9,2022-10-16 16:00:00+00:00
+SO2,,"Malad West, Mumbai - IITM",18.84,2022-10-16 15:45:00+00:00
+NO2,,"Mulund West, Mumbai - MPCB",18.98,2022-10-16 15:45:00+00:00
+PM2.5,,"Diwator Nagar, Koppal - KSPCB",100.78,2022-10-16 14:45:00+00:00
+PM10,,"Pan Bazaar, Guwahati - PCBA",87.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Tamaka Ind. Area, Kolar - KSPCB",985.0,2022-05-31 11:30:00+00:00
+CO,,"MIT-Kothrud, Pune - IITM",960.0,2022-07-11 05:15:00+00:00
+O3,,"Siddharth Nagar-Worli, Mumbai - IITM",19.0,2022-10-16 16:00:00+00:00
+NO2,,"Siddharth Nagar-Worli, Mumbai - IITM",45.37,2022-10-16 16:00:00+00:00
+PM2.5,,"Jhunsi, Prayagraj - UPPCB",107.67,2022-10-16 16:00:00+00:00
+SO2,,"Chandkheda, Ahmedabad - IITM",0.0,2022-10-16 15:45:00+00:00
+SO2,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",18.18,2022-10-16 16:00:00+00:00
+O3,,"IESD Banaras Hindu University, Varanasi - UPPCB",0.0,2022-10-16 15:45:00+00:00
+PM2.5,,"IESD Banaras Hindu University, Varanasi - UPPCB",64.9,2022-10-16 15:45:00+00:00
+SO2,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",36.75,2022-10-31 02:00:00+00:00
+O3,,"NSI Kalyanpur, Kanpur - UPPCB",3.21,2022-10-31 02:00:00+00:00
+CO,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",1040.0,2022-10-16 16:00:00+00:00
+NO2,,"Nagar Nigam, Prayagraj - UPPCB",26.13,2022-10-31 02:00:00+00:00
+SO2,,"Employment Office, Moradabad - UPPCB",23.65,2022-10-31 02:00:00+00:00
+SO2,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",12.3,2022-10-31 01:45:00+00:00
+SO2,,"Chitragupta Nagar, Siwan - BSPCB",13.9,2022-10-31 01:45:00+00:00
+PM2.5,,"Darshan Nagar, Chhapra - BSPCB",182.0,2022-10-31 01:45:00+00:00
+CO,,"Rohta, Agra - UPPCB",1760.0,2022-10-31 02:00:00+00:00
+SO2,,"Zero Point GICI, Gangtok - SSPCB",12.2,2022-10-31 01:45:00+00:00
+NO2,,"JN Stadium, Shillong - Meghalaya PCB",6.33,2022-10-15 05:45:00+00:00
+NO2,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+PM2.5,,"IITH Kandi, Hyderabad - TSPCB",19.35,2022-10-31 02:00:00+00:00
+SO2,,"Kashiram Nagar, Moradabad - UPPCB",11.55,2022-10-31 02:00:00+00:00
+CO,,"Vasanthapuram, Vellore - TNPCB",130.0,2022-10-27 03:00:00+00:00
+CO,,"Chalai Bazaar, Ramanathapuram - TNPCB",380.0,2022-10-31 02:00:00+00:00
+O3,,"Mendonsa Colony, Dindigul - TNPCB",1.77,2022-10-16 16:00:00+00:00
+PM10,,"PSG College of Arts and Science, Coimbatore - TNPCB",42.44,2022-10-05 13:00:00+00:00
+O3,,"Crescent University, Chengalpattu - TNPCB",6.24,2022-10-14 04:30:00+00:00
+SO2,,"Paryavaran Parisar, Bhopal - MPPCB",6.1,2022-10-31 01:45:00+00:00
+SO2,,"Major Dhyan Chand National Stadium, Delhi - DPCC",0.1,2022-10-31 00:30:00+00:00
+NO2,,"Hardev Nagar, Bathinda - PPCB",21.61,2022-10-31 01:45:00+00:00
+NO2,,"H.B. Colony, Bhiwani - HSPCB",38.14,2022-10-31 01:45:00+00:00
+PM10,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",184.0,2022-10-31 01:45:00+00:00
+O3,,"Sector-2 IMT, Manesar - HSPCB",4.52,2022-10-31 01:45:00+00:00
+PM2.5,,"Police Lines, Jind - HSPCB",303.7,2022-10-31 01:45:00+00:00
+O3,,"Huda Sector, Fatehabad - HSPCB",43.17,2022-10-16 15:45:00+00:00
+SO2,,"Huda Sector, Fatehabad - HSPCB",9.22,2022-10-16 15:45:00+00:00
+SO2,,"Bapuji Nagar, Bengaluru - KSPCB",4.4,2022-10-31 02:00:00+00:00
+NO2,,"Bapuji Nagar, Bengaluru - KSPCB",20.4,2022-10-31 02:00:00+00:00
+SO2,,"Fort William, Kolkata - WBPCB",8.94,2022-10-31 01:45:00+00:00
+PM2.5,,"Hebbal, Bengaluru - KSPCB",67.0,2022-10-31 02:00:00+00:00
+PM10,,"Yamunapuram, Bulandshahr - UPPCB",302.0,2022-10-31 01:00:00+00:00
+NO2,,"Knowledge Park - V, Greater Noida - UPPCB",56.2,2022-10-31 02:00:00+00:00
+NO2,,"Shyam Nagar, Palwal - HSPCB",6.15,2022-10-31 01:30:00+00:00
+PM2.5,,"Okhla Phase-2, Delhi - DPCC",266.0,2022-10-31 00:45:00+00:00
+O3,,"Anand Vihar, Delhi - DPCC",17.87,2018-01-23 04:30:00+00:00
+PM2.5,,"IHBAS, Delhi - CPCB",11.9,2018-02-22 02:45:00+00:00
+PM2.5,,Collectorate Jodhpur - RSPCB,146.3,2018-02-22 03:45:00+00:00
+NO2,,IIT,6.13,2018-02-22 03:45:00+00:00
+NO2,,"Manali, Chennai - CPCB",16.86,2022-10-16 15:00:00+00:00
+PM2.5,,Ardhali Bazar,288.0,2018-02-22 03:00:00+00:00
+CO,,Nehru Nagar,2450.0,2018-02-22 03:15:00+00:00
+CO,,"MD University, Rohtak - HSPCB",840.0,2020-01-01 11:00:00+00:00
+O3,,"MIDC Khutala, Chandrapur - MPCB",3.06,2022-10-11 12:45:00+00:00
+SO2,,"MIDC Khutala, Chandrapur - MPCB",2.96,2022-10-11 12:45:00+00:00
+O3,,"Secretariat, Amaravati - APPCB",12.3,2022-10-31 02:00:00+00:00
+PM2.5,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",52.0,2022-10-31 02:00:00+00:00
+NO2,,"Shastri Nagar, Jaipur - RSPCB",81.0,2022-10-31 01:45:00+00:00
+CO,,"RIMT University, Mandi Gobindgarh - PPCB",660.0,2022-10-31 02:00:00+00:00
+CO,,"GVM Corporation, Visakhapatnam - APPCB",460.0,2022-10-31 02:00:00+00:00
+O3,,"Shadipur, Delhi - CPCB",8.02,2022-10-31 02:00:00+00:00
+SO2,,"Shrinath Puram, Kota - RSPCB",10.71,2022-10-31 02:00:00+00:00
+CO,,"R K Puram, New Delhi - DPCC",3000.0,2018-05-06 19:30:00+00:00
+PM2.5,,"R K Puram, New Delhi - DPCC",213.0,2018-05-12 04:45:00+00:00
+SO2,,"Sanegurava Halli, Bengaluru - KSPCB",5.22,2022-10-31 02:00:00+00:00
+PM2.5,,"Tirumala, Tirupati - APPCB",70.0,2022-10-31 02:00:00+00:00
+CO,,"Velachery Res. Area, Chennai - CPCB",940.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Lalbagh, Lucknow - CPCB",116.9,2022-10-31 01:45:00+00:00
+O3,,"Patparganj, Delhi - DPCC",139.3,2018-05-08 06:30:00+00:00
+PM10,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",249.0,2018-05-12 04:45:00+00:00
+O3,,"Dwarka-Sector 8, Delhi - DPCC",187.9,2018-05-12 05:00:00+00:00
+PM10,,"Ashok Vihar, Delhi - DPCC",366.0,2018-05-12 06:00:00+00:00
+SO2,,"Bandhavgar Colony, Satna - Birla Cement",5.77,2022-10-31 02:00:00+00:00
+NO2,,"Bandhavgar Colony, Satna - Birla Cement",12.21,2022-10-31 02:00:00+00:00
+CO,,"Nehru Nagar, Delhi - DPCC",300.0,2022-10-31 00:45:00+00:00
+SO2,,"Nehru Nagar, Delhi - DPCC",5.7,2022-10-31 00:45:00+00:00
+PM10,,"Vyttila, Kochi - Kerala PCB",69.75,2022-10-16 16:00:00+00:00
+SO2,,"Ashok Vihar, Delhi - DPCC",0.9,2022-10-31 00:45:00+00:00
+CO,,"Narela, Delhi - DPCC",100.0,2022-10-31 00:45:00+00:00
+NO2,,"Victoria, Kolkata - WBPCB",21.26,2022-10-31 01:45:00+00:00
+CO,,"Samanpura, Patna - BSPCB",1280.0,2022-10-16 15:45:00+00:00
+PM10,,"Samanpura, Patna - BSPCB",509.1,2022-10-16 15:45:00+00:00
+CO,,"Chhoti Gwaltoli, Indore - MPPCB",2270.0,2022-10-16 16:00:00+00:00
+SO2,,"PWD Juction, Kohima - NPCB",217.5,2022-10-16 16:00:00+00:00
+PM10,,"Railway Colony, Guwahati - PCBA",42.0,2022-10-31 01:45:00+00:00
+SO2,,"Rabindra Sarobar, Kolkata - WBPCB",7.9,2022-10-31 01:45:00+00:00
+PM10,,"Murthal, Sonipat - HSPCB",155.52,2022-10-16 16:00:00+00:00
+O3,,"Vijay Nagar, Ramanagara - KSPCB",27.05,2022-10-31 02:00:00+00:00
+PM2.5,,"Marhatal, Jabalpur - MPPCB",51.0,2022-10-16 16:00:00+00:00
+SO2,,"Kacheripady, Ernakulam - Kerala PCB",1.31,2022-10-16 16:00:00+00:00
+PM10,,"Sanjay Nagar, Ghaziabad - UPPCB",351.0,2022-10-31 02:00:00+00:00
+PM10,,"Kodungaiyur, Chennai - TNPCB",27.0,2022-10-16 16:00:00+00:00
+CO,,"Bhosari, Pune - IITM",2350.0,2022-07-07 04:45:00+00:00
+PM2.5,,"Bhosari, Pune - IITM",17.48,2022-07-07 04:45:00+00:00
+PM10,,"Malad West, Mumbai - IITM",101.09,2022-10-16 15:45:00+00:00
+PM10,,"Mulund West, Mumbai - MPCB",86.0,2022-10-16 15:45:00+00:00
+O3,,"Pan Bazaar, Guwahati - PCBA",10.71,2022-10-16 16:00:00+00:00
+CO,,"Pan Bazaar, Guwahati - PCBA",930.0,2022-10-16 16:00:00+00:00
+CO,,"Jawahar Nagar, Puducherry - PPCC",410.0,2022-10-16 16:00:00+00:00
+PM10,,"Rajbagh, Srinagar - JKSPCB",240.8,2022-10-16 16:00:00+00:00
+NO2,,"Brahmagiri, Udupi - KSPCB",3.42,2022-10-15 09:00:00+00:00
+PM10,,"B.Katihalli, Hassan - KSPCB",985.0,2022-10-16 15:45:00+00:00
+SO2,,"B R Ambedkar University, Lucknow - UPPCB",10.8,2022-10-16 16:00:00+00:00
+NO2,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",38.87,2022-10-16 16:00:00+00:00
+NO2,,"IESD Banaras Hindu University, Varanasi - UPPCB",20.84,2022-10-16 15:45:00+00:00
+PM2.5,,"NSI Kalyanpur, Kanpur - UPPCB",132.86,2022-10-31 02:00:00+00:00
+CO,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",370.0,2022-10-16 15:45:00+00:00
+NO2,,"Sector 22, Chandigarh - CPCC",71.7,2022-10-31 01:45:00+00:00
+PM10,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",128.0,2022-10-31 01:45:00+00:00
+SO2,,"Kareemganj, Gaya - BSPCB",6.6,2022-10-31 01:30:00+00:00
+SO2,,"Police Line, Saharsa - BSPCB",0.1,2022-10-16 13:45:00+00:00
+O3,,"Darshan Nagar, Chhapra - BSPCB",20.6,2022-10-31 01:45:00+00:00
+O3,,"Sector-53, Chandigarh - CPCC",5.2,2022-10-31 01:45:00+00:00
+SO2,,"Bardowali, Agartala - Tripura SPCB",28.13,2022-10-31 02:00:00+00:00
+NO2,,"Gurdeo Nagar, Aurangabad - BSPCB",46.1,2022-10-31 01:45:00+00:00
+CO,,"DRCC Anandpur, Begusarai - BSPCB",540.0,2022-10-31 01:45:00+00:00
+PM10,,"Rajendra Nagar, Bareilly - UPPCB",125.64,2022-10-31 02:00:00+00:00
+PM10,,"New Malakpet, Hyderabad - TSPCB",40.58,2022-10-31 02:00:00+00:00
+PM2.5,,"SIPCOT Phase-1, Hosur - TNPCB",46.9,2022-10-31 01:45:00+00:00
+SO2,,"Civil Lines, Bareilly - UPPCB",10.84,2022-10-31 02:00:00+00:00
+PM10,,"Paryavaran Parisar, Bhopal - MPPCB",131.0,2022-10-31 01:45:00+00:00
+PM2.5,,Dhopagachi,263.5914560953776,2025-01-13 23:00:00+00:00
+PM10,,"Major Dhyan Chand National Stadium, Delhi - DPCC",327.0,2022-10-31 00:45:00+00:00
+PM10,,"Gobind Pura, Yamuna Nagar - HSPCB",112.4,2022-10-31 01:30:00+00:00
+PM10,,"Dwarka-Sector 8, Delhi - DPCC",423.0,2022-10-31 00:45:00+00:00
+SO2,,"Railway Colony, Guwahati - APCB",11.38,2019-12-24 07:30:00+00:00
+CO,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+CO,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",830.0,2022-10-31 01:45:00+00:00
+PM10,,"Municipal Corporation Office, Dharuhera -  HSPCB",259.4,2022-10-31 01:45:00+00:00
+O3,,"Jadavpur, Kolkata - WBPCB",7.86,2022-10-31 02:00:00+00:00
+NO2,,"Shrivastav Colony, Damoh - MPPCB",4.42,2022-10-31 02:00:00+00:00
+SO2,,"Patti Mehar, Ambala - HSPCB",4.72,2022-10-31 01:45:00+00:00
+PM10,,"Borivali East, Mumbai - MPCB",55.0,2022-10-31 02:00:00+00:00
+CO,,"Borivali East, Mumbai - MPCB",1070.0,2022-10-31 02:00:00+00:00
+O3,,"Phase-1 GIDC, Vapi - GPCB",0.0,2022-10-12 04:45:00+00:00
+PM10,,"Shastri Nagar, Narnaul - HSPCB",150.4,2022-10-31 02:00:00+00:00
+CO,,"DRM Office Danapur, Patna - BSPCB",1500.0,2022-10-16 16:00:00+00:00
+SO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",0.0,2020-04-28 09:45:00+00:00
+O3,,"Bandra, Mumbai - MPCB",722.78,2021-11-19 11:30:00+00:00
+PM2.5,,"Bandra, Mumbai - MPCB",38.0,2021-12-24 04:45:00+00:00
+O3,,"Urban, Chamarajanagar - KSPCB",25.88,2022-10-31 02:00:00+00:00
+CO,,"GIDC, Nandesari - Nandesari Ind. Association",1000.0,2022-10-16 10:15:00+00:00
+PM2.5,,"Kariavattom, Thiruvananthapuram - Kerala PCB",10.44,2022-10-16 15:45:00+00:00
+NO2,,"Okhla Phase-2, Delhi - DPCC",71.5,2022-10-31 00:45:00+00:00
+PM10,,"Vikas Sadan, Gurugram - HSPCB",132.94,2016-04-12 09:30:00+00:00
+NO2,,"IHBAS, Delhi - CPCB",121.43,2018-02-22 02:45:00+00:00
+PM10,,"Rabindra Bharati University, Kolkata - WBSPCB",209.3,2017-10-28 13:00:00+00:00
+O3,,Chandrapur,15.7,2018-02-22 04:00:00+00:00
+PM2.5,,"Sanjay Palace, Agra - UPPCB",124.0,2022-10-31 02:00:00+00:00
+NO2,,Victoria Memorial - WBSPCB,14.61,2017-10-18 03:15:00+00:00
+SO2,,Collectorate - Muzaffarpur - BSPCB,16.9,2018-02-21 23:45:00+00:00
+O3,,"Shadipur, Delhi - CPCB",3.17,2018-02-22 02:45:00+00:00
+PM2.5,,AAQMS Karve Road Pune,66.0,2018-02-22 03:00:00+00:00
+PM2.5,,"Manali, Chennai - CPCB",14.56,2022-10-16 15:00:00+00:00
+NO2,,IGSC Planetarium Complex - Patna - BSPCB,11.0,2018-02-22 03:45:00+00:00
+PM2.5,,Navi Mumbai Municipal Corporation Airoli,20.4,2017-10-04 04:15:00+00:00
+NO2,,"Punjabi Bagh, Delhi - DPCC",169.3,2018-05-12 06:00:00+00:00
+O3,,"Burari Crossing, Delhi - IMD",36.63,2022-08-03 11:00:00+00:00
+NO2,,"Burari Crossing, Delhi - IMD",0.0,2022-08-03 11:00:00+00:00
+PM10,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",20.93,2022-08-02 05:15:00+00:00
+SO2,,"Alandur Bus Depot, Chennai - CPCB",9.47,2022-10-31 01:45:00+00:00
+CO,,"Collectorate, Gaya - BSPCB",1370.0,2022-10-31 02:00:00+00:00
+SO2,,"Secretariat, Amaravati - APPCB",6.1,2022-10-31 02:00:00+00:00
+SO2,,"Bollaram Industrial Area, Hyderabad - TSPCB",0.0,2022-10-31 02:00:00+00:00
+NO2,,"Padmapukur, Howrah - WBPCB",19.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Sector- 16A, Faridabad - HSPCB",240.0,2022-10-31 02:00:00+00:00
+PM2.5,,"NSIT Dwarka, Delhi - CPCB",208.4,2022-10-31 02:00:00+00:00
+PM10,,"DTU, Delhi - CPCB",379.0,2022-10-31 01:45:00+00:00
+PM10,,"Shadipur, Delhi - CPCB",833.9,2022-10-31 02:00:00+00:00
+SO2,,"Maninagar, Ahmedabad - GPCB",109.1,2022-10-31 01:45:00+00:00
+PM10,,"Shrinath Puram, Kota - RSPCB",158.7,2022-10-31 02:00:00+00:00
+CO,,"Mandir Marg, New Delhi - DPCC",400.0,2018-05-10 07:30:00+00:00
+SO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",0.0,2020-04-28 06:15:00+00:00
+PM10,,"Ward-32 Bapupara, Siliguri - WBPCB",258.59,2022-10-31 01:45:00+00:00
+CO,,"Tirumala, Tirupati - APPCB",940.0,2022-10-31 02:00:00+00:00
+O3,,"Rohini, Delhi - DPCC",42.0,2018-05-09 11:00:00+00:00
+CO,,"Major Dhyan Chand National Stadium, Delhi - DPCC",1800.0,2018-05-12 04:30:00+00:00
+PM10,,"Sonia Vihar, Delhi - DPCC",353.0,2018-05-12 05:00:00+00:00
+NO2,,"Ashok Vihar, Delhi - DPCC",36.9,2018-05-12 04:30:00+00:00
+CO,,"Nehru Nagar, Delhi - DPCC",1200.0,2018-05-12 06:00:00+00:00
+O3,,"Mandir Marg, Delhi - DPCC",5.7,2022-10-31 00:45:00+00:00
+CO,,"IHBAS, Dilshad Garden, Delhi - CPCB",1750.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Manali Village, Chennai - TNPCB",19.93,2019-07-19 05:15:00+00:00
+SO2,,"Colaba, Mumbai - MPCB",6.03,2022-10-31 01:45:00+00:00
+PM10,,"Nehru Nagar, Delhi - DPCC",349.0,2022-10-31 00:45:00+00:00
+PM10,,"Mundka, Delhi - DPCC",313.0,2022-10-31 00:45:00+00:00
+PM10,,"Najafgarh, Delhi - DPCC",282.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Civil Lines,  Ajmer - RSPCB",64.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Thavakkara, Kannur - Kerala PCB",39.15,2022-10-16 15:30:00+00:00
+SO2,,"Polayathode, Kollam - Kerala PCB",4.49,2022-10-16 15:45:00+00:00
+PM2.5,,"Bandra Kurla Complex, Mumbai - IITM",26.81,2022-10-16 15:45:00+00:00
+CO,,"Alandi, Pune - IITM",1170.0,2022-07-21 04:45:00+00:00
+NO2,,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",11.2,2022-10-16 16:00:00+00:00
+SO2,,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",1.0,2022-10-16 16:00:00+00:00
+NO2,,"Devaraj Urs Badavane, Davanagere - KSPCB",8.77,2022-10-16 13:00:00+00:00
+PM10,,"MIT-Kothrud, Pune - IITM",28.4,2022-07-11 05:15:00+00:00
+NO2,,"Chandkheda, Ahmedabad - IITM",4.84,2022-10-16 15:45:00+00:00
+PM10,,"Chandkheda, Ahmedabad - IITM",150.7,2022-10-16 15:45:00+00:00
+O3,,"SVPI Airport Hansol, Ahmedabad - IITM",0.0,2022-07-07 09:15:00+00:00
+CO,,"IESD Banaras Hindu University, Varanasi - UPPCB",540.0,2022-10-16 15:45:00+00:00
+SO2,,"Maldahiya, Varanasi - UPPCB",17.19,2022-10-31 02:00:00+00:00
+CO,,"Nagla Bhau, Firozabad - UPPCB",1740.0,2022-10-31 02:00:00+00:00
+SO2,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",15.7,2022-10-31 01:45:00+00:00
+PM2.5,,"Shahjahan Garden, Agra - UPPCB",98.08,2022-10-31 02:00:00+00:00
+PM10,,"Central Jail, Buxar - BSPCB",155.0,2022-10-31 01:45:00+00:00
+SO2,,"Central Jail, Buxar - BSPCB",2.6,2022-10-31 01:45:00+00:00
+SO2,,"SDM Office_Khagra, Kishanganj - BSPCB",12.1,2022-10-31 01:45:00+00:00
+PM10,,"Buddhi Vihar, Moradabad - UPPCB",143.55,2022-10-16 16:00:00+00:00
+SO2,,"Kharahiya Basti, Araria - BSPCB",5.0,2022-10-31 01:45:00+00:00
+SO2,,"Rohta, Agra - UPPCB",27.4,2022-10-31 02:00:00+00:00
+SO2,,"Shivaji Nagar, Jhansi - UPPCB",22.9,2022-10-31 02:00:00+00:00
+PM10,,"DM Office_Kasipur, Samastipur - BSPCB",438.0,2022-10-31 01:45:00+00:00
+PM10,,"DM College of Science, Imphal - Manipur PCB",12.0,2022-10-31 02:00:00+00:00
+O3,,"Ramachandrapuram, Hyderabad - TSPCB",8.22,2022-10-31 02:00:00+00:00
+NO2,,"Kokapet, Hyderabad - TSPCB",3.87,2022-10-31 02:00:00+00:00
+O3,,"Rajendra Nagar, Bareilly - UPPCB",3.4,2022-10-31 02:00:00+00:00
+PM2.5,,"Transport Nagar, Moradabad - UPPCB",72.54,2022-10-31 02:00:00+00:00
+PM2.5,,"Vasanthapuram, Vellore - TNPCB",62.0,2022-10-31 01:45:00+00:00
+NO2,,"Chalai Bazaar, Ramanathapuram - TNPCB",1.17,2022-10-31 02:00:00+00:00
+PM2.5,,"IITG, Guwahati - PCBA",22.7,2022-10-16 12:15:00+00:00
+NO2,,"Gobind Pura, Yamuna Nagar - HSPCB",3.52,2022-10-31 01:30:00+00:00
+O3,,"Gobind Pura, Yamuna Nagar - HSPCB",1.74,2022-10-31 01:30:00+00:00
+PM10,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",354.0,2022-10-31 00:30:00+00:00
+PM2.5,,"Railway Colony, Guwahati - APCB",82.0,2019-12-24 07:30:00+00:00
+PM10,,"Murthal, Sonipat - HSPCB",284.92,2020-01-02 06:45:00+00:00
+SO2,,"Sector-2 IMT, Manesar - HSPCB",11.66,2022-10-31 01:45:00+00:00
+PM10,,"Patparganj, Delhi - DPCC",354.0,2022-10-31 00:45:00+00:00
+CO,,"Patti Mehar, Ambala - HSPCB",1230.0,2022-10-31 01:45:00+00:00
+SO2,,"Udyogamandal, Eloor - Kerala PCB",0.01,2022-10-31 01:45:00+00:00
+O3,,"Rishi Nagar, Kaithal - HSPCB",39.31,2019-08-07 05:45:00+00:00
+SO2,,"Rishi Nagar, Kaithal - HSPCB",8.21,2019-08-07 05:45:00+00:00
+NO2,,"Nathu Colony, Ballabgarh - HSPCB",4.81,2022-10-31 01:45:00+00:00
+CO,,"Jayanagar 5th Block, Bengaluru - KSPCB",0.66,2022-10-31 02:00:00+00:00
+SO2,,"Silk Board, Bengaluru - KSPCB",5.8,2022-10-31 02:00:00+00:00
+SO2,,"Pallavpuram Phase 2, Meerut - UPPCB",19.0,2022-10-16 16:00:00+00:00
+CO,,"Khadakpada, Kalyan - MPCB",1280.0,2022-10-31 01:45:00+00:00
+NO2,,"Kariavattom, Thiruvananthapuram - Kerala PCB",22.45,2022-10-16 15:45:00+00:00
+CO,,"Okhla Phase-2, Delhi - DPCC",3000.0,2022-10-31 00:45:00+00:00
+NO2,,"R K Puram, Delhi - DPCC",77.6,2018-02-21 20:45:00+00:00
+O3,,"Punjabi Bagh, Delhi - DPCC",39.07,2018-01-24 09:30:00+00:00
+PM10,,"Income Tax Office, Delhi - CPCB",312.0,2018-02-22 03:45:00+00:00
+SO2,,Collectorate - Gaya - BSPCB,9.5,2018-02-22 03:00:00+00:00
+NO2,,"MD University, Rohtak - HSPCB",17.0,2018-02-22 03:45:00+00:00
+CO,,"Lalbagh, DN Park",1190.0,2018-02-22 04:00:00+00:00
+PM10,,"Haldia, Haldia - WBPCB",85.33,2022-10-31 02:00:00+00:00
+CO,,"Sanjay Palace, Agra - UPPCB",840.0,2022-10-31 02:00:00+00:00
+PM10,,"Talkatora District Industries Center, Lucknow - CPCB",251.3,2022-10-31 02:00:00+00:00
+CO,,Central School,1350.0,2018-02-22 04:00:00+00:00
+SO2,,"Manali, Chennai - CPCB",7.99,2022-10-16 15:00:00+00:00
+PM2.5,,"Anand Vihar, Delhi - DPCC",283.0,2022-10-31 00:30:00+00:00
+PM2.5,,"Civil Line, Jalandhar - PPCB",55.86,2022-10-31 02:00:00+00:00
+O3,,"Civil Line, Jalandhar - PPCB",7.17,2022-10-31 02:00:00+00:00
+CO,,"Alandur Bus Depot, Chennai - CPCB",4310.0,2022-10-31 01:45:00+00:00
+SO2,,"Collectorate, Gaya - BSPCB",9.4,2022-10-31 02:00:00+00:00
+PM2.5,,"Moti Doongri, Alwar - RSPCB",76.59,2022-10-31 02:00:00+00:00
+PM2.5,,"Collectorate, Jodhpur - RSPCB",130.8,2022-10-31 01:45:00+00:00
+O3,,"Ardhali Bazar, Varanasi - UPPCB",6.66,2022-10-31 02:00:00+00:00
+PM10,,"Secretariat, Amaravati - APPCB",91.0,2022-10-31 02:00:00+00:00
+NO2,,"Sector-2 Industrial Area, Pithampur - MPPCB",10.9,2022-10-31 02:00:00+00:00
+PM2.5,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",50.26,2022-10-31 01:45:00+00:00
+NO2,,"Central University, Hyderabad - TSPCB",59.1,2022-10-31 02:00:00+00:00
+SO2,,"IDA Pashamylaram, Hyderabad - TSPCB",9.5,2022-10-31 02:00:00+00:00
+PM10,,"CRRI Mathura Road, Delhi - IMD",345.82,2022-10-31 01:15:00+00:00
+O3,,"Mandir Marg, New Delhi - DPCC",99.0,2018-05-10 07:30:00+00:00
+NO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",3.8,2020-04-28 06:15:00+00:00
+SO2,,"Sanathnagar, Hyderabad - TSPCB",2.1,2022-10-31 02:00:00+00:00
+NO2,,"Bhopal Chauraha, Dewas - MPPCB",37.6,2022-10-31 02:00:00+00:00
+NO2,,"Ghusuri, Howrah - WBPCB",8.82,2018-05-09 18:15:00+00:00
+O3,,"Major Dhyan Chand National Stadium, Delhi - DPCC",104.1,2018-05-12 04:30:00+00:00
+CO,,"Gole Bazar, Katni - MPPCB",700.0,2022-10-16 16:00:00+00:00
+NO2,,"Gole Bazar, Katni - MPPCB",18.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Anand Vihar, Hapur - UPPCB",166.0,2022-10-31 02:00:00+00:00
+NO2,,"Sonia Vihar, Delhi - DPCC",50.0,2022-10-31 00:45:00+00:00
+PM10,,"Sonia Vihar, Delhi - DPCC",427.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Vidayagiri, Bagalkot - KSPCB",18.63,2022-10-16 15:45:00+00:00
+CO,,"Industrial Area, Hajipur - BSPCB",1000.0,2022-10-16 16:00:00+00:00
+NO2,,"Manali Village, Chennai - TNPCB",7.53,2022-10-31 02:00:00+00:00
+CO,,"Buddha Colony, Muzaffarpur - BSPCB",930.0,2022-10-16 15:30:00+00:00
+SO2,,"Ghusuri, Howrah - WBPCB",13.51,2022-10-16 15:45:00+00:00
+NO2,,"Ghusuri, Howrah - WBPCB",20.11,2022-10-16 15:45:00+00:00
+PM2.5,,"ICRISAT Patancheru, Hyderabad - TSPCB",60.0,2022-10-31 01:45:00+00:00
+PM2.5,,"PWD Juction, Kohima - NPCB",13.0,2022-10-16 16:00:00+00:00
+CO,,"Rishi Nagar, Kaithal - HSPCB",2040.0,2022-10-31 02:00:00+00:00
+NO2,,"Sector-12, Karnal - HSPCB",9.09,2022-10-31 01:30:00+00:00
+O3,,"Ballygunge, Kolkata - WBPCB",34.35,2022-10-16 16:00:00+00:00
+O3,,"Sanjay Nagar, Ghaziabad - UPPCB",10.09,2022-10-31 02:00:00+00:00
+PM10,,"Stuart Hill, Madikeri - KSPCB",11.0,2022-10-16 16:00:00+00:00
+O3,,"Stuart Hill, Madikeri - KSPCB",20.71,2022-10-16 16:00:00+00:00
+PM10,,"Sector-19A Nerul, Navi Mumbai - IITM",108.46,2022-10-16 16:00:00+00:00
+PM10,,"Chakala-Andheri East, Mumbai - IITM",41.66,2022-10-16 13:00:00+00:00
+O3,,"IITK, Kanpur - IITK",16.03,2022-10-16 16:00:00+00:00
+O3,,"B.Katihalli, Hassan - KSPCB",14.1,2022-10-16 15:45:00+00:00
+CO,,"Manoharpur, Agra - UPPCB",870.0,2022-10-31 02:00:00+00:00
+SO2,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",8.63,2022-07-08 07:00:00+00:00
+PM2.5,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",12.0,2022-07-08 07:00:00+00:00
+PM10,,"SAC ISRO Bopal, Ahmedabad - IITM",52.9,2022-06-22 08:45:00+00:00
+NO2,,"Nagla Bhau, Firozabad - UPPCB",26.61,2022-10-31 02:00:00+00:00
+PM10,,"Sector 22, Chandigarh - CPCC",74.0,2022-10-31 01:45:00+00:00
+SO2,,"Mangala, Bilaspur - NTPC",8.77,2022-10-31 02:00:00+00:00
+PM10,,"Mayaganj, Bhagalpur - BSPCB",151.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Kareemganj, Gaya - BSPCB",122.0,2022-10-31 01:45:00+00:00
+CO,,"Mariam Nagar, Purnia - BSPCB",1690.0,2022-10-31 01:45:00+00:00
+PM10,,"New DM Office, Arrah - BSPCB",339.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Jigar Colony, Moradabad - UPPCB",52.13,2022-10-31 02:00:00+00:00
+PM10,,"Kompally Municipal Office, Hyderabad - TSPCB",27.56,2022-10-31 02:00:00+00:00
+CO,,"IITH Kandi, Hyderabad - TSPCB",750.0,2022-10-31 02:00:00+00:00
+NO2,,"Kalindi Kunj, Khurja - UPPCB",24.83,2022-10-31 01:45:00+00:00
+O3,,"Chalai Bazaar, Ramanathapuram - TNPCB",13.83,2022-10-31 02:00:00+00:00
+SO2,,"Crescent University, Chengalpattu - TNPCB",63.01,2022-10-14 04:30:00+00:00
+NO2,,"Ramteerth Nagar, Belgaum - KSPCB",30.73,2022-10-31 01:45:00+00:00
+CO,,"Ramteerth Nagar, Belgaum - KSPCB",930.0,2022-10-31 01:45:00+00:00
+TEMPERATURE,,Dhopagachi,18.053125381469727,2025-01-13 23:00:00+00:00
+O3,,"Moti Doongri, Alwar - RSPCB",3.33,2022-10-31 02:00:00+00:00
+O3,,"Ashok Nagar, Udaipur - RSPCB",11.51,2022-10-31 01:45:00+00:00
+NO2,,"Ashok Nagar, Udaipur - RSPCB",28.63,2022-10-31 01:45:00+00:00
+CO,,"Collectorate, Jodhpur - RSPCB",590.0,2022-10-31 01:45:00+00:00
+NO2,,"Secretariat, Amaravati - APPCB",9.7,2022-10-31 02:00:00+00:00
+PM10,,"Lajpat Nagar, Moradabad - UPPCB",134.0,2022-01-13 05:45:00+00:00
+O3,,"GM Office, Brajrajnagar - OSPCB",11.38,2022-10-14 20:00:00+00:00
+O3,,"North Campus, DU, Delhi - IMD",14.59,2022-06-22 02:15:00+00:00
+NO2,,"Chandrapur, Chandrapur - MPCB",32.1,2022-10-31 02:00:00+00:00
+PM10,,"Shastri Nagar, Jaipur - RSPCB",115.5,2022-10-31 01:45:00+00:00
+PM2.5,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",75.0,2022-10-16 16:00:00+00:00
+NO2,,"Sector-D Industrial Area, Mandideep - MPPCB",108.6,2022-10-31 02:00:00+00:00
+NO2,,"Plammoodu, Thiruvananthapuram - Kerala PCB",6.2,2022-10-31 02:00:00+00:00
+PM2.5,,"Plammoodu, Thiruvananthapuram - Kerala PCB",34.0,2022-10-31 02:00:00+00:00
+NO2,,"Sanathnagar, Hyderabad - TSPCB",33.5,2022-10-31 02:00:00+00:00
+CO,,"IGSC Planetarium Complex, Patna - BSPCB",500.0,2022-10-31 02:00:00+00:00
+O3,,"Lalbagh, Lucknow - CPCB",15.16,2022-10-31 01:45:00+00:00
+NO2,,"Karve Road, Pune - MPCB",500.0,2022-10-10 11:15:00+00:00
+O3,,"Karve Road, Pune - MPCB",760.0,2022-10-10 11:15:00+00:00
+PM2.5,,"PWD Grounds, Vijayawada - APPCB",0.0,2020-11-20 08:15:00+00:00
+O3,,"Bhopal Chauraha, Dewas - MPPCB",29.6,2022-10-31 02:00:00+00:00
+NO2,,"Patparganj, Delhi - DPCC",10.3,2018-05-08 06:30:00+00:00
+PM10,,"Okhla Phase-2, Delhi - DPCC",233.0,2018-05-13 10:00:00+00:00
+SO2,,"Rabindra Bharati University, Kolkata - WBPCB",38.0,2022-03-24 23:30:00+00:00
+PM10,,"H.B. Colony, Bhiwani - HSPCB",135.4,2022-10-31 01:45:00+00:00
+PM10,,"General Hospital, Mandikhera - HSPCB",145.7,2022-10-31 01:45:00+00:00
+SO2,,"Patparganj, Delhi - DPCC",3.6,2022-10-31 00:45:00+00:00
+PM2.5,,"Shrivastav Colony, Damoh - MPPCB",81.0,2022-10-31 02:00:00+00:00
+PM10,,"Jayanagar 5th Block, Bengaluru - KSPCB",104.0,2022-10-31 02:00:00+00:00
+O3,,"Sector-1, Noida - UPPCB",7.92,2022-10-16 16:00:00+00:00
+PM10,,"Fort William, Kolkata - WBPCB",103.55,2022-10-31 01:45:00+00:00
+PM2.5,,"Fort William, Kolkata - WBPCB",36.41,2022-10-31 01:45:00+00:00
+O3,,"Fort William, Kolkata - WBPCB",11.97,2022-10-31 01:45:00+00:00
+NO2,,"Hombegowda Nagar, Bengaluru - KSPCB",30.4,2022-10-16 16:00:00+00:00
+SO2,,"Hombegowda Nagar, Bengaluru - KSPCB",4.8,2022-10-16 16:00:00+00:00
+NO2,,"R K Puram, Delhi - DPCC",90.1,2022-10-31 00:45:00+00:00
+PM10,,"Shyam Nagar, Palwal - HSPCB",153.4,2020-01-01 09:15:00+00:00
+PM10,,"Sector-7, Kurukshetra - HSPCB",247.7,2022-10-31 01:45:00+00:00
+PM10,,"Chhoti Gwaltoli, Indore - MPPCB",42.0,2020-01-06 09:15:00+00:00
+PM2.5,,"Gole Bazar, Katni - MPPCB",31.0,2020-01-07 09:15:00+00:00
+PM10,,"Bandra, Mumbai - MPCB",104.3,2021-12-24 04:45:00+00:00
+NO2,,"Corporation Ground, Thrissur - Kerala PCB",19.84,2022-10-16 15:30:00+00:00
+PM10,,"GIDC, Nandesari - Nandesari Ind. Association",335.0,2022-10-16 10:15:00+00:00
+SO2,,"Kariavattom, Thiruvananthapuram - Kerala PCB",3.35,2022-10-16 15:45:00+00:00
+SO2,,"Jahangirpuri, Delhi - DPCC",12.6,2022-10-31 00:45:00+00:00
+PM2.5,,"Mandir Marg, Delhi - DPCC",149.0,2018-02-21 21:15:00+00:00
+PM2.5,,Collectorate - Gaya - BSPCB,105.0,2018-02-22 03:00:00+00:00
+PM2.5,,"Zoo Park, Hyderabad - TSPCB",83.0,2022-10-31 02:00:00+00:00
+NO2,,"Haldia, Haldia - WBPCB",16.52,2022-10-31 02:00:00+00:00
+PM10,,"Sanjay Palace, Agra - UPPCB",785.0,2022-10-31 02:00:00+00:00
+PM2.5,,US Diplomatic Post: Hyderabad,76.7,2016-11-09 16:30:00+00:00
+PM2.5,,IIT,70.0,2018-02-22 03:45:00+00:00
+PM2.5,,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",40.94,2018-02-22 03:00:00+00:00
+PM10,,"Tata Stadium, Jorapokhar - JSPCB",53.5,2022-10-16 07:45:00+00:00
+CO,,"Anand Vihar, Hapur - UPPCB",0.0,2022-10-16 16:00:00+00:00
+NO2,,"Mundka, Delhi - DPCC",65.9,2022-10-31 00:45:00+00:00
+SO2,,"Civil Lines,  Ajmer - RSPCB",9.62,2022-10-31 01:45:00+00:00
+NO2,,"Rajbansi Nagar, Patna - BSPCB",63.11,2022-10-16 15:45:00+00:00
+SO2,,"Govt. High School Shikarpur, Patna - BSPCB",14.23,2022-10-16 15:45:00+00:00
+NO2,,"Samanpura, Patna - BSPCB",16.34,2022-10-16 15:45:00+00:00
+PM2.5,,"Buddha Colony, Muzaffarpur - BSPCB",68.64,2022-10-16 15:30:00+00:00
+CO,,"Ghusuri, Howrah - WBPCB",530.0,2022-10-16 15:45:00+00:00
+O3,,"Ghusuri, Howrah - WBPCB",9.61,2022-10-16 15:45:00+00:00
+CO,,"T T Nagar, Bhopal - MPPCB",3530.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Ballygunge, Kolkata - WBPCB",54.8,2022-10-16 16:00:00+00:00
+PM10,,"Bhosari, Pune - IITM",27.93,2022-07-07 04:45:00+00:00
+PM2.5,,"Sector-19A Nerul, Navi Mumbai - IITM",70.84,2022-10-16 16:00:00+00:00
+SO2,,"Mulund West, Mumbai - MPCB",13.63,2022-10-16 15:45:00+00:00
+CO,,"Naubad, Bidar - KSPCB",4630.0,2022-10-16 10:15:00+00:00
+O3,,"Naubad, Bidar - KSPCB",14.65,2022-10-16 10:15:00+00:00
+NO2,,"Tamaka Ind. Area, Kolar - KSPCB",48.47,2022-10-31 02:00:00+00:00
+NO2,,"Hadapsar, Pune - IITM",16.62,2022-06-22 08:45:00+00:00
+NO2,,"SVPI Airport Hansol, Ahmedabad - IITM",10.67,2022-07-07 09:15:00+00:00
+O3,,"SAC ISRO Satellite, Ahmedabad - IITM",28.0,2022-07-07 09:15:00+00:00
+O3,,"IIPHG Lekawada, Gandhinagar - IITM",0.0,2022-07-22 12:00:00+00:00
+PM10,,"IIPHG Lekawada, Gandhinagar - IITM",0.0,2022-07-22 12:00:00+00:00
+PM2.5,,"SAC ISRO Bopal, Ahmedabad - IITM",34.3,2022-06-22 08:45:00+00:00
+NO2,,"D M Colony, Bihar Sharif - BSPCB",2.0,2022-10-31 01:45:00+00:00
+CO,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+NO2,,"Mayaganj, Bhagalpur - BSPCB",92.7,2022-10-31 01:45:00+00:00
+PM2.5,,"Mayaganj, Bhagalpur - BSPCB",107.0,2022-10-31 01:45:00+00:00
+PM2.5,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",93.0,2022-10-31 01:45:00+00:00
+SO2,,"New DM Office, Arrah - BSPCB",2.4,2022-10-31 01:45:00+00:00
+SO2,,"Eco Herbal Park, Moradabad - UPPCB",14.8,2022-10-31 02:00:00+00:00
+O3,,"Sardar Patel Inter College, Baghpat - UPPCB",0.8,2022-10-31 02:00:00+00:00
+PM2.5,,"Sardar Patel Inter College, Baghpat - UPPCB",129.0,2022-10-31 02:00:00+00:00
+O3,,"HIMUDA Complex Phase-1, Baddi - HPPCB",85.4,2022-10-31 01:45:00+00:00
+PM2.5,,"JN Stadium, Shillong - Meghalaya PCB",19.3,2022-10-15 05:45:00+00:00
+PM10,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Kalindi Kunj, Khurja - UPPCB",124.03,2022-10-31 01:45:00+00:00
+O3,,"Paryavaran Parisar, Bhopal - MPPCB",8.7,2022-10-31 01:45:00+00:00
+PM1,,Dhopagachi,136.54353968302408,2025-01-13 23:00:00+00:00
+PM2.5,,"Shasthri Nagar, Ratlam - IPCA Lab",74.15,2022-10-31 02:00:00+00:00
+PM2.5,,"Arya Nagar, Bahadurgarh - HSPCB",238.8,2022-10-31 01:30:00+00:00
+PM10,,"Vivek Vihar, Delhi - DPCC",421.0,2022-10-31 00:45:00+00:00
+PM10,,"Phase-4 GIDC, Vatva - GPCB",60.03,2022-10-31 02:00:00+00:00
+O3,,"Kurla, Mumbai - MPCB",37.15,2022-10-31 02:00:00+00:00
+NO2,,"Powai, Mumbai - MPCB",20.45,2022-10-16 13:15:00+00:00
+CO,,"Police Lines, Jind - HSPCB",1450.0,2022-10-31 01:45:00+00:00
+PM10,,"Sion, Mumbai - MPCB",130.97,2022-10-31 01:45:00+00:00
+PM2.5,,"Rishi Nagar, Kaithal - HSPCB",26.74,2019-08-07 05:45:00+00:00
+CO,,"Nathu Colony, Ballabgarh - HSPCB",3830.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Jai Bhim Nagar, Meerut - UPPCB",109.0,2022-10-26 07:45:00+00:00
+O3,,"Jai Bhim Nagar, Meerut - UPPCB",6.74,2022-10-31 02:00:00+00:00
+CO,,"New Collectorate, Baghpat - UPPCB",2130.0,2022-01-31 04:45:00+00:00
+NO2,,"New Collectorate, Baghpat - UPPCB",39.3,2022-01-31 04:45:00+00:00
+CO,,"Hebbal, Bengaluru - KSPCB",610.0,2022-10-31 02:00:00+00:00
+PM10,,"Khadakpada, Kalyan - MPCB",985.0,2022-10-31 01:45:00+00:00
+PM10,,"Kariavattom, Thiruvananthapuram - Kerala PCB",18.21,2022-10-16 15:45:00+00:00
+NO2,,Chandrapur,18.8,2018-02-22 04:00:00+00:00
+PM2.5,,VK Industrial Area Jaipur - RSPCB,24.0,2017-06-12 05:30:00+00:00
+CO,,"Solapur, Solapur - MPCB",1780.0,2022-10-31 02:00:00+00:00
+SO2,,"Civil Line, Jalandhar - PPCB",15.91,2022-10-31 02:00:00+00:00
+NO2,,"MIDC Khutala, Chandrapur - MPCB",42.6,2022-10-11 12:45:00+00:00
+PM10,,"Punjab Agricultural University, Ludhiana - PPCB",187.51,2022-10-31 02:00:00+00:00
+NO2,,"Ardhali Bazar, Varanasi - UPPCB",38.73,2022-10-31 02:00:00+00:00
+SO2,,"Lajpat Nagar, Moradabad - UPPCB",10.8,2022-01-13 05:45:00+00:00
+PM2.5,,"Peenya, Bengaluru - CPCB",50.55,2022-10-31 01:45:00+00:00
+NO2,,"Sector- 16A, Faridabad - HSPCB",18.99,2022-10-31 02:00:00+00:00
+O3,,"Central University, Hyderabad - TSPCB",5.5,2022-10-31 02:00:00+00:00
+O3,,"CRRI Mathura Road, Delhi - IMD",28.31,2022-10-31 01:15:00+00:00
+NO2,,"Shadipur, Delhi - CPCB",36.5,2022-10-31 02:00:00+00:00
+CO,,"Maninagar, Ahmedabad - GPCB",180.0,2022-10-31 01:45:00+00:00
+PM10,,"Sector-D Industrial Area, Mandideep - MPPCB",350.0,2022-10-31 02:00:00+00:00
+O3,,"Shrinath Puram, Kota - RSPCB",15.48,2022-10-31 02:00:00+00:00
+NO2,,"Jawaharlal Nehru Stadium, Delhi - DPCC",23.4,2018-05-10 09:30:00+00:00
+NO2,,"Major Dhyan Chand National Stadium, Delhi - DPCC",87.4,2018-05-12 04:30:00+00:00
+PM2.5,,"Dwarka-Sector 8, Delhi - DPCC",67.0,2018-05-11 12:30:00+00:00
+PM2.5,,"Narela, Delhi - DPCC",173.0,2018-05-12 06:00:00+00:00
+PM2.5,,"Okhla Phase-2, Delhi - DPCC",74.0,2018-05-13 10:00:00+00:00
+NO2,,"Wazirpur, Delhi - DPCC",32.8,2022-10-31 00:45:00+00:00
+CO,,"Sri Aurobindo Marg, Delhi - DPCC",1300.0,2022-10-31 00:45:00+00:00
+SO2,,"Narela, Delhi - DPCC",2.2,2022-10-31 00:45:00+00:00
+CO,,"ITO, Delhi - CPCB",1760.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Govt. High School Shikarpur, Patna - BSPCB",53.4,2022-10-16 15:45:00+00:00
+SO2,,"Thavakkara, Kannur - Kerala PCB",1.08,2022-10-16 15:30:00+00:00
+SO2,,"Lumpyngngad, Shillong - Meghalaya PCB",16.61,2022-10-16 16:00:00+00:00
+NO2,,"Palayam, Kozhikode - Kerala PCB",17.5,2022-10-16 04:45:00+00:00
+PM10,,"Rabindra Sarobar, Kolkata - WBPCB",70.9,2022-10-31 01:45:00+00:00
+PM2.5,,"Rishi Nagar, Kaithal - HSPCB",238.02,2022-10-31 02:00:00+00:00
+NO2,,"City Center, Gwalior - MPPCB",50.4,2022-10-16 16:00:00+00:00
+PM10,,"Sector 11, Faridabad - HSPCB",572.8,2022-10-16 15:45:00+00:00
+NO2,,"NISE Gwal Pahari, Gurugram - IMD",28.72,2022-10-14 16:15:00+00:00
+SO2,,"Kunjaban, Agartala - Tripura SPCB",13.92,2022-10-16 16:00:00+00:00
+O3,,"Borivali East, Mumbai - IITM",8.0,2022-07-08 07:15:00+00:00
+O3,,"Revenue Colony-Shivajinagar, Pune - IITM",11.0,2022-07-07 07:15:00+00:00
+SO2,,"Khindipada-Bhandup West, Mumbai - IITM",0.62,2022-09-22 05:30:00+00:00
+PM2.5,,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",1.0,2022-10-16 16:00:00+00:00
+SO2,,"Jawahar Nagar, Puducherry - PPCC",7.5,2022-10-16 16:00:00+00:00
+PM2.5,,"Chandkheda, Ahmedabad - IITM",76.0,2022-10-16 15:45:00+00:00
+CO,,"GIFT City, Gandhinagar - IITM",680.0,2022-07-07 09:00:00+00:00
+PM10,,"Maldahiya, Varanasi - UPPCB",162.19,2022-10-31 02:00:00+00:00
+PM2.5,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",408.0,2022-10-31 01:45:00+00:00
+PM10,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",320.0,2022-10-16 15:45:00+00:00
+NO2,,"Mangala, Bilaspur - NTPC",9.22,2022-10-31 02:00:00+00:00
+SO2,,"Mirchaibari, Katihar - BSPCB",2.1,2022-10-16 15:45:00+00:00
+NO2,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",24.1,2022-10-31 01:45:00+00:00
+SO2,,"Darshan Nagar, Chhapra - BSPCB",1.4,2022-10-31 01:45:00+00:00
+NO2,,"Eco Herbal Park, Moradabad - UPPCB",6.4,2022-10-31 02:00:00+00:00
+SO2,,"HIMUDA Complex Phase-1, Baddi - HPPCB",7.7,2022-10-31 01:45:00+00:00
+PM2.5,,"Gurdeo Nagar, Aurangabad - BSPCB",63.0,2022-10-31 01:45:00+00:00
+O3,,"Gurdeo Nagar, Aurangabad - BSPCB",26.1,2022-10-31 01:45:00+00:00
+SO2,,"DRCC Anandpur, Begusarai - BSPCB",12.4,2022-10-31 01:45:00+00:00
+PM10,,"Ashwini Nagar, Haveri - KSPCB",25.0,2022-10-16 16:00:00+00:00
+PM10,,"Vibhab Nagar, Firozabad - UPPCB",75.2,2022-10-31 02:00:00+00:00
+PM2.5,,"Vibhab Nagar, Firozabad - UPPCB",63.28,2022-10-31 02:00:00+00:00
+NO2,,"Kumaran College, Tirupur - TNPCB",33.36,2022-10-16 15:45:00+00:00
+PM10,,"Vasanthapuram, Vellore - TNPCB",90.0,2022-10-31 01:45:00+00:00
+NO2,,"Paryavaran Parisar, Bhopal - MPPCB",26.1,2022-10-31 01:45:00+00:00
+PM10,,"Shasthri Nagar, Ratlam - IPCA Lab",150.89,2022-10-31 02:00:00+00:00
+SO2,,"Urban Estate-II, Hisar - HSPCB",31.97,2022-10-31 01:45:00+00:00
+SO2,,"Sector-10, Gandhinagar - GPCB",7.19,2022-10-31 01:45:00+00:00
+PM10,,"Sector-2 IMT, Manesar - HSPCB",345.9,2022-10-31 01:45:00+00:00
+CO,,"Sector-2 IMT, Manesar - HSPCB",1790.0,2022-10-31 01:45:00+00:00
+O3,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",46.26,2022-10-31 02:00:00+00:00
+O3,,"Jawaharlal Nehru Stadium, Delhi - DPCC",9.1,2022-10-31 00:45:00+00:00
+O3,,"Borivali East, Mumbai - MPCB",16.72,2022-10-31 02:00:00+00:00
+SO2,,"Phase-1 GIDC, Vapi - GPCB",29.3,2022-10-12 04:45:00+00:00
+PM2.5,,"Nathu Colony, Ballabgarh - HSPCB",122.61,2022-10-31 01:45:00+00:00
+PM10,,"Vile Parle West, Mumbai - MPCB",113.13,2022-10-31 01:45:00+00:00
+CO,,"Pallavpuram Phase 2, Meerut - UPPCB",230.0,2022-10-16 16:00:00+00:00
+NO2,,"Ganga Nagar, Meerut - UPPCB",50.6,2022-10-16 16:00:00+00:00
+NO2,,"Anand Vihar, Delhi - DPCC",469.0,2018-02-21 21:15:00+00:00
+PM2.5,,Alandur Bus Depot,111.73,2018-02-22 03:45:00+00:00
+NO2,,Alandur Bus Depot,12.39,2018-02-22 03:45:00+00:00
+PM2.5,,"Rabindra Bharati University, Kolkata - WBSPCB",34.6,2016-06-28 04:32:00+00:00
+O3,,Collectorate - Muzaffarpur - BSPCB,2.4,2018-02-21 23:45:00+00:00
+SO2,,Central School,7.71,2018-02-22 04:00:00+00:00
+CO,,"Shadipur, Delhi - CPCB",2140.0,2018-02-22 02:45:00+00:00
+SO2,,Nehru Nagar,12.4,2018-02-22 03:15:00+00:00
+PM10,,"Model Town, Patiala - PPCB",170.7,2022-10-31 01:45:00+00:00
+CO,,"Golden Temple, Amritsar - PPCB",580.0,2022-10-31 02:00:00+00:00
+NO2,,"Talcher Coalfields,Talcher - OSPCB",11.12,2022-10-31 01:00:00+00:00
+PM10,,"Pusa, New Delhi - IMD",50.37,2018-05-14 02:00:00+00:00
+PM2.5,,"Gangapur Road, Nashik - MPCB",43.43,2022-10-31 02:00:00+00:00
+O3,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",15.1,2022-10-16 16:00:00+00:00
+PM2.5,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",77.0,2022-10-16 16:00:00+00:00
+O3,,"Bollaram Industrial Area, Hyderabad - TSPCB",0.7,2022-10-31 02:00:00+00:00
+PM2.5,,"Asansol Court Area, Asansol - WBPCB",74.44,2022-10-31 01:45:00+00:00
+CO,,"Peenya, Bengaluru - CPCB",630.0,2022-10-31 01:45:00+00:00
+PM10,,"Peenya, Bengaluru - CPCB",65.36,2022-10-31 01:45:00+00:00
+CO,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",540.0,2022-10-31 02:00:00+00:00
+NO2,,"North Campus, DU, Delhi - IMD",24.0,2022-10-31 02:00:00+00:00
+SO2,,"Padmapukur, Howrah - WBPCB",15.45,2022-10-31 01:45:00+00:00
+CO,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",1190.0,2022-10-31 01:45:00+00:00
+PM2.5,,"CRRI Mathura Road, Delhi - IMD",224.72,2022-10-31 01:15:00+00:00
+PM2.5,,"Sector-D Industrial Area, Mandideep - MPPCB",88.0,2022-10-31 02:00:00+00:00
+PM10,,"Major Dhyan Chand National Stadium, Delhi - DPCC",155.0,2018-05-10 09:30:00+00:00
+PM10,,"Dwarka-Sector 8, Delhi - DPCC",250.0,2018-05-11 12:30:00+00:00
+NO2,,"New Mandi, Muzaffarnagar - UPPCB",21.6,2022-10-31 02:00:00+00:00
+NO2,,"Indirapuram, Ghaziabad - UPPCB",90.6,2022-10-31 02:00:00+00:00
+PM2.5,,"Vasai West, Mumbai - MPCB",56.5,2022-10-31 02:00:00+00:00
+CO,,"Aya Nagar, Delhi - IMD",1740.0,2022-10-31 01:15:00+00:00
+PM2.5,,"Ashok Nagar, Udaipur - RSPCB",25.91,2022-10-31 01:45:00+00:00
+CO,,"Pimpleshwar Mandir, Thane - MPCB",10.0,2022-10-16 11:45:00+00:00
+PM2.5,,"Nishant Ganj, Lucknow - UPPCB",5.0,2019-08-21 08:15:00+00:00
+PM2.5,,"Chandrapur, Chandrapur - MPCB",66.0,2022-10-31 02:00:00+00:00
+O3,,"Chandrapur, Chandrapur - MPCB",14.9,2022-10-31 02:00:00+00:00
+O3,,"Padmapukur, Howrah - WBPCB",20.55,2022-10-31 01:45:00+00:00
+SO2,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",18.45,2022-10-31 01:45:00+00:00
+O3,,"Sector- 16A, Faridabad - HSPCB",16.86,2022-10-31 02:00:00+00:00
+SO2,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",11.2,2022-10-16 16:00:00+00:00
+CO,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",1320.0,2022-10-16 16:00:00+00:00
+PM10,,"Opp GPO Civil Lines, Nagpur - MPCB",102.83,2022-10-31 00:45:00+00:00
+SO2,,"Shadipur, Delhi - CPCB",10.3,2022-10-31 02:00:00+00:00
+PM10,,"Sanegurava Halli, Bengaluru - KSPCB",44.07,2022-10-31 02:00:00+00:00
+O3,,"Plammoodu, Thiruvananthapuram - Kerala PCB",11.3,2022-10-31 02:00:00+00:00
+O3,,"IGSC Planetarium Complex, Patna - BSPCB",41.0,2022-10-31 02:00:00+00:00
+PM10,,"PWD Grounds, Vijayawada - APPCB",0.0,2020-11-20 08:15:00+00:00
+PM2.5,,"Bhopal Chauraha, Dewas - MPPCB",27.0,2022-10-31 02:00:00+00:00
+SO2,,"Rohini, Delhi - DPCC",7.7,2018-05-09 11:00:00+00:00
+SO2,,"Ghusuri, Howrah - WBPCB",2.19,2018-05-09 18:15:00+00:00
+SO2,,"Nehru Nagar, Delhi - DPCC",18.8,2018-05-12 06:00:00+00:00
+NO2,,"Nehru Nagar, Delhi - DPCC",19.1,2018-05-12 06:00:00+00:00
+NO2,,"IHBAS, Dilshad Garden, Delhi - CPCB",11.42,2022-10-31 01:45:00+00:00
+PM10,,"New Mandi, Muzaffarnagar - UPPCB",103.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Colaba, Mumbai - MPCB",72.16,2022-10-31 01:45:00+00:00
+PM2.5,,"Major Dhyan Chand National Stadium, Delhi - DPCC",228.0,2022-10-31 00:45:00+00:00
+SO2,,"Dwarka-Sector 8, Delhi - DPCC",1.7,2022-10-31 00:45:00+00:00
+SO2,,"Alipur, Delhi - DPCC",16.5,2022-10-25 04:45:00+00:00
+PM2.5,,"Alipur, Delhi - DPCC",290.0,2022-10-31 00:30:00+00:00
+PM2.5,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",245.0,2022-10-31 00:30:00+00:00
+SO2,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",9.9,2022-10-31 00:30:00+00:00
+O3,,"Mahape, Navi Mumbai - MPCB",15.1,2022-10-16 15:45:00+00:00
+NO2,,"General Hospital, Mandikhera - HSPCB",14.57,2022-10-31 01:45:00+00:00
+O3,,"General Hospital, Mandikhera - HSPCB",20.79,2022-10-31 01:45:00+00:00
+O3,,"Municipal Corporation Office, Dharuhera -  HSPCB",38.66,2022-10-31 01:45:00+00:00
+SO2,,"Sector-18, Panipat - HSPCB",9.54,2022-10-31 01:45:00+00:00
+NO2,,"Jayanagar 5th Block, Bengaluru - KSPCB",21.5,2022-10-31 02:00:00+00:00
+PM2.5,,"New Collectorate, Baghpat - UPPCB",233.0,2022-01-31 04:45:00+00:00
+CO,,"Sector-1, Noida - UPPCB",8970.0,2022-10-13 06:15:00+00:00
+O3,,"Gomti Nagar, Lucknow - UPPCB",7.2,2022-10-16 16:00:00+00:00
+SO2,,"Chhoti Gwaltoli, Indore - MPPCB",5.4,2020-01-06 09:15:00+00:00
+NO2,,"East Arjun Nagar, Delhi - CPCB",95.95,2020-02-10 03:00:00+00:00
+SO2,,"Bandra, Mumbai - MPCB",24.06,2021-12-24 04:45:00+00:00
+SO2,,"Sikulpuikawn, Aizawl - Mizoram PCB",16.34,2022-10-16 15:45:00+00:00
+NO2,,"Ibrahimpur, Vijayapura - KSPCB",8.86,2022-10-16 16:00:00+00:00
+CO,,"Jahangirpuri, Delhi - DPCC",700.0,2022-10-31 00:45:00+00:00
+PM2.5,,"R K Puram, Delhi - DPCC",201.0,2018-02-21 21:15:00+00:00
+SO2,,"Haldia, Haldia - WBPCB",14.9,2022-10-31 02:00:00+00:00
+NO2,,Collectorate Jodhpur - RSPCB,68.44,2018-02-22 03:45:00+00:00
+CO,,"Rabindra Bharati University, Kolkata - WBSPCB",420.0,2017-10-26 06:00:00+00:00
+SO2,,"Sanjay Palace, Agra - UPPCB",2.1,2022-10-31 02:00:00+00:00
+PM2.5,,US Diplomatic Post: Kolkata,279.1,2016-11-09 16:30:00+00:00
+SO2,,"Sector16A, Faridabad - HSPCB",8.19,2018-02-22 03:25:00+00:00
+CO,,"Sanathnagar, Hyderabad - TSPCB",630.0,2018-02-22 03:00:00+00:00
+SO2,,"Birla Staff colony, Satna - MPPCB",7.0,2018-03-14 03:30:00+00:00
+PM10,,"Birla Staff colony, Satna - MPPCB",265.0,2018-03-14 03:30:00+00:00
+PM2.5,,"BTM Layout, Bengaluru - CPCB",24.01,2022-10-16 16:00:00+00:00
+O3,,"Sonia Vihar, Delhi - DPCC",3.8,2022-10-31 00:45:00+00:00
+SO2,,"Mundka, Delhi - DPCC",9.2,2022-10-31 00:45:00+00:00
+O3,,"Anand Vihar, Delhi - DPCC",25.8,2021-09-20 07:45:00+00:00
+SO2,,"Victoria, Kolkata - WBPCB",10.48,2022-10-31 01:45:00+00:00
+PM2.5,,"Samanpura, Patna - BSPCB",100.5,2022-10-16 15:45:00+00:00
+SO2,,"Samanpura, Patna - BSPCB",6.15,2022-10-16 15:45:00+00:00
+CO,,"Rohini, Delhi - DPCC",7000.0,2022-10-30 20:30:00+00:00
+CO,,"PWD Juction, Kohima - NPCB",340.0,2022-10-16 16:00:00+00:00
+PM10,,"PWD Juction, Kohima - NPCB",46.0,2022-10-16 16:00:00+00:00
+O3,,"Rishi Nagar, Kaithal - HSPCB",0.43,2022-10-31 02:00:00+00:00
+PM10,,"Rishi Nagar, Kaithal - HSPCB",475.97,2022-10-31 02:00:00+00:00
+SO2,,"Sahilara, Maihar - KJS Cements",8.46,2022-10-31 01:45:00+00:00
+CO,,"Royapuram, Chennai - TNPCB",940.0,2022-10-16 16:00:00+00:00
+CO,,"Kunjaban, Agartala - Tripura SPCB",1040.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Deonar, Mumbai - IITM",75.1,2022-10-16 15:45:00+00:00
+NO2,,"Bhosari, Pune - IITM",23.11,2022-07-07 04:45:00+00:00
+PM10,,"Mhada Colony, Pune - IITM",45.43,2022-06-22 08:45:00+00:00
+SO2,,"Sector-19A Nerul, Navi Mumbai - IITM",1.31,2022-10-16 16:00:00+00:00
+CO,,"Chakala-Andheri East, Mumbai - IITM",1000.0,2022-10-16 13:00:00+00:00
+PM10,,"Khindipada-Bhandup West, Mumbai - IITM",11.81,2022-09-22 05:30:00+00:00
+PM10,,"Kandivali East, Mumbai - MPCB",145.42,2022-10-16 15:45:00+00:00
+PM2.5,,"IITK, Kanpur - IITK",15.4,2022-10-16 16:00:00+00:00
+CO,,"B.Katihalli, Hassan - KSPCB",190.0,2022-10-16 15:45:00+00:00
+NO2,,"Naharlagun, Naharlagun - APSPCB",12.94,2022-10-15 02:45:00+00:00
+NO2,,"Motilal Nehru NIT, Prayagraj - UPPCB",30.3,2022-10-31 02:00:00+00:00
+PM10,,"Gyaspur, Ahmedabad - IITM",45.2,2022-07-07 08:45:00+00:00
+PM2.5,,"SVPI Airport Hansol, Ahmedabad - IITM",41.5,2022-07-07 09:15:00+00:00
+PM10,,"Shastripuram, Agra - UPPCB",106.65,2022-10-16 16:00:00+00:00
+SO2,,"IESD Banaras Hindu University, Varanasi - UPPCB",15.57,2022-10-16 15:45:00+00:00
+CO,,"NSI Kalyanpur, Kanpur - UPPCB",1220.0,2022-10-31 02:00:00+00:00
+SO2,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",16.42,2022-10-16 16:00:00+00:00
+CO,,"FTI Kidwai Nagar, Kanpur - UPPCB",1490.0,2022-10-31 02:00:00+00:00
+PM10,,"Town Hall, Munger - BSPCB",198.0,2022-10-31 01:45:00+00:00
+NO2,,"Central Jail, Buxar - BSPCB",4.1,2022-10-31 01:45:00+00:00
+NO2,,"SDM Office_Khagra, Kishanganj - BSPCB",51.0,2022-10-31 01:45:00+00:00
+PM10,,"Rohta, Agra - UPPCB",177.7,2022-10-31 02:00:00+00:00
+PM2.5,,"HIMUDA Complex Phase-1, Baddi - HPPCB",25.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Bardowali, Agartala - Tripura SPCB",62.9,2022-10-31 02:00:00+00:00
+PM10,,"Gurdeo Nagar, Aurangabad - BSPCB",120.0,2022-10-31 01:45:00+00:00
+CO,,"DM College of Science, Imphal - Manipur PCB",130.0,2022-10-31 02:00:00+00:00
+SO2,,"DM College of Science, Imphal - Manipur PCB",65.67,2022-10-31 02:00:00+00:00
+CO,,"Kompally Municipal Office, Hyderabad - TSPCB",750.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",24.05,2022-10-31 02:00:00+00:00
+PM10,,"Ramachandrapuram, Hyderabad - TSPCB",68.85,2022-10-31 02:00:00+00:00
+O3,,"Kalindi Kunj, Khurja - UPPCB",106.41,2022-10-31 01:45:00+00:00
+NO2,,"Vasanthapuram, Vellore - TNPCB",2.13,2022-10-31 01:45:00+00:00
+PM10,,"Sona College of Technology, Salem - TNPCB",65.0,2022-10-03 12:30:00+00:00
+NO2,,"Sona College of Technology, Salem - TNPCB",3.3,2022-10-03 12:30:00+00:00
+SO2,,"Girls College, Sivasagar - PCBA",2.35,2022-10-31 02:00:00+00:00
+RELATIVEHUMIDITY,,Dhopagachi,64.11854203542073,2025-01-13 23:00:00+00:00
+CO,,"Bawana, Delhi - DPCC",1300.0,2022-10-31 00:45:00+00:00
+CO,,"Vyttila, Kochi - Kerala PCB",220.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Rajbansi Nagar, Patna - BSPCB",71.4,2022-10-16 15:45:00+00:00
+O3,,"Hebbal 1st Stage, Mysuru - KSPCB",7.99,2022-10-31 02:00:00+00:00
+NO2,,"Govt. High School Shikarpur, Patna - BSPCB",1.6,2022-10-16 15:45:00+00:00
+PM2.5,,"Victoria, Kolkata - WBPCB",68.4,2022-10-31 01:45:00+00:00
+O3,,"ICRISAT Patancheru, Hyderabad - TSPCB",7.4,2022-10-31 01:45:00+00:00
+PM10,,"Teri Gram, Gurugram - HSPCB",183.8,2022-10-16 16:00:00+00:00
+PM2.5,,"Vijay Nagar, Ramanagara - KSPCB",37.0,2022-10-31 02:00:00+00:00
+CO,,"Marhatal, Jabalpur - MPPCB",940.0,2022-10-16 16:00:00+00:00
+NO2,,"Kacheripady, Ernakulam - Kerala PCB",10.92,2022-10-16 16:00:00+00:00
+PM10,,"Sahilara, Maihar - KJS Cements",52.42,2022-10-31 01:45:00+00:00
+SO2,,"Sanjay Nagar, Ghaziabad - UPPCB",14.2,2022-10-31 02:00:00+00:00
+CO,,"Diwator Nagar, Koppal - KSPCB",800.0,2022-10-16 14:45:00+00:00
+SO2,,"Kandivali East, Mumbai - MPCB",14.72,2022-10-16 15:45:00+00:00
+PM2.5,,"Devaraj Urs Badavane, Davanagere - KSPCB",8.0,2022-10-16 13:00:00+00:00
+O3,,"Naharlagun, Naharlagun - APSPCB",13.47,2022-10-15 02:45:00+00:00
+PM10,,"Rakhial, Ahmedabad - IITM",33.4,2022-07-13 06:30:00+00:00
+CO,,"Rakhial, Ahmedabad - IITM",980.0,2022-07-13 06:30:00+00:00
+SO2,,"SAC ISRO Bopal, Ahmedabad - IITM",8.61,2022-06-22 08:45:00+00:00
+O3,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25.0,2022-10-16 15:45:00+00:00
+NO2,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",45.7,2022-10-16 15:45:00+00:00
+PM2.5,,"Nagar Nigam, Prayagraj - UPPCB",135.04,2022-10-31 02:00:00+00:00
+SO2,,"Dada Peer, Sasaram - BSPCB",11.7,2022-10-31 01:45:00+00:00
+NO2,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+O3,,"Forest Rest House, Manguraha - BSPCB",3.8,2022-10-16 15:45:00+00:00
+CO,,"New DM Office, Arrah - BSPCB",330.0,2022-10-31 01:30:00+00:00
+CO,,"HIMUDA Complex Phase-1, Baddi - HPPCB",420.0,2022-10-31 01:45:00+00:00
+PM2.5,,"DM Office_Kasipur, Samastipur - BSPCB",344.0,2022-10-31 01:45:00+00:00
+O3,,"Zero Point GICI, Gangtok - SSPCB",10.59,2022-10-31 01:45:00+00:00
+CO,,"ECIL Kapra, Hyderabad - TSPCB",250.0,2022-10-16 14:15:00+00:00
+SO2,,"Kokapet, Hyderabad - TSPCB",4.19,2022-10-31 02:00:00+00:00
+CO,,"Kalindi Kunj, Khurja - UPPCB",2510.0,2022-10-31 01:45:00+00:00
+SO2,,"New Malakpet, Hyderabad - TSPCB",6.14,2022-10-31 02:00:00+00:00
+PM2.5,,"Kumaran College, Tirupur - TNPCB",16.44,2022-10-16 15:45:00+00:00
+PM2.5,,"Bombay Castel, Ooty - TNPCB",12.0,2022-10-15 10:45:00+00:00
+SO2,,"Bombay Castel, Ooty - TNPCB",40.04,2022-10-15 10:45:00+00:00
+SO2,,"Sona College of Technology, Salem - TNPCB",-3.23,2022-10-03 12:30:00+00:00
+PM10,,"Aya Nagar, Delhi - IMD",327.31,2022-10-31 01:15:00+00:00
+PM2.5,,"Lajpat Nagar, Moradabad - UPPCB",78.0,2022-01-13 04:45:00+00:00
+O3,,"Anand Kala Kshetram, Rajamahendravaram - APPCB",3.8,2022-10-31 02:00:00+00:00
+CO,,"North Campus, DU, Delhi - IMD",1390.0,2022-10-31 02:00:00+00:00
+SO2,,"Central University, Hyderabad - TSPCB",8.5,2022-10-31 02:00:00+00:00
+SO2,,"DTU, Delhi - CPCB",14.3,2022-10-31 01:45:00+00:00
+PM2.5,,"Indira Colony Vistar, Pali - RSPCB",49.73,2022-10-31 01:45:00+00:00
+NO2,,"Mandir Marg, New Delhi - DPCC",26.9,2018-05-10 07:30:00+00:00
+NO2,,"Sanegurava Halli, Bengaluru - KSPCB",21.64,2022-10-31 02:00:00+00:00
+PM10,,"ICRISAT Patancheru, Hyderabad - TSPCB",44.0,2020-04-28 06:15:00+00:00
+PM10,,"Lalbagh, Lucknow - CPCB",245.8,2022-10-31 01:45:00+00:00
+O3,,"PWD Grounds, Vijayawada - APPCB",12.5,2020-11-13 04:30:00+00:00
+CO,,"Vasundhara, Ghaziabad - UPPCB",4020.0,2022-10-31 02:00:00+00:00
+SO2,,"Bhopal Chauraha, Dewas - MPPCB",14.1,2022-10-31 02:00:00+00:00
+CO,,"Rohini, Delhi - DPCC",700.0,2018-05-09 11:00:00+00:00
+CO,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",150.0,2018-05-09 11:00:00+00:00
+PM10,,"Vivek Vihar, Delhi - DPCC",416.0,2018-05-12 06:00:00+00:00
+SO2,,"Dwarka-Sector 8, Delhi - DPCC",10.8,2018-05-12 05:00:00+00:00
+PM10,,"Jahangirpuri, Delhi - DPCC",307.0,2018-05-12 06:30:00+00:00
+NO2,,"Okhla Phase-2, Delhi - DPCC",14.1,2018-05-12 05:30:00+00:00
+PM2.5,,"NISE Gwal Pahari, Gurugram - IMD",169.69,2018-11-16 04:00:00+00:00
+PM10,,"Mandir Marg, Delhi - DPCC",268.0,2022-10-31 00:45:00+00:00
+SO2,,"Shasthri Nagar, Ratlam - IPCA Lab",29.22,2022-10-31 02:00:00+00:00
+NO2,,"Mahape, Navi Mumbai - MPCB",95.36,2022-10-16 15:45:00+00:00
+PM2.5,,"Sector-2 IMT, Manesar - HSPCB",215.0,2022-10-31 01:45:00+00:00
+CO,,"Shastri Nagar, Narnaul - HSPCB",0.32,2022-10-31 02:00:00+00:00
+SO2,,"Jayanagar 5th Block, Bengaluru - KSPCB",7.3,2022-10-31 02:00:00+00:00
+PM10,,"Knowledge Park - III, Greater Noida - UPPCB",329.0,2022-10-31 02:00:00+00:00
+O3,,"Knowledge Park - V, Greater Noida - UPPCB",4.43,2022-10-31 02:00:00+00:00
+CO,,"MD University, Rohtak - HSPCB",690.0,2022-10-31 01:45:00+00:00
+NO2,,"DRM Office Danapur, Patna - BSPCB",8.92,2022-10-16 16:00:00+00:00
+CO,,"Corporation Ground, Thrissur - Kerala PCB",450.0,2022-10-16 15:30:00+00:00
+PM2.5,India,Mumbai,40.0,2025-01-31 08:30:00+00:00
+CO,,"Zoo Park, Hyderabad - TSPCB",920.0,2022-10-31 02:00:00+00:00
+SO2,,"Peenya, Bengaluru - KSPCB",3.83,2018-02-22 02:45:00+00:00
+CO,,"Haldia, Haldia - WBPCB",810.0,2022-10-31 02:00:00+00:00
+O3,,Victoria Memorial - WBSPCB,28.9,2017-10-18 03:15:00+00:00
+NO2,,"Sector-6, Panchkula - HSPCB",23.34,2022-10-31 01:45:00+00:00
+CO,,"Sector-6, Panchkula - HSPCB",640.0,2022-10-31 01:45:00+00:00
+SO2,,"Punjabi Bagh, Delhi - DPCC",54.4,2018-05-12 06:00:00+00:00
+SO2,,"Gole Bazar, Katni - MPPCB",5.7,2022-10-16 16:00:00+00:00
+NO2,,"Nehru Nagar, Delhi - DPCC",91.0,2022-10-31 00:45:00+00:00
+CO,,"Sonia Vihar, Delhi - DPCC",4.2,2022-10-31 00:45:00+00:00
+PM2.5,,"Sonia Vihar, Delhi - DPCC",310.0,2022-10-31 00:45:00+00:00
+O3,,"Ashok Vihar, Delhi - DPCC",3.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Rohini, Delhi - DPCC",238.0,2022-10-31 00:45:00+00:00
+NO2,,"Chhoti Gwaltoli, Indore - MPPCB",151.5,2022-10-16 16:00:00+00:00
+PM10,,"Palayam, Kozhikode - Kerala PCB",97.0,2022-10-16 04:45:00+00:00
+NO2,,"Kalyana Nagara, Chikkamagaluru - KSPCB",20.83,2022-10-16 16:00:00+00:00
+SO2,,"Ballygunge, Kolkata - WBPCB",21.19,2022-10-16 16:00:00+00:00
+CO,,"Meelavittan, Thoothukudi - TNPCB",210.0,2022-10-16 16:00:00+00:00
+O3,,"Bandra Kurla Complex, Mumbai - IITM",5.0,2022-10-16 15:45:00+00:00
+PM2.5,,"Mhada Colony, Pune - IITM",29.02,2022-06-22 08:45:00+00:00
+O3,,"Devaraj Urs Badavane, Davanagere - KSPCB",3.62,2022-10-16 00:00:00+00:00
+PM2.5,,"Rajbagh, Srinagar - JKSPCB",138.4,2022-10-16 16:00:00+00:00
+SO2,,"Rajbagh, Srinagar - JKSPCB",0.0,2022-10-16 16:00:00+00:00
+CO,,"Naharlagun, Naharlagun - APSPCB",220.0,2022-10-15 02:45:00+00:00
+O3,,"Jhunsi, Prayagraj - UPPCB",53.72,2022-10-16 16:00:00+00:00
+SO2,,"Motilal Nehru NIT, Prayagraj - UPPCB",15.63,2022-10-31 02:00:00+00:00
+NO2,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",71.33,2022-07-08 07:00:00+00:00
+PM10,,"Bhelupur, Varanasi - UPPCB",257.4,2022-10-16 16:00:00+00:00
+CO,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",1010.0,2022-10-31 02:00:00+00:00
+O3,,"Maldahiya, Varanasi - UPPCB",2.5,2022-10-31 02:00:00+00:00
+NO2,,"NSI Kalyanpur, Kanpur - UPPCB",31.2,2022-10-31 02:00:00+00:00
+PM2.5,,"FTI Kidwai Nagar, Kanpur - UPPCB",153.98,2022-10-31 02:00:00+00:00
+CO,,"SDM Office_Khagra, Kishanganj - BSPCB",850.0,2022-10-31 01:45:00+00:00
+SO2,,"Raikhad, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+O3,,"Bardowali, Agartala - Tripura SPCB",9.82,2022-10-31 02:00:00+00:00
+SO2,,"Gurdeo Nagar, Aurangabad - BSPCB",1.3,2022-10-31 01:45:00+00:00
+CO,,"JN Stadium, Shillong - Meghalaya PCB",290.0,2022-10-15 05:45:00+00:00
+PM2.5,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+CO,,"Vibhab Nagar, Firozabad - UPPCB",2010.0,2022-10-31 02:00:00+00:00
+SO2,,"Kompally Municipal Office, Hyderabad - TSPCB",4.81,2022-10-31 02:00:00+00:00
+O3,,"Somajiguda, Hyderabad - TSPCB",18.88,2022-10-16 16:00:00+00:00
+PM10,,"Kalindi Kunj, Khurja - UPPCB",310.07,2022-10-31 01:45:00+00:00
+CO,,"New Malakpet, Hyderabad - TSPCB",580.0,2022-10-31 02:00:00+00:00
+O3,,"SIPCOT Phase-1, Hosur - TNPCB",-2.45,2022-10-31 01:45:00+00:00
+PM2.5,,"Sona College of Technology, Salem - TNPCB",27.0,2022-10-03 12:30:00+00:00
+PM2.5,,"Paryavaran Parisar, Bhopal - MPPCB",130.0,2022-10-31 01:45:00+00:00
+SO2,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",5.5,2022-10-16 16:00:00+00:00
+PM2.5,,"Bollaram Industrial Area, Hyderabad - TSPCB",83.0,2022-10-31 02:00:00+00:00
+O3,,"Lajpat Nagar, Moradabad - UPPCB",12.6,2022-01-13 05:45:00+00:00
+NO2,,"Nishant Ganj, Lucknow - UPPCB",6.1,2019-08-21 08:15:00+00:00
+O3,,"North Campus, DU, Delhi - IMD",0.01087,2022-10-31 02:00:00+00:00
+NO2,,"Opp GPO Civil Lines, Nagpur - MPCB",12.02,2022-10-31 00:45:00+00:00
+O3,,"Police Commissionerate, Jaipur - RSPCB",10.77,2022-10-31 01:45:00+00:00
+CO,,"Indira Colony Vistar, Pali - RSPCB",1130.0,2022-10-31 01:45:00+00:00
+PM2.5,,"ICRISAT Patancheru, Hyderabad - TSPCB",17.0,2020-04-28 06:15:00+00:00
+SO2,,"Ward-32 Bapupara, Siliguri - WBPCB",6.0,2022-03-24 23:30:00+00:00
+SO2,,"Tirumala, Tirupati - APPCB",7.5,2022-10-31 02:00:00+00:00
+NO2,,"Vivek Vihar, Delhi - DPCC",18.1,2018-05-10 09:00:00+00:00
+PM2.5,,"Jahangirpuri, Delhi - DPCC",127.0,2018-05-12 06:30:00+00:00
+PM2.5,,"Rabindra Bharati University, Kolkata - WBPCB",112.0,2022-03-24 23:30:00+00:00
+PM10,,"NISE Gwal Pahari, Gurugram - IMD",218.82,2018-11-16 04:00:00+00:00
+PM2.5,,"Ratanpura, Rupnagar - Ambuja Cements",70.02,2022-10-31 01:45:00+00:00
+NO2,,"Manali Village, Chennai - TNPCB",6.92,2019-07-19 05:15:00+00:00
+CO,,"Vivek Vihar, Delhi - DPCC",3200.0,2022-10-31 00:45:00+00:00
+PM2.5,,"H.B. Colony, Bhiwani - HSPCB",95.7,2022-10-31 01:45:00+00:00
+PM2.5,,"F-Block, Sirsa - HSPCB",116.3,2022-10-31 02:00:00+00:00
+O3,,"Udyogamandal, Eloor - Kerala PCB",25.51,2022-10-31 01:45:00+00:00
+PM2.5,,"Phase-1 GIDC, Vapi - GPCB",53.0,2022-10-12 04:45:00+00:00
+CO,,"Phase-1 GIDC, Vapi - GPCB",900.0,2022-10-12 04:45:00+00:00
+NO2,,"Phase-1 GIDC, Vapi - GPCB",6.6,2022-10-12 04:45:00+00:00
+PM2.5,,"Hebbal 1st Stage, Mysuru - KSPCB",32.51,2020-01-03 11:15:00+00:00
+PM2.5,,"Pallavpuram Phase 2, Meerut - UPPCB",122.0,2022-10-16 16:00:00+00:00
+CO,,"Urban, Chamarajanagar - KSPCB",300.0,2022-10-31 02:00:00+00:00
+CO,,"BTM Layout, Bengaluru - KSPCB",910.0,2018-02-22 03:00:00+00:00
+PM10,,City Railway Station - KSPCB,218.44,2018-02-22 03:00:00+00:00
+PM2.5,,US Diplomatic Post: Chennai,73.4,2016-11-09 16:30:00+00:00
+O3,,"Sector-6, Panchkula - HSPCB",39.29,2022-10-31 01:45:00+00:00
+O3,,"Sector16A, Faridabad - HSPCB",5.46,2018-02-22 03:25:00+00:00
+SO2,,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",6.63,2018-02-22 03:00:00+00:00
+SO2,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2.07,2022-08-02 05:15:00+00:00
+PM10,,"Golden Temple, Amritsar - PPCB",137.95,2022-10-31 02:00:00+00:00
+O3,,"Powai, Mumbai - MPCB",7.75,2022-10-16 13:15:00+00:00
+O3,,"Police Lines, Jind - HSPCB",0.57,2022-10-31 01:45:00+00:00
+SO2,,"New Collectorate, Baghpat - UPPCB",12.8,2022-01-31 04:45:00+00:00
+O3,,"Sector-7, Kurukshetra - HSPCB",6.36,2022-10-31 01:45:00+00:00
+NO2,,"Gole Bazar, Katni - MPPCB",34.0,2020-01-07 09:15:00+00:00
+O3,,"ICRISAT Patancheru, Hyderabad - TSPCB",34.2,2020-04-28 09:45:00+00:00
+CO,,"Ganga Nagar, Meerut - UPPCB",0.0,2022-09-20 06:00:00+00:00
+O3,,"Sikulpuikawn, Aizawl - Mizoram PCB",4.5,2022-10-16 15:45:00+00:00
+SO2,,"Deen Dayal Nagar, Sagar - MPPCB",7.73,2022-10-16 15:45:00+00:00
+O3,,"East Arjun Nagar, Delhi - CPCB",105.78,2022-01-26 07:00:00+00:00
+SO2,,"East Arjun Nagar, Delhi - CPCB",11.29,2022-01-26 07:00:00+00:00
+NO2,,"Urban, Chamarajanagar - KSPCB",16.52,2022-10-31 02:00:00+00:00
+O3,,"Vikas Sadan, Gurugram - HSPCB",3.74,2022-10-31 02:00:00+00:00
+SO2,,Collectorate Jodhpur - RSPCB,4.81,2018-02-22 03:45:00+00:00
+NO2,,"Rabindra Bharati University, Kolkata - WBSPCB",39.7,2017-10-28 14:30:00+00:00
+CO,,AAQMS Karve Road Pune,1220.0,2018-02-22 03:00:00+00:00
+O3,,AAQMS Karve Road Pune,15.76,2018-02-22 03:00:00+00:00
+O3,,"Manali, Chennai - CPCB",4.09,2022-10-16 15:00:00+00:00
+O3,,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",17.11,2017-02-12 01:45:00+00:00
+SO2,,"Solapur, Solapur - MPCB",27.51,2022-10-31 02:00:00+00:00
+SO2,,Navi Mumbai Municipal Corporation Airoli,32.69,2020-04-09 00:15:00+00:00
+PM10,,Navi Mumbai Municipal Corporation Airoli,40.56,2020-04-09 00:15:00+00:00
+O3,,"Anand Vihar, Delhi - DPCC",7.6,2022-10-31 00:30:00+00:00
+O3,,"Tata Stadium, Jorapokhar - JSPCB",14.42,2022-10-15 12:30:00+00:00
+O3,,"MD University, Rohtak - HSPCB",54.33,2020-01-01 11:00:00+00:00
+SO2,,"Talcher Coalfields,Talcher - OSPCB",63.6,2022-10-31 01:00:00+00:00
+CO,,"Talcher Coalfields,Talcher - OSPCB",1600.0,2022-10-31 01:00:00+00:00
+O3,,"Punjab Agricultural University, Ludhiana - PPCB",8.71,2022-10-31 02:00:00+00:00
+CO,,"Moti Doongri, Alwar - RSPCB",100.0,2022-10-31 02:00:00+00:00
+NO2,,"Pusa, New Delhi - IMD",29.87,2018-05-14 02:00:00+00:00
+PM10,,"Pimpleshwar Mandir, Thane - MPCB",72.15,2022-10-16 11:45:00+00:00
+NO2,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",7.0,2022-10-16 16:00:00+00:00
+CO,,"Nishant Ganj, Lucknow - UPPCB",0.0,2019-08-16 11:30:00+00:00
+NO2,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",20.8,2022-10-31 01:45:00+00:00
+PM10,,"Sector- 16A, Faridabad - HSPCB",634.0,2018-11-08 16:30:00+00:00
+SO2,,"Opp GPO Civil Lines, Nagpur - MPCB",0.0,2022-10-31 00:45:00+00:00
+NO2,,"Lodhi Road, Delhi - IMD",6.96,2022-10-16 10:15:00+00:00
+PM2.5,,"Adarsh Nagar, Jaipur - RSPCB",121.7,2022-10-31 02:00:00+00:00
+O3,,"Tirumala, Tirupati - APPCB",35.9,2022-10-31 02:00:00+00:00
+CO,,"Karve Road, Pune - MPCB",150.0,2022-10-10 11:15:00+00:00
+O3,,"Nehru Nagar, Kanpur - UPPCB",9.4,2022-10-31 02:00:00+00:00
+O3,,"Vasundhara, Ghaziabad - UPPCB",0.0,2022-10-31 02:00:00+00:00
+PM10,,"Bhopal Chauraha, Dewas - MPPCB",167.0,2022-10-31 02:00:00+00:00
+PM10,,"Nehru Nagar, Delhi - DPCC",180.0,2018-05-13 10:00:00+00:00
+PM10,,"Manali Village, Chennai - TNPCB",27.2,2019-07-19 05:15:00+00:00
+PM10,,"Bawana, Delhi - DPCC",493.0,2022-10-31 00:45:00+00:00
+NO2,,"Vidayagiri, Bagalkot - KSPCB",8.54,2022-10-16 15:45:00+00:00
+PM10,,"Rajbansi Nagar, Patna - BSPCB",133.1,2022-10-16 15:45:00+00:00
+CO,,"Sahilara, Maihar - KJS Cements",0.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Kodungaiyur, Chennai - TNPCB",10.0,2022-10-16 16:00:00+00:00
+SO2,,"Stuart Hill, Madikeri - KSPCB",14.6,2022-10-16 16:00:00+00:00
+O3,,"Khindipada-Bhandup West, Mumbai - IITM",22.0,2022-09-22 05:30:00+00:00
+PM2.5,,"Pan Bazaar, Guwahati - PCBA",32.0,2022-10-16 16:00:00+00:00
+O3,,"Hadapsar, Pune - IITM",11.0,2022-06-22 08:45:00+00:00
+PM2.5,,"Jawahar Nagar, Puducherry - PPCC",1.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",76.05,2022-10-16 16:00:00+00:00
+SO2,,"SAC ISRO Satellite, Ahmedabad - IITM",4.14,2022-07-07 09:15:00+00:00
+PM2.5,,"Shastripuram, Agra - UPPCB",62.4,2022-10-16 16:00:00+00:00
+CO,,"Bhelupur, Varanasi - UPPCB",1890.0,2022-10-16 16:00:00+00:00
+SO2,,"NSI Kalyanpur, Kanpur - UPPCB",21.94,2022-10-31 02:00:00+00:00
+NO2,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",12.94,2022-10-16 16:00:00+00:00
+SO2,,"Nagla Bhau, Firozabad - UPPCB",38.0,2022-10-31 02:00:00+00:00
+CO,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",820.0,2022-10-31 01:45:00+00:00
+O3,,"Town Hall - Lal Bagh, Darbhanga - BSPCB",17.8,2022-10-31 01:45:00+00:00
+NO2,,"Omex Eternity, Vrindavan - UPPCB",19.67,2022-10-31 02:00:00+00:00
+O3,,"FTI Kidwai Nagar, Kanpur - UPPCB",10.67,2022-10-31 02:00:00+00:00
+SO2,,"FTI Kidwai Nagar, Kanpur - UPPCB",11.03,2022-10-31 02:00:00+00:00
+NO2,,"Chitragupta Nagar, Siwan - BSPCB",75.0,2022-10-31 01:45:00+00:00
+SO2,,"Dangi Tola, Rajgir - BSPCB",6.6,2022-10-16 15:45:00+00:00
+PM2.5,,"Sector-53, Chandigarh - CPCC",57.0,2022-10-31 01:45:00+00:00
+PM10,,"Shivaji Nagar, Jhansi - UPPCB",223.3,2022-10-31 02:00:00+00:00
+CO,,"Somajiguda, Hyderabad - TSPCB",520.0,2022-10-16 16:00:00+00:00
+PM10,,"IITH Kandi, Hyderabad - TSPCB",28.84,2022-10-31 02:00:00+00:00
+NO2,,"Rajendra Nagar, Bareilly - UPPCB",28.1,2022-10-31 02:00:00+00:00
+NO2,,"New Malakpet, Hyderabad - TSPCB",4.61,2022-10-31 02:00:00+00:00
+PM10,,"Chalai Bazaar, Ramanathapuram - TNPCB",62.0,2022-10-31 02:00:00+00:00
+PM10,,"Gulzarpet, Anantapur - APPCB",122.17,2022-10-31 01:45:00+00:00
+O3,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2.1,2022-10-31 00:30:00+00:00
+PM2.5,,"Urban Estate-II, Hisar - HSPCB",109.6,2022-10-31 01:45:00+00:00
+PM10,,"Kalal Majra, Khanna - PPCB",155.36,2022-10-31 01:00:00+00:00
+SO2,,"Mahape, Navi Mumbai - MPCB",10.61,2022-10-16 15:45:00+00:00
+SO2,,"Jadavpur, Kolkata - WBPCB",5.6,2022-10-31 02:00:00+00:00
+PM10,,"Shrivastav Colony, Damoh - MPPCB",93.0,2022-10-31 02:00:00+00:00
+PM10,,"Police Lines, Jind - HSPCB",338.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Borivali East, Mumbai - MPCB",57.0,2022-10-31 02:00:00+00:00
+SO2,,"Shastri Nagar, Narnaul - HSPCB",3.97,2022-10-31 02:00:00+00:00
+O3,,"Nathu Colony, Ballabgarh - HSPCB",5.64,2022-10-31 01:45:00+00:00
+CO,,"Jai Bhim Nagar, Meerut - UPPCB",1290.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Sector-1, Noida - UPPCB",91.0,2022-10-16 16:00:00+00:00
+SO2,,"Yamunapuram, Bulandshahr - UPPCB",11.6,2022-10-16 16:00:00+00:00
+NO2,,"Hebbal 1st Stage, Mysuru - KSPCB",10.38,2020-01-03 11:15:00+00:00
+PM10,,"DRM Office Danapur, Patna - BSPCB",192.03,2022-10-16 16:00:00+00:00
+O3,,"Pallavpuram Phase 2, Meerut - UPPCB",13.2,2022-10-16 16:00:00+00:00
+O3,,"Khadakpada, Kalyan - MPCB",4.58,2022-08-18 03:00:00+00:00
+PM10,,"Urban, Chamarajanagar - KSPCB",39.85,2022-10-31 02:00:00+00:00
+PM10,,"R K Puram, Delhi - DPCC",339.0,2018-02-21 21:15:00+00:00
+O3,,"R K Puram, Delhi - DPCC",95.33,2018-01-24 09:30:00+00:00
+PM2.5,,"Anand Vihar, Delhi - DPCC",271.0,2018-02-21 21:15:00+00:00
+NO2,,"Vikas Sadan, Gurugram - HSPCB",15.34,2022-10-31 02:00:00+00:00
+NO2,,"Zoo Park, Hyderabad - TSPCB",18.7,2022-10-31 02:00:00+00:00
+NO2,,Collectorate - Muzaffarpur - BSPCB,43.4,2018-02-21 23:45:00+00:00
+PM2.5,,Collectorate - Muzaffarpur - BSPCB,245.0,2018-02-21 23:45:00+00:00
+NO2,,"Shadipur, Delhi - CPCB",12.43,2018-02-22 02:45:00+00:00
+NO2,,Ardhali Bazar,156.6,2018-02-22 03:00:00+00:00
+NO2,,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",166.55,2018-02-22 03:00:00+00:00
+O3,,IGSC Planetarium Complex - Patna - BSPCB,39.2,2018-02-22 03:45:00+00:00
+O3,,"Punjabi Bagh, Delhi - DPCC",131.9,2018-05-12 06:00:00+00:00
+SO2,,"Tata Stadium, Jorapokhar - JSPCB",13.0,2022-10-15 12:30:00+00:00
+SO2,,"BTM Layout, Bengaluru - CPCB",4.95,2022-10-16 16:00:00+00:00
+O3,,"Collectorate, Gaya - BSPCB",10.2,2022-10-31 02:00:00+00:00
+SO2,,"City Railway Station, Bengaluru - KSPCB",17.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Opp GPO Civil Lines, Nagpur - MPCB",88.7,2022-10-31 00:45:00+00:00
+CO,,"Central University, Hyderabad - TSPCB",700.0,2022-10-31 02:00:00+00:00
+SO2,,"Sector-D Industrial Area, Mandideep - MPPCB",74.0,2022-10-31 02:00:00+00:00
+PM10,,"Mandir Marg, New Delhi - DPCC",251.0,2018-05-12 04:30:00+00:00
+O3,,"ICRISAT Patancheru, Hyderabad - TSPCB",53.0,2022-03-24 23:30:00+00:00
+CO,,"Central School, Lucknow - CPCB",1670.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Ashok Vihar, Delhi - DPCC",277.0,2022-10-31 00:45:00+00:00
+O3,,"Najafgarh, Delhi - DPCC",0.2,2022-10-30 22:15:00+00:00
+CO,,"Vidayagiri, Bagalkot - KSPCB",770.0,2022-10-16 15:45:00+00:00
+O3,,"Rajbansi Nagar, Patna - BSPCB",34.89,2022-10-16 15:45:00+00:00
+PM2.5,,"Hebbal 1st Stage, Mysuru - KSPCB",19.15,2022-10-31 02:00:00+00:00
+PM2.5,,"Industrial Area, Hajipur - BSPCB",79.81,2022-10-16 16:00:00+00:00
+SO2,,"Mini Secretariat, Charkhi Dadri - HSPCB",10.69,2022-10-16 16:00:00+00:00
+NO2,,"Thavakkara, Kannur - Kerala PCB",12.54,2022-10-16 15:30:00+00:00
+PM2.5,,"Manali Village, Chennai - TNPCB",119.85,2022-10-31 02:00:00+00:00
+NO2,,"Rohini, Delhi - DPCC",34.1,2022-10-31 00:45:00+00:00
+PM10,,"Chhoti Gwaltoli, Indore - MPPCB",146.0,2022-10-16 16:00:00+00:00
+CO,,"Teri Gram, Gurugram - HSPCB",860.0,2022-10-16 16:00:00+00:00
+PM10,,"Kalyana Nagara, Chikkamagaluru - KSPCB",102.25,2022-10-16 16:00:00+00:00
+PM2.5,,"City Center, Gwalior - MPPCB",59.0,2022-10-16 16:00:00+00:00
+O3,,"City Center, Gwalior - MPPCB",9.7,2022-10-16 16:00:00+00:00
+CO,,"Sector-12, Karnal - HSPCB",1710.0,2022-10-31 01:30:00+00:00
+PM10,,"Phool Bagh, Gwalior - Mondelez Ind. Food",14.87,2022-09-14 22:00:00+00:00
+SO2,,"Kodungaiyur, Chennai - TNPCB",1.8,2022-10-16 16:00:00+00:00
+NO2,,"Stuart Hill, Madikeri - KSPCB",4.8,2022-10-16 16:00:00+00:00
+NO2,,"Bandra Kurla Complex, Mumbai - IITM",143.05,2022-10-16 15:45:00+00:00
+CO,,"Deonar, Mumbai - IITM",2340.0,2022-10-16 15:45:00+00:00
+SO2,,"Deonar, Mumbai - IITM",4.43,2022-10-16 15:45:00+00:00
+O3,,"Deonar, Mumbai - IITM",0.0,2022-10-16 15:45:00+00:00
+O3,,"Bhosari, Pune - IITM",3.0,2022-07-07 04:45:00+00:00
+PM10,,"Revenue Colony-Shivajinagar, Pune - IITM",43.71,2022-07-07 07:15:00+00:00
+NO2,,"Khindipada-Bhandup West, Mumbai - IITM",1.34,2022-09-22 05:30:00+00:00
+O3,,"Panchal Nagar, Gadag - KSPCB",36.6,2022-10-15 09:30:00+00:00
+PM10,,"Devaraj Urs Badavane, Davanagere - KSPCB",23.96,2022-10-16 13:00:00+00:00
+PM10,,"Hadapsar, Pune - IITM",0.0,2022-06-22 08:45:00+00:00
+CO,,"Brahmagiri, Udupi - KSPCB",1370.0,2022-10-16 01:00:00+00:00
+CO,,"Jhunsi, Prayagraj - UPPCB",1220.0,2022-10-16 16:00:00+00:00
+O3,,"B R Ambedkar University, Lucknow - UPPCB",36.49,2022-10-16 16:00:00+00:00
+CO,,"IIPHG Lekawada, Gandhinagar - IITM",510.0,2022-07-22 12:00:00+00:00
+O3,,"Shastripuram, Agra - UPPCB",27.81,2022-10-16 16:00:00+00:00
+O3,,"Gandak Colony, Motihari - BSPCB",36.8,2022-10-16 15:45:00+00:00
+PM10,,"Nagar Nigam, Prayagraj - UPPCB",197.36,2022-10-31 02:00:00+00:00
+O3,,"Shahjahan Garden, Agra - UPPCB",0.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Mangala, Bilaspur - NTPC",28.75,2022-10-31 02:00:00+00:00
+PM2.5,,"Employment Office, Moradabad - UPPCB",35.36,2022-10-31 02:00:00+00:00
+O3,,"Town Hall, Munger - BSPCB",13.1,2022-10-31 01:45:00+00:00
+O3,,"Mirchaibari, Katihar - BSPCB",3.1,2022-10-16 15:45:00+00:00
+PM10,,"Mirchaibari, Katihar - BSPCB",176.0,2022-10-16 15:45:00+00:00
+SO2,,"Mayaganj, Bhagalpur - BSPCB",20.4,2022-10-31 01:45:00+00:00
+O3,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25.0,2022-10-31 01:45:00+00:00
+SO2,,"Buddhi Vihar, Moradabad - UPPCB",21.59,2022-10-16 16:00:00+00:00
+O3,,"Kharahiya Basti, Araria - BSPCB",3.7,2022-10-31 01:45:00+00:00
+CO,,"Eco Herbal Park, Moradabad - UPPCB",1090.0,2022-10-31 02:00:00+00:00
+O3,,"Shivaji Nagar, Jhansi - UPPCB",7.57,2022-10-31 02:00:00+00:00
+SO2,,"DM Office_Kasipur, Samastipur - BSPCB",1.7,2022-10-31 01:45:00+00:00
+PM2.5,,"DRCC Anandpur, Begusarai - BSPCB",356.0,2022-10-31 01:45:00+00:00
+NO2,,"DRCC Anandpur, Begusarai - BSPCB",4.3,2022-10-31 01:45:00+00:00
+NO2,,"Zero Point GICI, Gangtok - SSPCB",3.15,2022-10-31 01:45:00+00:00
+PM2.5,,"Somajiguda, Hyderabad - TSPCB",33.78,2022-10-16 16:00:00+00:00
+SO2,,"Rajendra Nagar, Bareilly - UPPCB",10.07,2022-10-31 02:00:00+00:00
+CO,,"Rajendra Nagar, Bareilly - UPPCB",1410.0,2022-10-31 02:00:00+00:00
+SO2,,"Kalindi Kunj, Khurja - UPPCB",13.89,2022-10-31 01:45:00+00:00
+NO2,,"Transport Nagar, Moradabad - UPPCB",22.29,2022-10-31 02:00:00+00:00
+O3,,"Ramteerth Nagar, Belgaum - KSPCB",25.11,2022-10-31 01:45:00+00:00
+PM2.5,Hyderabad,US Diplomatic Post: Hyderabad,52.0,2025-01-31 08:30:00+00:00
+PM10,,"Wazirpur, Delhi - DPCC",337.0,2022-10-31 00:45:00+00:00
+NO2,,"Ashok Vihar, Delhi - DPCC",34.6,2022-10-31 00:45:00+00:00
+PM10,,"Narela, Delhi - DPCC",429.0,2022-10-31 00:45:00+00:00
+CO,,"Najafgarh, Delhi - DPCC",1400.0,2022-10-31 00:45:00+00:00
+SO2,,"Vidayagiri, Bagalkot - KSPCB",2.52,2022-10-16 15:45:00+00:00
+CO,,"Victoria, Kolkata - WBPCB",610.0,2022-10-31 01:45:00+00:00
+CO,,"Manali Village, Chennai - TNPCB",470.0,2022-10-31 02:00:00+00:00
+O3,,"Manali Village, Chennai - TNPCB",24.33,2022-10-31 02:00:00+00:00
+PM10,,"Buddha Colony, Muzaffarpur - BSPCB",183.99,2022-10-16 15:30:00+00:00
+SO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",8.9,2022-10-31 01:45:00+00:00
+SO2,,"Phool Bagh, Gwalior - Mondelez Ind. Food",23.82,2022-09-14 22:00:00+00:00
+PM2.5,,"Vinoba Nagara, Shivamogga - KSPCB",25.67,2022-10-16 16:00:00+00:00
+NO2,,"Royapuram, Chennai - TNPCB",13.0,2022-10-16 16:00:00+00:00
+CO,,"Borivali East, Mumbai - IITM",370.0,2022-07-08 07:15:00+00:00
+PM2.5,,"Haji Colony, Raichur - KSPCB",10.0,2022-10-16 09:30:00+00:00
+NO2,,"Kandivali East, Mumbai - MPCB",13.64,2022-10-16 15:45:00+00:00
+O3,,"Kadri, Mangalore - KSPCB",27.83,2022-10-31 01:45:00+00:00
+O3,,"Tamaka Ind. Area, Kolar - KSPCB",5.12,2022-10-31 02:00:00+00:00
+CO,,"Siddharth Nagar-Worli, Mumbai - IITM",1740.0,2022-10-16 16:00:00+00:00
+PM10,,"Siddharth Nagar-Worli, Mumbai - IITM",102.6,2022-10-16 16:00:00+00:00
+CO,,"Rajbagh, Srinagar - JKSPCB",390.0,2022-10-16 16:00:00+00:00
+CO,,"Gyaspur, Ahmedabad - IITM",9510.0,2022-07-07 08:45:00+00:00
+CO,,"Chandkheda, Ahmedabad - IITM",320.0,2022-10-16 15:45:00+00:00
+PM2.5,,"IIPHG Lekawada, Gandhinagar - IITM",0.0,2022-07-22 12:00:00+00:00
+NO2,,"IIPHG Lekawada, Gandhinagar - IITM",0.0,2022-07-22 12:00:00+00:00
+NO2,,"SAC ISRO Bopal, Ahmedabad - IITM",10.01,2022-06-22 08:45:00+00:00
+SO2,,"Shastripuram, Agra - UPPCB",17.35,2022-10-16 16:00:00+00:00
+PM10,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",135.12,2022-10-31 02:00:00+00:00
+O3,,"Kamalnath Nagar, Bettiah - BSPCB",36.8,2022-10-16 15:45:00+00:00
+CO,,"Gandak Colony, Motihari - BSPCB",660.0,2022-10-16 15:45:00+00:00
+O3,,"D M Colony, Bihar Sharif - BSPCB",13.7,2022-10-31 01:45:00+00:00
+SO2,,"Town Hall, Munger - BSPCB",9.2,2022-10-31 01:45:00+00:00
+CO,,"Mayaganj, Bhagalpur - BSPCB",690.0,2022-10-31 01:45:00+00:00
+PM10,,"Darshan Nagar, Chhapra - BSPCB",363.0,2022-10-31 01:45:00+00:00
+SO2,,"Forest Rest House, Manguraha - BSPCB",7.1,2022-10-16 15:45:00+00:00
+PM2.5,,"Shivaji Nagar, Jhansi - UPPCB",0.0,2022-10-31 02:00:00+00:00
+CO,,"Sardar Patel Inter College, Baghpat - UPPCB",530.0,2022-10-26 07:30:00+00:00
+NO2,,"HIMUDA Complex Phase-1, Baddi - HPPCB",8.7,2022-10-31 01:45:00+00:00
+O3,,"New Malakpet, Hyderabad - TSPCB",12.3,2022-10-31 02:00:00+00:00
+SO2,,"Transport Nagar, Moradabad - UPPCB",11.19,2022-10-31 02:00:00+00:00
+SO2,,"Mendonsa Colony, Dindigul - TNPCB",35.54,2022-10-16 16:00:00+00:00
+NO2,,"SIPCOT Phase-1, Hosur - TNPCB",7.78,2022-10-31 01:45:00+00:00
+SO2,,"Gulzarpet, Anantapur - APPCB",8.26,2022-10-31 01:45:00+00:00
+PM10,,"Ramteerth Nagar, Belgaum - KSPCB",114.0,2022-10-31 01:45:00+00:00
+SO2,,"Moti Doongri, Alwar - RSPCB",18.52,2022-10-31 02:00:00+00:00
+PM10,,"Bollaram Industrial Area, Hyderabad - TSPCB",135.0,2022-10-31 02:00:00+00:00
+PM10,,"Sector-2 Industrial Area, Pithampur - MPPCB",289.0,2022-10-31 02:00:00+00:00
+PM10,,"Chandrapur, Chandrapur - MPCB",123.0,2022-10-31 02:00:00+00:00
+CO,,"Sector- 16A, Faridabad - HSPCB",0.0,2022-02-06 14:45:00+00:00
+O3,,"NSIT Dwarka, Delhi - CPCB",38.99,2022-10-31 02:00:00+00:00
+PM10,,"Central University, Hyderabad - TSPCB",152.0,2022-10-31 02:00:00+00:00
+O3,,"IDA Pashamylaram, Hyderabad - TSPCB",0.0,2022-10-31 02:00:00+00:00
+NO2,,"Adarsh Nagar, Jaipur - RSPCB",136.52,2022-10-31 02:00:00+00:00
+PM2.5,,"Shrinath Puram, Kota - RSPCB",89.5,2022-10-31 02:00:00+00:00
+NO2,,"R K Puram, New Delhi - DPCC",81.4,2018-05-06 19:30:00+00:00
+PM2.5,,"Sanathnagar, Hyderabad - TSPCB",152.0,2022-10-31 02:00:00+00:00
+CO,,"Ward-32 Bapupara, Siliguri - WBPCB",300.0,2022-10-31 01:45:00+00:00
+PM10,,"Central School, Lucknow - CPCB",158.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Vasundhara, Ghaziabad - UPPCB",166.0,2022-10-31 02:00:00+00:00
+CO,,"Bhopal Chauraha, Dewas - MPPCB",810.0,2022-10-31 02:00:00+00:00
+CO,,"Rabindra Bharati University, Kolkata - WBPCB",19000.0,2022-03-24 23:30:00+00:00
+NO2,,"Shasthri Nagar, Ratlam - IPCA Lab",33.24,2022-10-31 02:00:00+00:00
+NO2,,"Arya Nagar, Bahadurgarh - HSPCB",19.85,2022-10-31 01:30:00+00:00
+PM2.5,,"Hardev Nagar, Bathinda - PPCB",47.82,2022-10-31 01:45:00+00:00
+NO2,,"Kalal Majra, Khanna - PPCB",23.37,2022-10-31 01:00:00+00:00
+PM2.5,,"Jawaharlal Nehru Stadium, Delhi - DPCC",235.0,2022-10-31 00:45:00+00:00
+CO,,"Worli, Mumbai - MPCB",1400.0,2022-10-31 02:00:00+00:00
+NO2,,"Worli, Mumbai - MPCB",0.08,2022-10-31 02:00:00+00:00
+O3,,"Patparganj, Delhi - DPCC",1.4,2022-10-31 00:45:00+00:00
+O3,,"New Collectorate, Baghpat - UPPCB",6.6,2022-01-31 04:45:00+00:00
+PM2.5,,"Hombegowda Nagar, Bengaluru - KSPCB",20.0,2022-10-16 16:00:00+00:00
+PM2.5,,"Yamunapuram, Bulandshahr - UPPCB",160.0,2022-10-31 01:00:00+00:00
+PM10,,"Gomti Nagar, Lucknow - UPPCB",123.0,2022-10-16 16:00:00+00:00
+CO,,"Sector-7, Kurukshetra - HSPCB",1.39,2022-10-31 01:45:00+00:00
+PM10,,"Gole Bazar, Katni - MPPCB",70.0,2020-01-07 09:15:00+00:00
+CO,,"ICRISAT Patancheru, Hyderabad - TSPCB",370.0,2020-04-28 09:45:00+00:00
+PM2.5,,"Khadakpada, Kalyan - MPCB",35.0,2022-10-31 01:45:00+00:00
+O3,,"Corporation Ground, Thrissur - Kerala PCB",36.33,2022-10-16 15:30:00+00:00
+CO,,"Deen Dayal Nagar, Sagar - MPPCB",960.0,2022-10-16 15:45:00+00:00
+PM2.5,India,New Delhi,146.0,2025-01-31 08:30:00+00:00
+CO,,"Punjabi Bagh, Delhi - DPCC",9.2,2018-02-21 21:15:00+00:00
+O3,,Collectorate - Gaya - BSPCB,131.2,2018-02-22 03:00:00+00:00
+NO2,,"Peenya, Bengaluru - KSPCB",25.02,2018-02-22 02:45:00+00:00
+CO,,"IHBAS, Delhi - CPCB",2500.0,2018-02-22 02:45:00+00:00
+CO,,City Railway Station - KSPCB,1510.0,2018-02-22 03:00:00+00:00
+CO,,Chandrapur,1020.0,2018-02-22 04:00:00+00:00
+CO,,VK Industrial Area Jaipur - RSPCB,1220.0,2017-06-12 05:30:00+00:00
+SO2,,AAQMS Karve Road Pune,22.85,2018-02-22 03:00:00+00:00
+CO,,"Manali, Chennai - CPCB",3030.0,2022-10-16 15:00:00+00:00
+PM2.5,,"Birla Staff colony, Satna - MPPCB",11.0,2018-03-14 03:30:00+00:00
+PM10,,"Punjabi Bagh, Delhi - DPCC",431.0,2018-05-13 11:30:00+00:00
+CO,,"Tata Stadium, Jorapokhar - JSPCB",1400.0,2022-10-16 07:45:00+00:00
+PM2.5,,"Golden Temple, Amritsar - PPCB",129.31,2022-10-31 02:00:00+00:00
+NO2,,"Alandur Bus Depot, Chennai - CPCB",38.72,2022-10-31 01:45:00+00:00
+PM2.5,,"MIDC Khutala, Chandrapur - MPCB",7.39,2022-10-11 12:45:00+00:00
+PM10,,"Gole Bazar, Katni - MPPCB",133.0,2022-10-16 16:00:00+00:00
+PM10,,"Anand Vihar, Hapur - UPPCB",219.0,2022-10-31 02:00:00+00:00
+NO2,,"Bawana, Delhi - DPCC",22.8,2022-10-31 00:45:00+00:00
+CO,,"Wazirpur, Delhi - DPCC",0.1,2022-10-30 23:00:00+00:00
+SO2,,"Vyttila, Kochi - Kerala PCB",0.0,2022-10-16 16:00:00+00:00
+SO2,,"Sri Aurobindo Marg, Delhi - DPCC",3.8,2022-10-31 00:45:00+00:00
+PM2.5,,"Narela, Delhi - DPCC",295.0,2022-10-31 00:45:00+00:00
+CO,,"Mundka, Delhi - DPCC",600.0,2022-10-31 00:45:00+00:00
+SO2,,"Hebbal 1st Stage, Mysuru - KSPCB",0.01,2022-10-31 02:00:00+00:00
+O3,,"Victoria, Kolkata - WBPCB",20.17,2022-10-31 01:45:00+00:00
+O3,,"Mini Secretariat, Charkhi Dadri - HSPCB",18.84,2022-10-16 16:00:00+00:00
+O3,,"Bidhannagar, Kolkata - WBPCB",28.08,2022-10-16 15:45:00+00:00
+O3,,"Sector 11, Faridabad - HSPCB",14.69,2022-10-16 15:45:00+00:00
+NO2,,"Phool Bagh, Gwalior - Mondelez Ind. Food",3.35,2022-09-14 22:00:00+00:00
+NO2,,"Kodungaiyur, Chennai - TNPCB",5.5,2022-10-16 16:00:00+00:00
+PM10,,"Lodhi Road, Delhi - IITM",78.9,2022-08-02 09:30:00+00:00
+NO2,,"Sector-19A Nerul, Navi Mumbai - IITM",32.03,2022-10-16 16:00:00+00:00
+NO2,,"Diwator Nagar, Koppal - KSPCB",4.75,2022-10-16 14:45:00+00:00
+PM10,,"Naubad, Bidar - KSPCB",5.0,2022-10-13 04:15:00+00:00
+PM10,,"Panchal Nagar, Gadag - KSPCB",25.0,2022-10-15 09:30:00+00:00
+PM2.5,,"MIT-Kothrud, Pune - IITM",17.5,2022-07-11 05:15:00+00:00
+SO2,,"B.Katihalli, Hassan - KSPCB",14.57,2022-10-16 15:45:00+00:00
+NO2,,"B.Katihalli, Hassan - KSPCB",39.63,2022-10-16 15:45:00+00:00
+CO,,"Shastripuram, Agra - UPPCB",970.0,2022-10-16 16:00:00+00:00
+O3,,"Bhelupur, Varanasi - UPPCB",0.0,2022-10-16 16:00:00+00:00
+O3,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",0.39,2022-10-31 02:00:00+00:00
+CO,,"Maldahiya, Varanasi - UPPCB",1140.0,2022-10-31 02:00:00+00:00
+SO2,,"Kamalnath Nagar, Bettiah - BSPCB",2.8,2022-10-16 15:45:00+00:00
+NO2,,"Kamalnath Nagar, Bettiah - BSPCB",17.3,2022-10-16 15:45:00+00:00
+SO2,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",70.4,2022-10-16 15:45:00+00:00
+O3,,"Dada Peer, Sasaram - BSPCB",25.6,2022-10-31 01:45:00+00:00
+PM2.5,,"SDM Office_Khagra, Kishanganj - BSPCB",73.0,2022-10-31 01:45:00+00:00
+O3,,"Buddhi Vihar, Moradabad - UPPCB",19.95,2022-10-16 16:00:00+00:00
+SO2,,"Sardar Patel Inter College, Baghpat - UPPCB",19.4,2022-10-31 02:00:00+00:00
+O3,,"DRCC Anandpur, Begusarai - BSPCB",24.0,2022-10-31 01:45:00+00:00
+NO2,,"Vibhab Nagar, Firozabad - UPPCB",59.55,2022-10-31 02:00:00+00:00
+PM10,,"ECIL Kapra, Hyderabad - TSPCB",40.95,2022-10-16 14:15:00+00:00
+CO,,"Kumaran College, Tirupur - TNPCB",1010.0,2022-10-16 15:45:00+00:00
+O3,,"Vasanthapuram, Vellore - TNPCB",1.58,2022-10-31 01:45:00+00:00
+PM2.5,,"Mendonsa Colony, Dindigul - TNPCB",9.0,2022-10-16 16:00:00+00:00
+CO,,"Mendonsa Colony, Dindigul - TNPCB",400.0,2022-10-16 16:00:00+00:00
+O3,,"Sona College of Technology, Salem - TNPCB",1.0,2022-10-03 12:30:00+00:00
+PM2.5,,"PSG College of Arts and Science, Coimbatore - TNPCB",14.0,2022-10-05 13:00:00+00:00
+SO2,,"Ramteerth Nagar, Belgaum - KSPCB",27.89,2022-10-31 01:45:00+00:00
+NO2,,"Major Dhyan Chand National Stadium, Delhi - DPCC",46.4,2022-10-31 00:45:00+00:00
+CO,,"Urban Estate-II, Hisar - HSPCB",1100.0,2022-10-31 01:45:00+00:00
+PM10,,"Arya Nagar, Bahadurgarh - HSPCB",343.6,2022-10-31 01:30:00+00:00
+SO2,,"Hardev Nagar, Bathinda - PPCB",34.48,2022-10-31 01:45:00+00:00
+PM10,,"Hardev Nagar, Bathinda - PPCB",108.74,2022-10-31 01:45:00+00:00
+NO2,,"Phase-4 GIDC, Vatva - GPCB",32.58,2022-10-31 02:00:00+00:00
+PM2.5,,"Phase-4 GIDC, Vatva - GPCB",52.61,2022-10-31 02:00:00+00:00
+NO2,,"Jadavpur, Kolkata - WBPCB",12.8,2022-10-31 02:00:00+00:00
+SO2,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",7.9,2022-10-31 02:00:00+00:00
+PM10,,"Chikkaballapur Rural, Chikkaballapur - KSPCB",155.0,2022-10-31 02:00:00+00:00
+SO2,,"Jawaharlal Nehru Stadium, Delhi - DPCC",12.4,2022-10-31 00:45:00+00:00
+CO,,"Udyogamandal, Eloor - Kerala PCB",580.0,2022-10-31 01:45:00+00:00
+NO2,,"Sion, Mumbai - MPCB",84.9,2022-10-31 01:45:00+00:00
+O3,,"Yamunapuram, Bulandshahr - UPPCB",1.7,2022-10-31 01:00:00+00:00
+SO2,,"Vile Parle West, Mumbai - MPCB",0.0,2022-10-31 01:45:00+00:00
+CO,,"SFTI Kusdihra, Gaya - BSPCB",840.0,2022-10-16 15:30:00+00:00
+NO2,,"SFTI Kusdihra, Gaya - BSPCB",13.83,2022-10-16 15:30:00+00:00
+SO2,,"DRM Office Danapur, Patna - BSPCB",5.17,2022-10-16 16:00:00+00:00
+NO2,,"ICRISAT Patancheru, Hyderabad - TSPCB",5.7,2020-04-28 09:45:00+00:00
+O3,,"Ibrahimpur, Vijayapura - KSPCB",11.17,2022-10-16 16:00:00+00:00
+NO2,,"Delhi Technological University, Delhi - CPCB",40.3,2018-02-22 04:00:00+00:00
+CO,,"R K Puram, Delhi - DPCC",4300.0,2018-02-21 20:45:00+00:00
+CO,,"Anand Vihar, Delhi - DPCC",1300.0,2016-03-21 14:45:00+00:00
+O3,,Alandur Bus Depot,6.82,2018-02-22 03:45:00+00:00
+PM2.5,,"Peenya, Bengaluru - KSPCB",43.79,2018-02-22 02:45:00+00:00
+PM2.5,,"BTM Layout, Bengaluru - KSPCB",45.62,2018-02-22 03:00:00+00:00
+O3,,"Haldia, Haldia - WBPCB",14.96,2022-10-31 02:00:00+00:00
+SO2,,Victoria Memorial - WBSPCB,5.09,2017-10-18 03:15:00+00:00
+PM2.5,,"Shadipur, Delhi - CPCB",219.4,2018-02-22 02:45:00+00:00
+PM10,,"Manali, Chennai - CPCB",12.07,2022-10-16 15:00:00+00:00
+SO2,,Ardhali Bazar,20.7,2018-02-22 03:00:00+00:00
+CO,,IGSC Planetarium Complex - Patna - BSPCB,1120.0,2018-02-22 03:45:00+00:00
+NO2,,"Anand Vihar, Delhi - DPCC",29.7,2022-10-31 00:30:00+00:00
+PM10,,"Burari Crossing, Delhi - IMD",0.0,2022-08-03 11:00:00+00:00
+CO,,"Civil Line, Jalandhar - PPCB",720.0,2022-10-31 02:00:00+00:00
+O3,,"Gangapur Road, Nashik - MPCB",0.29,2022-10-31 02:00:00+00:00
+O3,,"Sector-2 Industrial Area, Pithampur - MPPCB",23.5,2022-10-31 02:00:00+00:00
+SO2,,"Sector-2 Industrial Area, Pithampur - MPPCB",14.1,2022-10-31 02:00:00+00:00
+O3,,"Peenya, Bengaluru - CPCB",22.69,2022-10-31 01:45:00+00:00
+CO,,"ITO, Delhi - CPCB",1450.0,2020-01-20 07:15:00+00:00
+O3,,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",1.4,2022-10-31 01:45:00+00:00
+PM10,,"Suryakiran Bhawan NCL, Singrauli - MPPCB",180.0,2022-10-16 16:00:00+00:00
+NO2,,"NSIT Dwarka, Delhi - CPCB",32.47,2022-10-31 02:00:00+00:00
+NO2,,"RIMT University, Mandi Gobindgarh - PPCB",20.15,2022-10-31 02:00:00+00:00
+O3,,"Sector-D Industrial Area, Mandideep - MPPCB",14.1,2022-10-31 02:00:00+00:00
+PM10,,"Adarsh Nagar, Jaipur - RSPCB",164.8,2022-10-31 02:00:00+00:00
+PM10,,"Indira Colony Vistar, Pali - RSPCB",53.9,2022-10-31 01:45:00+00:00
+SO2,,"Mandir Marg, New Delhi - DPCC",18.0,2018-05-10 07:30:00+00:00
+PM2.5,,"IGSC Planetarium Complex, Patna - BSPCB",184.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Jawaharlal Nehru Stadium, Delhi - DPCC",152.0,2018-05-12 06:30:00+00:00
+O3,,"Jahangirpuri, Delhi - DPCC",64.2,2018-05-12 04:30:00+00:00
+PM10,,"Punjabi Bagh, Delhi - DPCC",219.0,2022-10-16 14:15:00+00:00
+O3,,"IHBAS, Dilshad Garden, Delhi - CPCB",1.5,2022-10-31 01:45:00+00:00
+PM10,,"Ratanpura, Rupnagar - Ambuja Cements",61.86,2022-10-31 01:45:00+00:00
+PM10,,"Indirapuram, Ghaziabad - UPPCB",286.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Gole Bazar, Katni - MPPCB",63.0,2022-10-16 16:00:00+00:00
+CO,,"Civil Lines,  Ajmer - RSPCB",670.0,2022-10-31 01:45:00+00:00
+SO2,,"Industrial Area, Hajipur - BSPCB",0.0,2022-10-16 16:00:00+00:00
+PM10,,"Manali Village, Chennai - TNPCB",26.87,2022-10-31 02:00:00+00:00
+NO2,,"Buddha Colony, Muzaffarpur - BSPCB",48.84,2022-10-16 15:30:00+00:00
+O3,,"Sector-51, Gurugram - HSPCB",36.33,2022-10-16 16:00:00+00:00
+O3,,"Rohini, Delhi - DPCC",3.0,2022-10-31 00:45:00+00:00
+PM2.5,,"Lumpyngngad, Shillong - Meghalaya PCB",23.0,2022-10-16 16:00:00+00:00
+SO2,,"Chhoti Gwaltoli, Indore - MPPCB",13.6,2022-10-16 16:00:00+00:00
+CO,,"Palayam, Kozhikode - Kerala PCB",970.0,2022-10-16 04:45:00+00:00
+O3,,"Palayam, Kozhikode - Kerala PCB",7.98,2022-10-16 04:45:00+00:00
+CO,,"Phool Bagh, Gwalior - Mondelez Ind. Food",670.0,2022-09-14 22:00:00+00:00
+CO,,"Stuart Hill, Madikeri - KSPCB",200.0,2022-10-16 16:00:00+00:00
+O3,,"Kunjaban, Agartala - Tripura SPCB",0.57,2022-10-16 16:00:00+00:00
+CO,,"Sector-19A Nerul, Navi Mumbai - IITM",2670.0,2022-10-16 16:00:00+00:00
+NO2,,"Revenue Colony-Shivajinagar, Pune - IITM",14.64,2022-07-07 07:15:00+00:00
+PM2.5,,"Kandivali East, Mumbai - MPCB",47.5,2022-10-16 15:45:00+00:00
+PM2.5,,"Kadri, Mangalore - KSPCB",20.07,2022-10-31 01:45:00+00:00
+CO,,"Devaraj Urs Badavane, Davanagere - KSPCB",350.0,2022-10-16 13:00:00+00:00
+O3,,"Rajbagh, Srinagar - JKSPCB",8.0,2022-10-16 16:00:00+00:00
+CO,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",2690.0,2022-10-16 16:00:00+00:00
+NO2,,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",1.68,2022-10-31 02:00:00+00:00
+CO,,"Shahjahan Garden, Agra - UPPCB",1080.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Dada Peer, Sasaram - BSPCB",79.0,2022-10-31 01:45:00+00:00
+CO,,"Central Jail, Buxar - BSPCB",4570.0,2022-10-31 01:45:00+00:00
+O3,,"Chitragupta Nagar, Siwan - BSPCB",25.4,2022-10-31 01:45:00+00:00
+PM2.5,,"Chitragupta Nagar, Siwan - BSPCB",361.0,2022-10-31 01:45:00+00:00
+NO2,,"New DM Office, Arrah - BSPCB",117.2,2022-10-31 01:45:00+00:00
+O3,,"Eco Herbal Park, Moradabad - UPPCB",4.6,2022-10-31 02:00:00+00:00
+PM2.5,,"Eco Herbal Park, Moradabad - UPPCB",48.0,2022-10-31 02:00:00+00:00
+PM10,,"Raikhad, Ahmedabad - IITM",89.2,2022-07-07 08:45:00+00:00
+O3,,"ECIL Kapra, Hyderabad - TSPCB",5.08,2022-10-16 14:15:00+00:00
+NO2,,"Kompally Municipal Office, Hyderabad - TSPCB",5.29,2022-10-31 02:00:00+00:00
+PM10,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29.25,2022-10-31 02:00:00+00:00
+PM2.5,,"Gulzarpet, Anantapur - APPCB",86.11,2022-10-31 01:45:00+00:00
+UM003,,Dhopagachi,33930.103841145836,2025-01-13 23:00:00+00:00
+PM2.5,,"Aya Nagar, Delhi - IMD",31.91,2022-10-16 13:45:00+00:00
+PM10,,"Ashok Nagar, Udaipur - RSPCB",81.88,2022-10-31 01:45:00+00:00
+CO,,"Sector-2 Industrial Area, Pithampur - MPPCB",1050.0,2022-10-31 02:00:00+00:00
+SO2,,"Chandrapur, Chandrapur - MPCB",7.1,2022-10-31 02:00:00+00:00
+O3,,"ITO, Delhi - CPCB",28.7,2020-01-20 07:15:00+00:00
+PM10,,"Maninagar, Ahmedabad - GPCB",0.0,2022-10-31 01:45:00+00:00
+NO2,,"Police Commissionerate, Jaipur - RSPCB",124.57,2022-10-31 01:45:00+00:00
+CO,,"More Chowk Waluj, Aurangabad - MPCB",1000.0,2022-10-31 01:45:00+00:00
+O3,,"Ward-32 Bapupara, Siliguri - WBPCB",24.91,2022-10-31 01:45:00+00:00
+NO2,,"IGSC Planetarium Complex, Patna - BSPCB",72.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Central School, Lucknow - CPCB",111.9,2022-10-31 01:45:00+00:00
+NO2,,"Nehru Nagar, Kanpur - UPPCB",100.7,2022-02-06 10:45:00+00:00
+SO2,,"Vasundhara, Ghaziabad - UPPCB",50.4,2022-10-31 02:00:00+00:00
+PM2.5,,"Rohini, Delhi - DPCC",110.0,2018-05-12 06:30:00+00:00
+NO2,,"Sonia Vihar, Delhi - DPCC",6.2,2018-05-11 11:45:00+00:00
+NO2,,"Jahangirpuri, Delhi - DPCC",111.2,2018-05-12 04:30:00+00:00
+PM2.5,,"Punjabi Bagh, Delhi - DPCC",68.0,2022-10-16 14:15:00+00:00
+O3,,"Indirapuram, Ghaziabad - UPPCB",5.45,2022-10-31 02:00:00+00:00
+NO2,,"Patparganj, Delhi - DPCC",89.7,2022-10-31 00:45:00+00:00
+CO,,"Huda Sector, Fatehabad - HSPCB",490.0,2022-10-16 15:45:00+00:00
+PM10,,"Huda Sector, Fatehabad - HSPCB",198.3,2022-10-16 15:45:00+00:00
+PM10,,"Nathu Colony, Ballabgarh - HSPCB",300.2,2022-10-31 01:45:00+00:00
+PM10,,"Jai Bhim Nagar, Meerut - UPPCB",236.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Vile Parle West, Mumbai - MPCB",56.6,2022-10-31 01:45:00+00:00
+SO2,,"Shyam Nagar, Palwal - HSPCB",8.09,2020-01-01 09:15:00+00:00
+SO2,,"Gole Bazar, Katni - MPPCB",11.5,2020-01-07 09:15:00+00:00
+PM10,,"Pallavpuram Phase 2, Meerut - UPPCB",267.0,2022-10-16 16:00:00+00:00
+PM10,,"Okhla Phase-2, Delhi - DPCC",403.0,2022-10-31 00:45:00+00:00
+PM10,,"Mandir Marg, Delhi - DPCC",208.0,2018-02-21 21:15:00+00:00
+PM10,,Chandrapur,179.0,2018-02-22 04:00:00+00:00
+CO,,IIT,850.0,2018-02-22 03:45:00+00:00
+CO,,Ardhali Bazar,1620.0,2018-02-22 03:00:00+00:00
+SO2,,"Sanathnagar, Hyderabad - TSPCB",8.4,2018-02-22 03:00:00+00:00
+PM10,,"Civil Line, Jalandhar - PPCB",102.82,2022-10-31 02:00:00+00:00
+PM2.5,,"MD University, Rohtak - HSPCB",120.32,2020-01-01 11:00:00+00:00
+SO2,,"Wazirpur, Delhi - DPCC",7.5,2022-10-31 00:45:00+00:00
+O3,,"Vyttila, Kochi - Kerala PCB",1.6,2022-10-16 16:00:00+00:00
+PM2.5,,"Najafgarh, Delhi - DPCC",204.0,2022-10-31 00:45:00+00:00
+NO2,,"Hebbal 1st Stage, Mysuru - KSPCB",15.93,2022-10-31 02:00:00+00:00
+NO2,,"Industrial Area, Hajipur - BSPCB",71.45,2022-10-16 16:00:00+00:00
+SO2,,"Buddha Colony, Muzaffarpur - BSPCB",4.52,2022-10-16 15:30:00+00:00
+CO,,"Sector-51, Gurugram - HSPCB",2270.0,2022-10-16 16:00:00+00:00
+NO2,,"Rabindra Sarobar, Kolkata - WBPCB",42.0,2022-10-31 01:45:00+00:00
+NO2,,"Rishi Nagar, Kaithal - HSPCB",11.17,2022-10-31 02:00:00+00:00
+SO2,,"Murthal, Sonipat - HSPCB",15.8,2022-10-16 16:00:00+00:00
+CO,,"Vijay Nagar, Ramanagara - KSPCB",980.0,2022-10-31 02:00:00+00:00
+SO2,,"Marhatal, Jabalpur - MPPCB",0.2,2022-10-16 16:00:00+00:00
+O3,,"Royapuram, Chennai - TNPCB",11.56,2022-10-16 16:00:00+00:00
+NO2,,"Kunjaban, Agartala - Tripura SPCB",16.95,2022-10-16 16:00:00+00:00
+CO,,"Bandra Kurla Complex, Mumbai - IITM",4230.0,2022-10-16 15:45:00+00:00
+O3,,"Lodhi Road, Delhi - IITM",10.0,2022-08-02 09:30:00+00:00
+NO2,,"Malad West, Mumbai - IITM",1.96,2022-10-16 15:45:00+00:00
+PM2.5,,"Khindipada-Bhandup West, Mumbai - IITM",5.21,2022-09-22 05:30:00+00:00
+O3,,"Alandi, Pune - IITM",14.0,2022-07-21 04:45:00+00:00
+SO2,,"Pan Bazaar, Guwahati - PCBA",26.36,2022-10-16 16:00:00+00:00
+CO,,"Kadri, Mangalore - KSPCB",590.0,2022-10-31 01:45:00+00:00
+PM10,,"Jawahar Nagar, Puducherry - PPCC",15.0,2022-10-16 16:00:00+00:00
+PM10,,"Jhunsi, Prayagraj - UPPCB",145.5,2022-10-16 16:00:00+00:00
+PM2.5,,"Motilal Nehru NIT, Prayagraj - UPPCB",107.6,2022-10-31 02:00:00+00:00
+SO2,,"Rakhial, Ahmedabad - IITM",6.07,2022-07-13 06:30:00+00:00
+PM2.5,,"Gyaspur, Ahmedabad - IITM",27.1,2022-07-07 08:45:00+00:00
+SO2,,"GIFT City, Gandhinagar - IITM",4.72,2022-07-07 09:00:00+00:00
+SO2,,"Bhelupur, Varanasi - UPPCB",22.78,2022-10-16 16:00:00+00:00
+PM2.5,,"Maldahiya, Varanasi - UPPCB",98.12,2022-10-31 02:00:00+00:00
+CO,,"Omex Eternity, Vrindavan - UPPCB",1940.0,2022-10-31 02:00:00+00:00
+NO2,,"Shahjahan Garden, Agra - UPPCB",62.47,2022-10-31 02:00:00+00:00
+O3,,"Employment Office, Moradabad - UPPCB",2.24,2022-10-31 02:00:00+00:00
+NO2,,"Dada Peer, Sasaram - BSPCB",64.3,2022-10-31 01:45:00+00:00
+PM2.5,,"Civic Center, Bhilai - Bhilai Steel Plant",0.0,2022-10-12 18:15:00+00:00
+PM2.5,,"Central Jail, Buxar - BSPCB",39.0,2022-10-31 01:45:00+00:00
+CO,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",1190.0,2022-10-31 01:45:00+00:00
+CO,,"Kareemganj, Gaya - BSPCB",2970.0,2022-10-31 01:45:00+00:00
+PM10,,"Chitragupta Nagar, Siwan - BSPCB",470.0,2022-10-31 01:45:00+00:00
+NO2,,"Kharahiya Basti, Araria - BSPCB",16.8,2022-10-31 01:45:00+00:00
+PM2.5,,"Rohta, Agra - UPPCB",100.62,2022-10-31 02:00:00+00:00
+NO2,,"Sector-53, Chandigarh - CPCC",15.1,2022-10-31 01:45:00+00:00
+CO,,"Raikhad, Ahmedabad - IITM",0.0,2022-07-07 08:45:00+00:00
+CO,,"Ashwini Nagar, Haveri - KSPCB",650.0,2022-10-16 16:00:00+00:00
+NO2,,"Ashwini Nagar, Haveri - KSPCB",7.33,2022-10-16 16:00:00+00:00
+CO,,"Manipur University, Imphal - Manipur PCB",140.0,2022-10-15 09:45:00+00:00
+CO,,"Doon University, Dehradun - UKPCB",0.0,2022-10-16 15:45:00+00:00
+PM2.5,,"ECIL Kapra, Hyderabad - TSPCB",21.93,2022-10-16 14:15:00+00:00
+PM2.5,,"Kompally Municipal Office, Hyderabad - TSPCB",23.49,2022-10-31 02:00:00+00:00
+PM10,,"Somajiguda, Hyderabad - TSPCB",26.55,2022-10-16 16:00:00+00:00
+CO,,"Transport Nagar, Moradabad - UPPCB",1350.0,2022-10-31 02:00:00+00:00
+SO2,,"PSG College of Arts and Science, Coimbatore - TNPCB",26.11,2022-10-13 16:45:00+00:00
+CO,,"Paryavaran Parisar, Bhopal - MPPCB",560.0,2022-10-31 01:45:00+00:00
+PM10,,Dhopagachi,277.72250111897785,2025-01-13 23:00:00+00:00
+NO2,,"City Railway Station, Bengaluru - KSPCB",23.37,2022-10-31 01:45:00+00:00
+CO,,"Gangapur Road, Nashik - MPCB",790.0,2022-10-31 02:00:00+00:00
+SO2,,"Gangapur Road, Nashik - MPCB",5.1,2022-10-31 02:00:00+00:00
+PM2.5,,"Secretariat, Amaravati - APPCB",57.0,2022-10-31 02:00:00+00:00
+CO,,"Asansol Court Area, Asansol - WBPCB",860.0,2022-10-31 01:45:00+00:00
+NO2,,"Asansol Court Area, Asansol - WBPCB",37.33,2022-10-31 00:45:00+00:00
+PM2.5,,"RIMT University, Mandi Gobindgarh - PPCB",59.77,2022-10-31 02:00:00+00:00
+PM10,,"R K Puram, New Delhi - DPCC",296.0,2018-05-12 04:45:00+00:00
+SO2,,"More Chowk Waluj, Aurangabad - MPCB",13.07,2022-10-31 01:45:00+00:00
+NO2,,"More Chowk Waluj, Aurangabad - MPCB",22.36,2022-10-31 01:45:00+00:00
+CO,,"Lalbagh, Lucknow - CPCB",100.0,2022-10-31 01:45:00+00:00
+NO2,,"Lalbagh, Lucknow - CPCB",56.71,2022-10-31 01:45:00+00:00
+PM10,,"Karve Road, Pune - MPCB",1700.0,2022-10-10 11:15:00+00:00
+SO2,,"PWD Grounds, Vijayawada - APPCB",8.91,2020-11-19 08:15:00+00:00
+NO2,,"NISE Gwal Pahari, Gurugram - IMD",13.54,2018-11-16 04:00:00+00:00
+CO,,"Indirapuram, Ghaziabad - UPPCB",1190.0,2022-10-31 02:00:00+00:00
+O3,,"Vasai West, Mumbai - MPCB",35.57,2022-10-31 02:00:00+00:00
+O3,,"Vivek Vihar, Delhi - DPCC",9.0,2022-10-31 00:45:00+00:00
+CO,,"Railway Colony, Guwahati - APCB",660.0,2019-12-24 07:30:00+00:00
+NO2,,"Belur Math, Howrah - WBPCB",0.0,2022-10-31 01:45:00+00:00
+CO,,"F-Block, Sirsa - HSPCB",1040.0,2022-10-31 02:00:00+00:00
+PM10,,"F-Block, Sirsa - HSPCB",211.1,2022-10-31 02:00:00+00:00
+NO2,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",20.49,2020-01-02 23:30:00+00:00
+PM2.5,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",36.67,2020-01-02 23:30:00+00:00
+O3,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",1.38,2020-01-02 23:30:00+00:00
+PM2.5,,"Powai, Mumbai - MPCB",28.0,2022-10-16 13:15:00+00:00
+PM2.5,,"Sion, Mumbai - MPCB",56.7,2022-10-31 01:45:00+00:00
+CO,,"Bapuji Nagar, Bengaluru - KSPCB",1.47,2022-10-31 02:00:00+00:00
+NO2,,"Silk Board, Bengaluru - KSPCB",22.6,2022-10-31 02:00:00+00:00
+SO2,,"Loni, Ghaziabad - UPPCB",4.1,2022-10-31 02:00:00+00:00
+PM10,,"Hebbal 1st Stage, Mysuru - KSPCB",42.91,2020-01-03 11:15:00+00:00
+PM2.5,,"Corporation Ground, Thrissur - Kerala PCB",9.84,2022-10-16 15:30:00+00:00
+SO2,,"Ibrahimpur, Vijayapura - KSPCB",5.18,2022-10-16 16:00:00+00:00
+O3,,"Kariavattom, Thiruvananthapuram - Kerala PCB",26.56,2022-10-16 15:45:00+00:00
+NO2,,"Mandir Marg, Delhi - DPCC",63.1,2018-02-21 20:45:00+00:00
+CO,,"Mandir Marg, Delhi - DPCC",7500.0,2018-02-21 16:45:00+00:00
+CO,,Collectorate - Gaya - BSPCB,680.0,2018-02-22 03:00:00+00:00
+SO2,,"BTM Layout, Bengaluru - KSPCB",4.49,2018-02-22 03:00:00+00:00
+CO,,Victoria Memorial - WBSPCB,2130.0,2017-10-18 03:15:00+00:00
+PM2.5,,"Sector16A, Faridabad - HSPCB",232.0,2018-02-22 03:25:00+00:00
+CO,,SaneguravaHalli - KSPCB,330.0,2018-02-21 23:45:00+00:00
+O3,,Ardhali Bazar,8.23,2018-02-22 03:00:00+00:00
+CO,,"BTM Layout, Bengaluru - CPCB",400.0,2022-10-16 16:00:00+00:00
+O3,,"Okhla Phase-2, Delhi - DPCC",6.7,2022-10-31 00:45:00+00:00
+PM2.5,,"Bawana, Delhi - DPCC",296.0,2022-10-31 00:45:00+00:00
+PM2.5,India,Chennai,18.0,2025-01-31 09:30:00+00:00
+PM10,,"Anand Vihar, Delhi - DPCC",30.0,2021-09-20 07:45:00+00:00
+SO2,,"Najafgarh, Delhi - DPCC",0.9,2022-10-31 00:45:00+00:00
+PM10,,"ITO, Delhi - CPCB",235.0,2022-10-31 01:45:00+00:00
+PM10,,"Civil Lines,  Ajmer - RSPCB",102.9,2022-10-31 01:45:00+00:00
+SO2,,"Rajbansi Nagar, Patna - BSPCB",27.29,2022-10-16 15:45:00+00:00
+NO2,,"Ratanpura, Rupnagar - Ambuja Cements",6.7,2021-11-23 11:45:00+00:00
+PM10,,"Mini Secretariat, Charkhi Dadri - HSPCB",187.1,2022-10-16 16:00:00+00:00
+SO2,,"Rohini, Delhi - DPCC",0.5,2022-10-31 00:45:00+00:00
+SO2,,"Palayam, Kozhikode - Kerala PCB",5.77,2022-10-16 04:45:00+00:00
+PM2.5,,"Railway Colony, Guwahati - PCBA",37.0,2022-10-31 01:45:00+00:00
+PM2.5,,"Phool Bagh, Gwalior - Mondelez Ind. Food",4.54,2022-09-14 22:00:00+00:00
+PM2.5,,"NISE Gwal Pahari, Gurugram - IMD",69.78,2022-10-14 16:15:00+00:00
+O3,,"Meelavittan, Thoothukudi - TNPCB",3.84,2022-10-16 16:00:00+00:00
+PM10,,"Deonar, Mumbai - IITM",156.78,2022-10-16 15:45:00+00:00
+CO,,"Panchal Nagar, Gadag - KSPCB",420.0,2022-10-15 09:30:00+00:00
+O3,,"Manoharpur, Agra - UPPCB",0.0,2022-10-31 02:00:00+00:00
+SO2,,"IIPHG Lekawada, Gandhinagar - IITM",10.16,2022-07-22 12:00:00+00:00
+PM10,,"NSI Kalyanpur, Kanpur - UPPCB",178.29,2022-10-31 02:00:00+00:00
+PM10,,"Nagla Bhau, Firozabad - UPPCB",71.2,2022-10-31 02:00:00+00:00
+NO2,,"Gandak Colony, Motihari - BSPCB",32.2,2022-10-16 15:45:00+00:00
+PM2.5,,"D M Colony, Bihar Sharif - BSPCB",101.0,2022-10-31 01:45:00+00:00
+CO,,"D M Colony, Bihar Sharif - BSPCB",1470.0,2022-10-31 01:45:00+00:00
+CO,,"Town Hall, Munger - BSPCB",240.0,2022-10-31 01:45:00+00:00
+O3,,"Mayaganj, Bhagalpur - BSPCB",9.4,2022-10-31 01:45:00+00:00
+NO2,,"Darshan Nagar, Chhapra - BSPCB",30.7,2022-10-31 01:45:00+00:00
+O3,,"New DM Office, Arrah - BSPCB",165.7,2022-10-31 01:45:00+00:00
+PM10,,"Kharahiya Basti, Araria - BSPCB",207.0,2022-10-30 23:15:00+00:00
+NO2,,"Rohta, Agra - UPPCB",1.6,2022-10-31 02:00:00+00:00
+PM2.5,,"Zero Point GICI, Gangtok - SSPCB",4.52,2022-10-31 01:45:00+00:00
+O3,,"Manipur University, Imphal - Manipur PCB",9.5,2022-10-15 09:45:00+00:00
+CO,,"Kokapet, Hyderabad - TSPCB",730.0,2022-10-31 02:00:00+00:00
+SO2,,"Kumaran College, Tirupur - TNPCB",15.14,2022-10-16 15:45:00+00:00
+PM2.5,,"Civil Lines, Bareilly - UPPCB",40.95,2022-10-31 02:00:00+00:00
+PM10,,"Crescent University, Chengalpattu - TNPCB",116.0,2022-10-14 04:30:00+00:00
+NO2,,"Crescent University, Chengalpattu - TNPCB",38.13,2022-10-14 04:30:00+00:00
+O3,,"IITG, Guwahati - PCBA",6.88,2022-10-16 12:15:00+00:00
+PM10,,"Girls College, Sivasagar - PCBA",33.99,2022-10-31 02:00:00+00:00
+CO,,"City Railway Station, Bengaluru - KSPCB",1420.0,2022-10-31 01:45:00+00:00
+NO2,,"Moti Doongri, Alwar - RSPCB",32.34,2022-10-31 02:00:00+00:00
+O3,,"Collectorate, Jodhpur - RSPCB",9.96,2022-10-31 01:45:00+00:00
+O3,,"Indira Colony Vistar, Pali - RSPCB",13.7,2022-10-31 01:45:00+00:00
+PM10,,"More Chowk Waluj, Aurangabad - MPCB",116.69,2022-10-31 01:45:00+00:00
+NO2,,"Central School, Lucknow - CPCB",59.34,2022-10-31 01:45:00+00:00
+SO2,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",29.0,2018-05-09 11:00:00+00:00
+SO2,,"Vivek Vihar, Delhi - DPCC",7.2,2018-05-10 09:00:00+00:00
+SO2,,"Jawaharlal Nehru Stadium, Delhi - DPCC",17.6,2018-05-10 09:30:00+00:00
+PM2.5,,"Sonia Vihar, Delhi - DPCC",151.0,2018-05-12 05:00:00+00:00
+SO2,,"Jahangirpuri, Delhi - DPCC",34.4,2018-05-12 04:30:00+00:00
+SO2,,"Punjabi Bagh, Delhi - DPCC",21.7,2022-10-16 14:15:00+00:00
+PM2.5,,"Indirapuram, Ghaziabad - UPPCB",170.0,2022-10-31 02:00:00+00:00
+CO,,"Colaba, Mumbai - MPCB",1340.0,2022-10-31 01:45:00+00:00
+NO2,,"Colaba, Mumbai - MPCB",58.79,2022-10-31 01:45:00+00:00
+NO2,,"Urban Estate-II, Hisar - HSPCB",37.27,2022-10-31 01:45:00+00:00
+CO,,"Sector-10, Gandhinagar - GPCB",390.0,2022-10-31 01:45:00+00:00
+CO,,"Hardev Nagar, Bathinda - PPCB",950.0,2022-10-31 01:45:00+00:00
+O3,,"Phase-4 GIDC, Vatva - GPCB",1.78,2022-10-31 02:00:00+00:00
+PM10,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",-12.0,2020-01-02 23:15:00+00:00
+PM2.5,,"Worli, Mumbai - MPCB",66.0,2022-10-31 02:00:00+00:00
+PM2.5,,"Patparganj, Delhi - DPCC",256.0,2022-10-31 00:45:00+00:00
+PM10,,"Udyogamandal, Eloor - Kerala PCB",63.99,2022-10-31 01:45:00+00:00
+NO2,,"Huda Sector, Fatehabad - HSPCB",23.73,2022-10-16 15:45:00+00:00
+PM10,,"Rishi Nagar, Kaithal - HSPCB",52.67,2019-08-07 05:45:00+00:00
+PM10,,"Silk Board, Bengaluru - KSPCB",134.0,2022-10-31 02:00:00+00:00
+O3,,"Silk Board, Bengaluru - KSPCB",25.22,2022-10-31 02:00:00+00:00
+SO2,,"Knowledge Park - III, Greater Noida - UPPCB",4.6,2022-10-31 02:00:00+00:00
+O3,,"Hebbal, Bengaluru - KSPCB",17.07,2022-10-31 02:00:00+00:00
+SO2,,"MD University, Rohtak - HSPCB",8.06,2022-10-31 01:45:00+00:00
+PM2.5,,"SFTI Kusdihra, Gaya - BSPCB",20.38,2022-10-16 15:30:00+00:00
+PM2.5,,"ICRISAT Patancheru, Hyderabad - TSPCB",17.0,2020-04-28 09:45:00+00:00
+PM2.5,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",54.0,2022-10-31 01:00:00+00:00
+CO,,"Ibrahimpur, Vijayapura - KSPCB",390.0,2022-10-16 16:00:00+00:00
+NO2,,"Jahangirpuri, Delhi - DPCC",82.5,2022-10-31 00:45:00+00:00
+SO2,,"Okhla Phase-2, Delhi - DPCC",5.2,2022-10-31 00:45:00+00:00
+PM2.5,,"Vikas Sadan, Gurugram - HSPCB",152.9,2022-10-31 02:00:00+00:00
+O3,,"MD University, Rohtak - HSPCB",30.87,2018-02-22 03:45:00+00:00
+PM10,,SaneguravaHalli - KSPCB,64.75,2018-02-21 23:45:00+00:00
+SO2,,IGSC Planetarium Complex - Patna - BSPCB,11.9,2018-02-22 03:45:00+00:00
+PM2.5,,"Solapur, Solapur - MPCB",69.0,2022-10-31 02:00:00+00:00
+CO,,"Birla Staff colony, Satna - MPPCB",80000.0,2018-03-14 03:30:00+00:00
