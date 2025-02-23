@@ -17,4 +17,5 @@ list2 = ['a', 'b', 'c']
 tuple1 = (True, False)
 map1 = {'a':1,'b':2}
 
-print(list(custom_zip(list1,list2,tuple1,map1)))
+print(list(custom_zip(list1,list2,tuple1,map1,strict=True)))
+print(list(zip(list1,list2,tuple1,map1.items())))
