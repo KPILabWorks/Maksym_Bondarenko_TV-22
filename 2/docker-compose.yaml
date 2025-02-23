@@ -4,3 +4,5 @@ services:
     volumes:
       - ./openaq.json:/app/openaq.json
       - ./results:/app/results
+    stdin_open: true
+    tty: true
