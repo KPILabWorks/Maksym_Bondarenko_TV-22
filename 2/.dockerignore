@@ -3,3 +3,4 @@ Readme.md
 Dockerfile
 docker-compose.yaml
 .dockerignore
+results
